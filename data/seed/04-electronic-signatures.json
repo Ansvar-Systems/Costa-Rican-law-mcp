@@ -1,0 +1,121 @@
+{
+  "id": "cr-ley8454",
+  "type": "statute",
+  "title": "Ley de Certificados, Firmas Digitales y Documentos Electrónicos",
+  "title_en": "Law on Digital Certificates, Signatures, and Electronic Documents — Law 8454",
+  "short_name": "Ley 8454",
+  "status": "in_force",
+  "issued_date": "2005-08-22",
+  "in_force_date": "2006-08-22",
+  "url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=54136",
+  "description": "Law 8454 establishes the legal framework for digital certificates, digital signatures, and electronic documents in Costa Rica. The law grants legal validity to electronic documents and digital signatures, establishes the certification infrastructure (Infrastructure de Certificación Digital, ICD), and creates the role of the Central Certifier (MICITT) as the root of trust for Costa Rica's public key infrastructure. The law has been fundamental in enabling e-government services and electronic commerce in Costa Rica.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1. Objeto y ámbito de aplicación",
+      "content": "La presente ley tiene por objeto otorgar y regular la eficacia y la utilización de los documentos electrónicos, las firmas digitales, las firmas digitales certificadas, los certificados digitales, los certificadores registrados y los procedimientos de certificación digital. Las disposiciones de la presente ley serán aplicables a los documentos electrónicos utilizados en el ámbito de las relaciones entre particulares y entre estos y el Estado, siempre y cuando las partes acuerden su uso. No estarán sujetos a las disposiciones de la presente ley los actos o negocios jurídicos del derecho de familia y sucesiones, los actos que deban otorgarse en escritura pública ante notario y los que por su naturaleza o disposición especial requieran la concurrencia de solemnidades distintas a las contempladas en esta ley."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2. Definiciones",
+      "content": "Para los efectos de la presente ley se entiende por: a) Documento electrónico: cualquier manifestación con carácter representativo o declarativo, expresada o transmitida por un medio electrónico o informático. b) Firma digital: conjunto de datos adjunto o lógicamente asociado a un documento electrónico, que permite verificar la integridad del documento y la identidad del firmante. c) Firma digital certificada: aquella firma digital amparada en un certificado digital vigente, expedido por un certificador registrado ante la autoridad competente. d) Certificado digital: estructura de datos creada y firmada digitalmente por un certificador, que contiene la clave pública de un suscriptor y permite verificar la identidad del suscriptor. e) Certificador registrado: persona física o jurídica que ha sido registrada ante la autoridad competente para prestar servicios de certificación digital. f) Infraestructura de Clave Pública (ICD): conjunto de hardware, software, personas, políticas y procedimientos necesarios para crear, gestionar, almacenar, distribuir y revocar certificados digitales basados en criptografía de clave pública."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3. Valor probatorio del documento electrónico",
+      "content": "Los documentos electrónicos tendrán el mismo valor jurídico que los documentos en soporte físico y, en consecuencia, tendrán valor probatorio similar a los documentos consignados en papel cuando cumplan los siguientes requisitos: a) La información en ellos contenida sea accesible para su ulterior consulta; b) Se pueda determinar la fecha y hora de su generación; c) Cuando sea exigida la firma, esta se haga mediante firma digital certificada de conformidad con lo dispuesto en esta ley. Los documentos electrónicos no podrán ser rechazados como prueba por el único motivo de haber sido expresados en forma electrónica. Los poderes públicos promoverán el uso de documentos electrónicos en el ámbito de sus actuaciones y en sus relaciones con los administrados."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4. Valor jurídico de la firma digital",
+      "content": "La firma digital que cumpla todos los requisitos y condiciones establecidos en la presente ley y su reglamento tendrá, respecto a los datos consignados en forma electrónica, el mismo valor jurídico que la firma autógrafa en relación con los consignados en papel. La firma digital certificada se presumirá: a) Que fue puesta por el titular del certificado correspondiente; b) Que el titular tenía intención de suscribir el documento; c) Que el documento no fue alterado después de su firma. Estas presunciones admiten prueba en contrario. La negativa del titular a reconocer la firma hecha con su clave privada solo podrá fundarse en el extravío, el hurto, el robo o la utilización indebida de los datos de creación de firma o del dispositivo que los contiene."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5. Certificador raíz y certificadores registrados",
+      "content": "El Ministerio de Ciencia, Tecnología y Telecomunicaciones (MICITT) actuará como Certificador Raíz de Costa Rica, con la función de firmar los certificados de los certificadores registrados y establecer las políticas y estándares que deberán cumplir los certificadores registrados. Los certificadores registrados son aquellas personas físicas o jurídicas que han sido registradas ante el MICITT para prestar servicios de certificación digital de acuerdo con las políticas y estándares establecidos por el Certificador Raíz. Los certificadores registrados deberán: a) Operar con sujeción a las políticas del Certificador Raíz; b) Mantener la infraestructura y los sistemas de seguridad requeridos por las políticas del Certificador Raíz; c) Verificar de forma fehaciente la identidad de los solicitantes de certificados; d) Publicar y mantener actualizada la lista de certificados revocados; e) Garantizar la disponibilidad y continuidad del servicio de certificación."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6. Obligaciones de los suscriptores",
+      "content": "Los titulares de certificados digitales deberán: a) Proporcionar información veraz, completa y actualizada en la solicitud de certificado; b) Mantener bajo su exclusivo control el dispositivo generador de firma y los datos de creación de firma correspondientes a los datos de verificación de firma que figuran en el certificado; c) Solicitar inmediatamente la revocación del certificado al certificador registrado cuando haya motivos para creer que la clave privada o el dispositivo que la contiene ha sido comprometido; d) No usar el par de claves ni el certificado para fines distintos de los previstos en el certificado; e) Informarse de las limitaciones de uso de los certificados que emita el certificador registrado. El suscriptor será responsable de las consecuencias que acarree la no observancia de las obligaciones establecidas en este artículo."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Artículo 7. Responsabilidad de los certificadores",
+      "content": "Los certificadores registrados serán responsables de: a) Los daños y perjuicios que causen a cualquier persona que haya confiado razonablemente en el certificado, cuando la información contenida en el certificado sea inexacta o no esté actualizada; b) El incumplimiento de sus obligaciones relativas a la revocación y suspensión de certificados; c) Las pérdidas o daños causados por el uso no autorizado de las claves privadas de los suscriptores cuando la falla en la seguridad sea imputable al certificador. Los certificadores podrán limitar su responsabilidad siempre que los límites figuren en el certificado de forma visible y clara, y que el perjudicado hubiera podido conocerlos al consultar el certificado. Los certificadores deberán contar con un seguro de responsabilidad civil o con otra garantía equivalente para responder ante los usuarios por las pérdidas derivadas del incumplimiento de sus obligaciones."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Artículo 8. Uso de firma digital en el sector público",
+      "content": "Los órganos y entes de la Administración Pública costarricense deberán aceptar la firma digital certificada como equivalente a la firma autógrafa en todos sus procedimientos y trámites, salvo en los casos expresamente excluidos por ley. La Administración Pública implementará progresivamente el uso de documentos electrónicos y de la firma digital en sus actuaciones internas y en sus relaciones con los administrados, de acuerdo con el plan de e-gobierno establecido por el MICITT. Las instituciones públicas que utilicen documentos electrónicos y firmas digitales deberán garantizar la autenticidad, integridad y disponibilidad de dichos documentos durante el período legalmente establecido para su conservación. MICITT emitirá lineamientos y estándares técnicos para la implementación de la firma digital en el sector público."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Artículo 9. Conservación de documentos electrónicos",
+      "content": "Cuando la ley exija la conservación de documentos, registros o informaciones, la exigencia quedará satisfecha mediante la conservación de los correspondientes documentos electrónicos, siempre que se cumplan los siguientes requisitos: a) La información contenida en los documentos electrónicos sea accesible para su ulterior consulta durante todo el período de conservación legalmente establecido; b) Los documentos electrónicos se conserven en el formato en que se generaron, enviaron o recibieron, o en algún formato que permita demostrar que reproduce con exactitud la información generada, enviada o recibida; c) Se conserve, en su caso, toda información que permita determinar el origen y el destino del documento, y la fecha y hora en que fue enviado o recibido. Las instituciones públicas y privadas que conserven documentos electrónicos deberán garantizar la autenticidad, integridad y legibilidad de dichos documentos durante todo el período de conservación."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Artículo 10. Comercio electrónico",
+      "content": "Los contratos celebrados por medios electrónicos producirán todos los efectos previstos por el ordenamiento jurídico costarricense cuando concurran el consentimiento y los demás requisitos necesarios para su validez. La oferta y la aceptación de contratos por vía electrónica deberán ser expresas e inequívocas. Se entenderá que el destinatario de la oferta ha consentido en el contrato cuando haya realizado la acción que se le señaló como aceptación en la oferta o, en ausencia de indicación expresa, cuando haya contestado afirmativamente por correo electrónico o cualquier otro medio electrónico equivalente. Los contratos electrónicos se regirán por lo dispuesto en la legislación civil y comercial aplicable a los contratos en general, con las especialidades que establezca la normativa específica sobre comercio electrónico."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Artículo 11. Notificación electrónica",
+      "content": "Las notificaciones efectuadas por medios electrónicos producirán efectos jurídicos plenos cuando el destinatario haya designado la dirección electrónica como domicilio electrónico para recibir notificaciones, o cuando haya aceptado expresamente la realización de notificaciones por medios electrónicos. Las notificaciones a través del Registro de Domicilio Electrónico de los órganos jurisdiccionales y de la Administración Pública se considerarán válidas y se tendrán por recibidas en el momento en que estén disponibles en el Sistema de Notificaciones electrónicas, con independencia de que el destinatario acceda o no a su casilla electrónica. El rechazo o la renuncia a las notificaciones electrónicas deberán constar expresamente. Las instituciones públicas facilitarán el acceso a los medios electrónicos necesarios para recibir notificaciones a quienes carezcan de ellos."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Artículo 12. Infracciones y sanciones",
+      "content": "Será sancionado con prisión de uno a tres años quien, sin estar debidamente autorizado, utilice certificados digitales o firmas digitales ajenas para suscribir documentos electrónicos o suplantar la identidad digital de otra persona. Será sancionado con multa de uno a cien salarios base del Oficinista I del Poder Judicial el certificador registrado que: a) Emita certificados sin verificar debidamente la identidad del solicitante; b) No mantenga actualizada la lista de certificados revocados; c) No cumpla con los estándares técnicos y de seguridad establecidos por el Certificador Raíz. El MICITT podrá cancelar el registro del certificador que incumpla reiteradamente las obligaciones establecidas en esta ley y en las políticas del Certificador Raíz. Contra las sanciones impuestas por el MICITT cabrá recurso de revocatoria y apelación."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Artículo 13. Reconocimiento mutuo con el extranjero",
+      "content": "Los certificados digitales y las firmas digitales emitidos en el extranjero tendrán validez en Costa Rica cuando cumplan con los requisitos establecidos en esta ley y su reglamento, o cuando exista un acuerdo de reconocimiento mutuo entre Costa Rica y el Estado emisor. El MICITT podrá reconocer, mediante resolución fundada, los certificados y firmas digitales de certificadores extranjeros que cumplan requisitos equivalentes a los establecidos en la legislación costarricense, sobre la base de la reciprocidad. Los contratos y documentos electrónicos internacionales suscritos con firmas digitales válidamente emitidas en el extranjero y reconocidas por el MICITT serán plenamente válidos y ejecutables en Costa Rica. El MICITT mantendrá una lista actualizada de los certificadores extranjeros reconocidos."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Artículo 14. Estándares técnicos y criptografía",
+      "content": "El MICITT establecerá, mediante reglamento, los estándares técnicos y criptográficos aplicables a los certificados digitales, las firmas digitales y los dispositivos de creación de firma, de conformidad con las mejores prácticas internacionales. Los algoritmos criptográficos aprobados para su uso en la infraestructura de clave pública de Costa Rica deberán garantizar un nivel de seguridad suficiente para el tipo de transacciones a que estén destinados, y deberán ser actualizados cuando su nivel de seguridad sea considerado insuficiente. El MICITT revisará periódicamente los estándares técnicos y criptográficos establecidos y los actualizará cuando sea necesario para mantener un nivel adecuado de seguridad. Los cambios en los estándares técnicos serán comunicados con suficiente antelación a los certificadores registrados y a los usuarios para que puedan adaptarse a los nuevos requisitos."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Artículo 15. Sello electrónico para personas jurídicas",
+      "content": "Las personas jurídicas, incluidas las entidades públicas, podrán utilizar sellos electrónicos para autenticar documentos electrónicos emitidos en el ejercicio de sus funciones. El sello electrónico de una persona jurídica garantizará el origen y la integridad del documento electrónico al que esté asociado. Los sellos electrónicos de personas jurídicas se basarán en certificados de sello electrónico emitidos por los certificadores registrados autorizados para este fin. Los documentos electrónicos sellados con sello electrónico válido de una persona jurídica se presumirán auténticos y no alterados, salvo prueba en contrario. El MICITT establecerá los requisitos técnicos y de seguridad para la emisión y el uso de sellos electrónicos de personas jurídicas, de conformidad con las mejores prácticas internacionales."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "firma digital certificada",
+      "definition": "Aquella firma digital amparada en un certificado digital vigente, expedido por un certificador registrado ante la autoridad competente, que permite verificar la integridad del documento y la identidad del firmante.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "certificador registrado",
+      "definition": "Persona física o jurídica que ha sido registrada ante el MICITT para prestar servicios de certificación digital de acuerdo con las políticas y estándares establecidos por el Certificador Raíz.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Certificador Raíz",
+      "definition": "El Ministerio de Ciencia, Tecnología y Telecomunicaciones (MICITT) en su función de entidad que firma los certificados de los certificadores registrados y establece las políticas y estándares de la infraestructura de clave pública de Costa Rica.",
+      "source_provision": "art5"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "id": "cr-ley8968",
+  "type": "statute",
+  "title": "Ley de Protección de la Persona Frente al Tratamiento de sus Datos Personales",
+  "title_en": "Law for the Protection of Persons Regarding the Processing of Their Personal Data",
+  "short_name": "Ley 8968",
+  "status": "in_force",
+  "issued_date": "2011-07-05",
+  "in_force_date": "2011-09-05",
+  "url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=70975",
+  "description": "Ley 8968 is Costa Rica's primary data protection legislation, establishing the right of individuals to control the processing of their personal data and regulating the activities of both public and private entities that collect and process such data. The law creates the Prodhab (Agencia de Protección de Datos de los Habitantes) as the independent regulatory body and establishes a comprehensive rights framework including access, rectification, cancellation, and opposition rights. The law applies to automated and non-automated processing of personal data.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1. Objeto de la ley",
+      "content": "La presente Ley tiene como objetivo garantizar a cualquier persona, independientemente de su nacionalidad, residencia o domicilio, el respeto a sus derechos fundamentales, concretamente su derecho a la autodeterminación informativa en relación con su vida o actividad privada y demás derechos de la personalidad, así como la defensa de su libertad e igualdad con independencia de la nacionalidad o el domicilio de quien trate sus datos. Se reconoce la autodeterminación informativa como el derecho fundamental de toda persona a conocer cuántos y cuáles datos personales suyos se tratan en ficheros, bases de datos, soportes y cualquier otro tipo de registros, y cuál es el uso que se le da a esta información, así como la posibilidad de oponerse a ese tratamiento cuando lo estime oportuno. Esta ley aplica tanto a las bases de datos de carácter público como a las de carácter privado."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2. Definiciones",
+      "content": "Para los efectos de esta ley se entiende por: a) Dato personal: cualquier pieza de información que permita la identificación de una persona física determinada o determinable. Se considerará identificable toda persona cuya identidad pueda determinarse, directa o indirectamente, en particular mediante referencia a un número de identificación, a uno o varios elementos específicos de su identidad física, fisiológica, psíquica, económica, cultural o social. b) Datos sensibles: aquellos que conciernen a la esfera más íntima de su titular, cuyo tratamiento inadecuado puede generar discriminación o conllevar un riesgo grave para este. Entre los que se consideran sensibles se encuentran los que revelen el origen racial o étnico, las opiniones políticas, las convicciones religiosas o filosóficas, la afiliación sindical, datos relativos a la salud o a la vida sexual, así como los relativos a la genética. c) Fichero: todo conjunto organizado de datos personales, cualquiera que fuera la forma o modalidad de su creación, almacenamiento, organización y acceso. d) Tratamiento: cualquier operación o conjunto de operaciones realizadas mediante procedimientos automatizados o no, aplicadas a datos personales."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3. Principios del tratamiento",
+      "content": "Los datos personales serán tratados conforme a los principios de: a) Licitud: los datos deberán tratarse de forma lícita y conforme a los preceptos de esta ley; b) Lealtad: los datos deberán ser recogidos con fines determinados, explícitos y legítimos, y no ser tratados posteriormente de manera incompatible con dichos fines; c) Proporcionalidad: los datos tratados deberán ser adecuados, pertinentes y no excesivos en relación con el ámbito y las finalidades para las que se hubieran obtenido; d) Calidad: los datos deberán ser exactos y, si fuera necesario, actualizados; se adoptarán todas las medidas razonables para que los datos inexactos o incompletos sean suprimidos o rectificados; e) Responsabilidad: el responsable del fichero o base de datos responderá ante el titular por el correcto manejo de sus datos personales de conformidad con las disposiciones de la presente ley. Los anteriores principios deberán ser observados tanto en los ficheros de titularidad pública como en los de titularidad privada."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4. Consentimiento del titular",
+      "content": "El tratamiento de datos personales requerirá el consentimiento libre, informado e inequívoco del titular. El consentimiento podrá ser revocado sin efecto retroactivo, sin que ello implique para el titular obstáculos de ningún tipo. El consentimiento no será válido cuando: a) No haya sido informado el titular sobre el derecho que le asiste de negarlo o revocarlo; b) Recaiga sobre datos sensibles; c) Haya sido obtenido bajo error, dolo, violencia o intimidación. No obstante lo anterior, el tratamiento de datos personales no requerirá del consentimiento del titular cuando: a) Derive de una relación contractual, científica o profesional del titular, y sea necesario para el desarrollo o el cumplimiento de esta; b) Sea necesario para la salvaguardia de un interés vital del interesado; c) Sea necesario para el cumplimiento de una misión de interés público o en el ejercicio de potestades públicas."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5. Derechos del titular",
+      "content": "Toda persona, en relación con los datos concernientes a sí misma, tendrá los derechos de: a) Acceso: derecho a obtener información sobre sus datos que estén incluidos en ficheros; b) Rectificación: derecho a que se modifiquen los datos inexactos o falsos; c) Supresión: derecho a que se supriman los datos cuyo tratamiento no se ajusta a la ley, por ser innecesarios o excesivos para la finalidad para la cual fueron recabados; d) Oposición: derecho a que no se lleve a cabo el tratamiento de sus datos en aquellos casos en que no sea indispensable para el cumplimiento de una obligación legal exigible al responsable del fichero, o cuando hubiera otorgado su consentimiento para una finalidad concreta y no se utilizará para dicha finalidad. Para el ejercicio de los derechos indicados, el titular podrá acudir directamente al responsable del fichero o base de datos, quien deberá atender la solicitud en el plazo de cinco días hábiles."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6. Datos sensibles",
+      "content": "Los datos considerados como sensibles solo podrán ser objeto de tratamiento cuando: a) El titular hubiera dado su consentimiento expreso y por escrito a su tratamiento con alguna de las finalidades que constan en el registro; b) El tratamiento fuera necesario para la prevención o para el diagnóstico médico, la prestación de asistencia sanitaria o tratamientos médicos o la gestión de servicios sanitarios, siempre que dicho tratamiento de datos se realice por un profesional sanitario sujeto al secreto profesional o por otra persona sujeta asimismo a una obligación equivalente de secreto; c) El tratamiento fuera necesario para salvaguardar el interés vital del afectado o de otra persona, en el supuesto de que el afectado esté física o jurídicamente incapacitado para dar su consentimiento. Queda prohibida la creación de ficheros cuya finalidad sea el almacenamiento de datos de carácter sensible. Los datos de salud, genéticos, biométricos, judiciales y los relacionados con la vida sexual recibirán especial protección."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Artículo 7. Agencia de Protección de Datos de los Habitantes",
+      "content": "Se crea la Agencia de Protección de Datos de los Habitantes (Prodhab), como órgano de desconcentración máxima adscrito al Ministerio de Justicia y Paz, con personería jurídica instrumental propia, para el ejercicio de las atribuciones que la presente ley le confiere. La Agencia Prodhab tendrá las siguientes atribuciones: a) Divulgar el contenido y los alcances de la ley; b) Mantener el Registro de Bases de Datos al que estarán obligados a inscribirse los entes públicos y privados que tengan bases de datos con información personal; c) Apercibir, amonestar y multar a los responsables y encargados de ficheros, bases de datos o registros que incumplan las disposiciones de la presente ley; d) Disponer el bloqueo de las bases de datos en los casos estipulados en la ley; e) Solicitar a la autoridad competente la cancelación de las bases de datos cuando proceda según esta ley. La Agencia Prodhab estará dirigida por un Director, quien será nombrado por el Ministerio de Justicia y Paz mediante concurso de antecedentes."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Artículo 8. Registro de bases de datos",
+      "content": "Toda persona física o jurídica, pública o privada, que cree, modifique o suprima ficheros, bases de datos, registros o archivos que contengan datos personales deberá notificarlo a la Agencia Prodhab. La notificación se realizará previamente a la creación, modificación o supresión del fichero. Los ficheros de titularidad pública serán objeto de una disposición general publicada en el Diario Oficial La Gaceta, que indicará: a) La finalidad del fichero y los usos previstos para él; b) Las personas o colectivos sobre los que se pretenda obtener datos de carácter personal o que estén obligados a suministrarlos; c) El procedimiento de recogida de los datos de carácter personal; d) La estructura básica del fichero y la descripción de los tipos de datos de carácter personal incluidos en el mismo; e) Las cesiones de datos de carácter personal y las transferencias internacionales de datos previstas."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Artículo 9. Transferencia internacional de datos",
+      "content": "Solo se podrán realizar transferencias de datos de carácter personal a otros países si el país de destino cuenta con un nivel de protección equiparable al que presta la presente ley. Se exceptúan los casos en que medie el consentimiento del titular o en que la transferencia se encuentre justificada por alguna de las siguientes circunstancias: a) Sea consecuencia de la aplicación de tratados o convenios internacionales de los que sea parte Costa Rica; b) Sea necesaria para la prevención o para el diagnóstico médico, la prestación de asistencia sanitaria, el tratamiento médico o la gestión de servicios sanitarios; c) Se refiera a transferencias dinerarias conforme a su legislación específica; d) Sea necesaria para la celebración o ejecución de un contrato celebrado, en interés del interesado, entre el responsable del fichero y un tercero. La Agencia Prodhab podrá establecer qué países cuentan con un nivel de protección adecuado, mediante resolución razonada que deberá publicarse en el Diario Oficial."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Artículo 10. Seguridad de los datos",
+      "content": "El responsable del fichero y, en su caso, el encargado del tratamiento deberán adoptar las medidas de índole técnica y organizativas necesarias que garanticen la seguridad de los datos de carácter personal y eviten su alteración, pérdida, tratamiento o acceso no autorizado, habida cuenta del estado de la tecnología, la naturaleza de los datos almacenados y los riesgos a que están expuestos, ya provengan de la acción humana o del medio físico o natural. No se registrarán datos de carácter personal en ficheros que no reúnan las condiciones que se determinen por vía reglamentaria con respecto a su integridad y seguridad y a las de los centros de tratamiento, locales, equipos, sistemas y programas. Reglamentariamente, se establecerán los requisitos y condiciones que deban reunir los ficheros y las personas que intervengan en el tratamiento de los datos a que se refiere el artículo 6 de esta ley."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Artículo 11. Deber de secreto",
+      "content": "El responsable del fichero y quienes intervengan en cualquier fase del tratamiento de los datos de carácter personal están obligados al secreto profesional respecto de los mismos y al deber de guardarlos. Estas obligaciones subsistirán aun después de finalizar sus relaciones con el titular del fichero o, en su caso, con el responsable del mismo. El responsable del fichero velará por el cumplimiento de la obligación establecida en el párrafo anterior en relación con todas las personas que tuvieren acceso a dichos datos, incluyendo sus empleados y contratistas. Quienes, por razón de sus funciones o del servicio que prestan, tengan acceso a datos de carácter personal o a bases de datos personales, con independencia de que les sean revelados en el ejercicio del cargo o en razón de tal prestación de servicios, están sujetos al deber de secreto aun después de que haya cesado su función o la prestación de tales servicios."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Artículo 12. Infracciones y sanciones",
+      "content": "Las infracciones a esta ley serán calificadas por la Agencia Prodhab como leves, graves o muy graves, según los criterios establecidos en el reglamento. Las infracciones leves serán sancionadas con amonestación o multa de uno a cinco salarios base. Las infracciones graves serán sancionadas con multa de cinco a cien salarios base. Las infracciones muy graves serán sancionadas con multa de cien a trescientos salarios base y podrán dar lugar al cierre del fichero o base de datos. Para la graduación de las sanciones se atenderá a: a) El grado de intencionalidad; b) Los daños o perjuicios causados al interesado; c) La reincidencia del responsable del fichero; d) El número de afectados. Las multas impuestas por la Agencia Prodhab se recaudarán mediante el procedimiento administrativo de cobro. Contra las resoluciones que impongan sanciones cabrá recurso de revocatoria y apelación ante el Ministerio de Justicia y Paz."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Artículo 13. Habeas data",
+      "content": "Toda persona tiene derecho al recurso de hábeas data para tutelar su poder de control sobre las informaciones que le conciernan contenidas en registros o bancos de datos personales, ya sea de entidades públicas o de carácter privado. Dicho recurso podrá interponerse para: a) Actualizar datos atrasados; b) Rectificar información inexacta; c) Asegurar la confidencialidad de cierta información legalmente obtenida, pero cuya divulgación sea inadmisible; d) Cancelar datos de uso discriminatorio. El recurso de hábeas data será tramitado en forma de amparo ante la Sala Constitucional de la Corte Suprema de Justicia. La Sala Constitucional conocerá del recurso con carácter preferente y urgente, y su resolución tendrá efecto inmediato. Igualmente, podrán interponerse las acciones civiles o penales correspondientes ante los tribunales ordinarios por las afectaciones a los derechos reconocidos en esta ley."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Artículo 14. Datos de acceso público",
+      "content": "Serán considerados de acceso público, y podrán ser tratados sin necesidad de consentimiento previo del titular, los datos contenidos en: a) Listas censales; b) Registros o anuarios de colegios o asociaciones profesionales; c) Registros públicos; d) Medios de comunicación de acceso general; e) Guías de servicios de comunicaciones electrónicas. El tratamiento de estos datos deberá ajustarse a los criterios establecidos en la presente ley, y en particular al principio de finalidad. Los datos de acceso público no podrán utilizarse para finalidades incompatibles con aquellas para las que fueron publicados. El tratamiento con fines comerciales de datos de acceso público requerirá el consentimiento del titular, salvo que la ley expresamente lo autorice."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Artículo 15. Datos relativos a menores de edad",
+      "content": "Queda prohibida la recogida de datos personales de menores de edad mediante engaño sobre su verdadera identidad. Cuando los servicios de la sociedad de la información vayan dirigidos a menores de edad o cuando el responsable del tratamiento tenga conocimiento de que el titular es menor de edad, el consentimiento habrá de ser otorgado por el padre, madre o representante legal del menor. Quienes traten datos de menores de edad deberán informar a estos en un lenguaje comprensible, acorde a su edad y madurez, de los aspectos del tratamiento que puedan afectar al ejercicio de sus derechos. Los responsables de los ficheros que contengan datos de menores deberán adoptar medidas técnicas y organizativas reforzadas para garantizar la seguridad de dichos datos. Queda expresamente prohibida la elaboración de perfiles de menores de edad, así como el uso de sus datos con fines de publicidad comportamental."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Artículo 16. Evaluación de impacto",
+      "content": "Antes de proceder al tratamiento de datos personales que por su naturaleza, alcance, contexto o fines presente un riesgo elevado para los derechos y libertades de las personas físicas, el responsable del tratamiento realizará, previamente al tratamiento, una evaluación del impacto de las operaciones de tratamiento previstas en la protección de datos personales. La evaluación de impacto será especialmente exigible en los siguientes supuestos: a) Evaluación sistemática y exhaustiva de aspectos personales de personas físicas; b) Tratamiento a gran escala de datos sensibles; c) Observación sistemática a gran escala de una zona de acceso público. La evaluación de impacto incluirá, al menos: una descripción sistemática de las operaciones de tratamiento previstas, una evaluación de la necesidad y proporcionalidad de las operaciones de tratamiento, una evaluación de los riesgos para los derechos y libertades de los interesados, y las medidas previstas para afrontar los riesgos."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "dato personal",
+      "definition": "Cualquier pieza de información que permita la identificación de una persona física determinada o determinable, incluyendo identificadores directos e indirectos.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "datos sensibles",
+      "definition": "Aquellos datos que conciernen a la esfera más íntima del titular, incluyendo datos que revelen el origen racial o étnico, opiniones políticas, convicciones religiosas, afiliación sindical, datos relativos a la salud o a la vida sexual, así como los relativos a la genética.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "tratamiento",
+      "definition": "Cualquier operación o conjunto de operaciones realizadas mediante procedimientos automatizados o no, aplicadas a datos personales, incluyendo recogida, registro, organización, conservación, adaptación, modificación, extracción, consulta, comunicación y supresión.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Prodhab",
+      "definition": "Agencia de Protección de Datos de los Habitantes, órgano de desconcentración máxima adscrito al Ministerio de Justicia y Paz, responsable de la aplicación y supervisión de la presente ley.",
+      "source_provision": "art7"
+    }
+  ]
+}

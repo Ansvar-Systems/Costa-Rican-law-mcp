@@ -1,0 +1,103 @@
+{
+  "id": "cr-ecommerce",
+  "type": "statute",
+  "title": "Marco Jurídico del Comercio Electrónico en Costa Rica",
+  "title_en": "Legal Framework for Electronic Commerce in Costa Rica",
+  "short_name": "CR-ECommerce",
+  "status": "in_force",
+  "issued_date": "2013-05-15",
+  "in_force_date": "2013-07-01",
+  "url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=48679",
+  "description": "Costa Rica's electronic commerce legal framework is established through a combination of existing civil and commercial legislation, the Electronic Signatures Law (8454), the Personal Data Protection Law (8968), and specific executive decrees. This composite document captures the principal norms applicable to electronic commerce transactions in Costa Rica, including formation of online contracts, consumer protection in digital transactions, electronic payments, and cross-border digital trade.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1. Formación de contratos electrónicos",
+      "content": "Los contratos celebrados por medios electrónicos son válidos y vinculantes cuando concurran los elementos esenciales exigidos por el ordenamiento jurídico costarricense para la validez de los contratos: capacidad de las partes, consentimiento libre de vicios, objeto lícito y causa lícita. La oferta de bienes y servicios realizada por medios electrónicos se considera una oferta contractual vinculante cuando incluya todos los elementos esenciales del negocio que se propone. La aceptación de una oferta electrónica produce todos los efectos del contrato desde el momento en que el oferente recibe la confirmación de aceptación. Los proveedores de servicios de la sociedad de la información deberán informar a los consumidores, antes de la celebración del contrato, sobre el proceso de celebración del contrato electrónico, si el contrato quedará archivado, los medios técnicos para identificar y corregir errores antes de formalizar el pedido, y el idioma en que puede formalizarse el contrato."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2. Protección al consumidor en transacciones electrónicas",
+      "content": "Los consumidores que realicen transacciones electrónicas gozarán de las mismas protecciones que los consumidores en transacciones presenciales, de conformidad con la Ley 7472 de Promoción de la Competencia y Defensa Efectiva del Consumidor, con las siguientes disposiciones adicionales: a) Derecho a recibir, antes de la compra, información clara sobre el precio total incluyendo impuestos, gastos de envío y cualquier otro cargo adicional; b) Derecho a obtener confirmación del pedido en soporte duradero; c) Derecho de desistimiento de la compra en un plazo de diez días hábiles desde la recepción del bien o la contratación del servicio, sin necesidad de alegar causa y sin penalización; d) Protección contra el uso no autorizado de tarjetas de crédito o débito en transacciones electrónicas; e) Prohibición de prácticas de interfaz oscura (dark patterns) diseñadas para inducir a error al consumidor o dificultar el ejercicio de sus derechos."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3. Pagos electrónicos",
+      "content": "Los sistemas de pago electrónico en Costa Rica deberán cumplir con los estándares de seguridad establecidos por el Banco Central de Costa Rica (BCCR) y la SUGEF para las entidades que los operen. Los operadores de sistemas de pago electrónico estarán obligados a: a) Proteger los datos de pago de los usuarios mediante cifrado y tecnologías de tokenización; b) Implementar mecanismos de autenticación reforzada para transacciones de alto riesgo; c) Notificar de inmediato al usuario y al Banco Central cualquier transacción sospechosa o no autorizada; d) Garantizar la reversión de cargos no autorizados en los plazos establecidos por la normativa del BCCR. El BCCR regulará la interoperabilidad de los sistemas de pago electrónico, promoviendo la competencia y la inclusión financiera digital. La plataforma SINPE del BCCR actuará como infraestructura central para la liquidación de pagos electrónicos interbancarios."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4. Facturación electrónica",
+      "content": "El Ministerio de Hacienda establecerá un sistema de facturación electrónica obligatorio para los contribuyentes sujetos al Impuesto sobre la Renta y al Impuesto al Valor Agregado. Los comprobantes electrónicos emitidos conforme al sistema establecido por el Ministerio de Hacienda tendrán el mismo valor legal que los comprobantes en papel para todos los efectos fiscales y contables. Las características mínimas del sistema de facturación electrónica incluirán: a) Asignación de una clave única por comprobante; b) Firma electrónica del emisor; c) Envío en tiempo real de los comprobantes al sistema del Ministerio de Hacienda para su validación; d) Posibilidad de verificación de autenticidad por parte del receptor. El Ministerio de Hacienda establecerá plazos diferenciados para la implementación obligatoria de la facturación electrónica según el tipo y tamaño de los contribuyentes."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5. Comercio electrónico transfronterizo",
+      "content": "Las transacciones de comercio electrónico transfronterizo realizadas por consumidores costarricenses con proveedores en el exterior se regirán por: a) La ley de protección al consumidor costarricense, cuando el proveedor dirija su actividad comercial al mercado costarricense; b) Los tratados comerciales internacionales de los que Costa Rica sea parte, en particular el CAFTA-DR en sus disposiciones sobre comercio electrónico; c) Los principios del derecho internacional privado para determinar la ley aplicable y la jurisdicción competente en caso de controversia. El Estado costarricense adoptará las medidas necesarias para garantizar que los consumidores costarricenses que realicen compras en línea a proveedores del exterior cuenten con mecanismos efectivos de resolución de disputas y de recuperación de pagos en caso de fraude o incumplimiento."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6. Publicidad digital",
+      "content": "La publicidad realizada por medios electrónicos deberá cumplir con los mismos requisitos de veracidad, claridad y no engaño exigidos para la publicidad en otros medios, de conformidad con la Ley 7472. Adicionalmente, la publicidad digital deberá: a) Identificarse claramente como publicidad, diferenciándose del contenido editorial o informativo; b) No utilizar técnicas de publicidad subliminal o engañosa; c) Cumplir con los requisitos de la Ley 8968 de protección de datos en el uso de datos personales para fines publicitarios; d) No dirigirse específicamente a menores de edad para publicitar productos o servicios inapropiados para ellos. El uso de técnicas de publicidad comportamental basada en el seguimiento de usuarios en internet requerirá del consentimiento previo e informado del usuario, de conformidad con la Ley 8968."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Artículo 7. Plataformas de intermediación digital",
+      "content": "Los operadores de plataformas de intermediación digital que conecten a consumidores con proveedores de bienes y servicios estarán obligados a: a) Informar claramente si los vendedores son personas físicas o jurídicas y si actúan como comerciantes o como particulares; b) Facilitar a los usuarios mecanismos accesibles para presentar reclamaciones tanto contra los vendedores como contra la propia plataforma; c) No eliminar reseñas o calificaciones de usuarios de manera discriminatoria o para favorecer a determinados vendedores; d) Proteger a los vendedores que operan en la plataforma contra prácticas discriminatorias o arbitrarias de la plataforma, proporcionando razones para cualquier restricción o terminación del acceso; e) Cooperar con las autoridades competentes en la identificación de vendedores que operen actividades ilícitas en la plataforma."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Artículo 8. Economía colaborativa",
+      "content": "Las plataformas de economía colaborativa (ridesharing, alquiler de alojamiento entre particulares, prestación de servicios entre particulares, y similares) que operen en Costa Rica deberán: a) Registrarse ante el MICITT como plataformas digitales activas en el territorio nacional; b) Cumplir con las obligaciones tributarias establecidas por el Ministerio de Hacienda para los ingresos generados en Costa Rica; c) Garantizar que los prestadores de servicios que operen en la plataforma cumplan con la normativa aplicable a la actividad económica que desarrollan; d) Proporcionar información sobre sus operaciones en Costa Rica a las autoridades competentes cuando sea requerida. El Gobierno de Costa Rica analizará la necesidad de desarrollar un marco regulatorio específico para la economía colaborativa, en consulta con los actores del sector y con atención a las mejores prácticas internacionales."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Artículo 9. Resolución alternativa de disputas en comercio electrónico",
+      "content": "Se fomentará el uso de mecanismos de resolución alternativa de disputas (RAD) en línea para la resolución de controversias surgidas de transacciones de comercio electrónico. El MEIC, en coordinación con el Ministerio de Justicia y Paz, promoverá el desarrollo de plataformas de mediación y arbitraje en línea accesibles, rápidas y de bajo costo para la resolución de disputas de consumo electrónico. Las disputas que involucren transacciones de comercio electrónico entre consumidores costarricenses y vendedores del exterior podrán someterse a los procedimientos de resolución de disputas en línea reconocidos internacionalmente. Las decisiones adoptadas mediante mecanismos de RAD serán ejecutables conforme a la legislación costarricense aplicable a los laudos arbitrales y a los acuerdos de mediación."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Artículo 10. Impuesto sobre transacciones digitales",
+      "content": "Los servicios digitales prestados por proveedores no domiciliados en Costa Rica a consumidores en el territorio nacional estarán sujetos al Impuesto al Valor Agregado (IVA) vigente en Costa Rica. Los proveedores de servicios digitales del exterior con ventas que superen el umbral establecido por el Ministerio de Hacienda deberán registrarse ante la Dirección General de Tributación para efectos del cobro y remisión del IVA correspondiente. Los servicios digitales sujetos a este impuesto incluyen, entre otros, servicios de streaming de audio, video y videojuegos, servicios de software en la nube (SaaS), servicios de almacenamiento en la nube, publicidad digital, y plataformas de intermediación digital. El Ministerio de Hacienda establecerá los mecanismos para el cobro simplificado del IVA a los proveedores de servicios digitales del exterior."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Artículo 11. Seguridad en el comercio electrónico",
+      "content": "Los comerciantes que operen plataformas de comercio electrónico deberán adoptar medidas de seguridad apropiadas para proteger las transacciones de sus clientes y los datos personales que recaben. Estas medidas incluirán, como mínimo: a) Uso de protocolos de cifrado TLS en sus sitios web y aplicaciones; b) Cumplimiento con el estándar de seguridad de datos de la industria de tarjetas de pago (PCI DSS) para el procesamiento de pagos con tarjeta; c) Implementación de medidas antifraude proporcionales al riesgo de sus transacciones; d) Políticas de privacidad claras y accesibles que informen a los clientes sobre el uso de sus datos. Los comerciantes electrónicos que sufran brechas de seguridad que afecten datos personales de sus clientes deberán notificar a los afectados y a la Agencia Prodhab en los plazos establecidos por la Ley 8968. El incumplimiento de las medidas de seguridad en el comercio electrónico podrá ser sancionado por el MEIC y la Agencia Prodhab."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Artículo 12. Competencia desleal en el entorno digital",
+      "content": "Constituyen actos de competencia desleal en el entorno digital, sujetos a las sanciones previstas en la Ley 7472, entre otros: a) El uso de prácticas de posicionamiento desleal en motores de búsqueda, incluyendo el uso de marcas ajenas como palabras clave para desviar tráfico de competidores; b) El scraping masivo y no autorizado de bases de datos, catálogos de productos o listas de precios de competidores; c) La compra de reseñas falsas o la generación de contenido engañoso sobre competidores; d) La clonación de sitios web o aplicaciones de competidores con el propósito de engañar a los consumidores; e) El uso de bots para interferir con las operaciones de comercio electrónico de competidores. La Comisión para la Promover la Competencia (COPROCOM) tendrá jurisdicción para investigar y sancionar las prácticas de competencia desleal en los mercados digitales, en coordinación con las demás autoridades competentes."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "comercio electrónico",
+      "definition": "Actividad de compraventa de bienes y servicios, así como la transmisión de fondos o datos a través de una red electrónica, principalmente internet, como mecanismo de contratación y transacción.",
+      "source_provision": "art1"
+    },
+    {
+      "term": "plataforma de intermediación digital",
+      "definition": "Servicio de la sociedad de la información que permite a consumidores y empresas conectarse entre sí para realizar transacciones comerciales, sin que el operador de la plataforma sea parte directa de la transacción.",
+      "source_provision": "art7"
+    },
+    {
+      "term": "derecho de desistimiento",
+      "definition": "Derecho del consumidor a resolver el contrato de compra electrónica dentro del plazo legal establecido, sin necesidad de alegar causa y sin penalización, excepto en los casos expresamente excluidos por ley.",
+      "source_provision": "art2"
+    }
+  ]
+}

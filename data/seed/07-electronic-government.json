@@ -1,0 +1,121 @@
+{
+  "id": "cr-decreto37549",
+  "type": "statute",
+  "title": "Decreto Ejecutivo 37549 — Reglamento para el Gobierno Digital",
+  "title_en": "Executive Decree 37549 — Regulation for Digital Government",
+  "short_name": "DE-37549",
+  "status": "in_force",
+  "issued_date": "2012-12-27",
+  "in_force_date": "2013-01-15",
+  "url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=74002",
+  "description": "Executive Decree 37549 establishes the regulatory framework for digital government in Costa Rica, defining the standards, principles, and responsibilities for the delivery of government services through electronic means. The decree creates the National Digital Government Commission (CEGOV) and mandates the use of open standards, interoperable architectures, and citizen-centered service design principles across all public institutions. It has been supplemented by subsequent decrees addressing specific areas such as open data and cloud computing.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1. Objeto",
+      "content": "El presente Reglamento tiene por objeto establecer el marco regulatorio para el desarrollo e implementación del Gobierno Digital en Costa Rica, entendido este como el uso intensivo de las Tecnologías de Información y Comunicación (TIC) por parte de las instituciones del Estado para mejorar la prestación de servicios a los ciudadanos y empresas, incrementar la eficiencia de los procesos gubernamentales, promover la transparencia y rendición de cuentas, y fomentar la participación ciudadana en la gestión pública. El Gobierno Digital se sustenta en una arquitectura tecnológica interoperable, segura y centrada en el ciudadano, que permite la colaboración entre instituciones y la integración de servicios gubernamentales."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2. Definiciones",
+      "content": "Para efectos de este Reglamento se entiende por: a) Gobierno Digital: el uso de las TIC por parte de las instituciones del Estado para mejorar la información y la prestación de servicios a los ciudadanos, las empresas y otros organismos gubernamentales; b) Interoperabilidad: la capacidad de los sistemas y las organizaciones de trabajar juntos para alcanzar metas mutuamente acordadas, que incluye el intercambio de información y conocimiento a través de los procesos de negocios que ellos soportan; c) Datos abiertos: información pública disponible para su uso, reutilización y redistribución por cualquier persona, sujeta a identificación de autoría; d) Plataforma Digital Gubernamental (PDG): conjunto de servicios compartidos, componentes técnicos, estándares e infraestructura tecnológica que las instituciones del Estado pueden utilizar para la prestación de servicios digitales; e) Identidad digital: representación digital de la identidad de una persona que permite su autenticación en servicios electrónicos."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3. Principios del Gobierno Digital",
+      "content": "El Gobierno Digital en Costa Rica se regirá por los siguientes principios: a) Centrado en el ciudadano: los servicios digitales se diseñarán y se mejorarán continuamente con base en las necesidades y preferencias de los ciudadanos y empresas; b) Digital por defecto: los servicios gubernamentales se ofrecerán preferentemente en formato digital, manteniendo canales presenciales para quienes los necesiten; c) Una sola vez: los ciudadanos solo deberán proporcionar su información a las instituciones públicas una vez, y las instituciones compartirán esa información entre sí; d) Inclusivo y accesible: los servicios digitales serán accesibles para todos los ciudadanos, incluyendo personas con discapacidad, adultos mayores y residentes en zonas rurales; e) Abierto y transparente: los datos del sector público serán abiertos por defecto, favoreciendo la transparencia y la rendición de cuentas; f) Seguro y confiable: los servicios digitales garantizarán la seguridad y privacidad de los ciudadanos."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4. Comisión Nacional de Gobierno Digital",
+      "content": "Se crea la Comisión de Gobierno Digital (CEGOV) como órgano interinstitucional de coordinación para el desarrollo del Gobierno Digital en Costa Rica. La CEGOV estará integrada por: a) El Ministro de Ciencia, Tecnología y Telecomunicaciones (MICITT), quien la presidirá; b) El Ministro de Planificación Nacional y Política Económica (MIDEPLAN); c) El Ministro de Hacienda; d) El Presidente del Banco Central de Costa Rica; e) Un representante de las instituciones autónomas, elegido por estas; f) Un representante del sector empresarial tecnológico; g) Un representante de la academia. La CEGOV tendrá las siguientes atribuciones: aprobar el Plan Nacional de Gobierno Digital; emitir directrices de obligatorio cumplimiento para las instituciones públicas en materia de Gobierno Digital; coordinar los proyectos de transformación digital interinstitucionales; y reportar a la Presidencia de la República sobre el avance del Gobierno Digital."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5. Estándares de interoperabilidad",
+      "content": "El MICITT publicará y mantendrá actualizado el Marco Nacional de Interoperabilidad, que establecerá los estándares técnicos, semánticos y organizacionales que las instituciones del Estado deberán adoptar para asegurar la interoperabilidad de sus sistemas de información. Las instituciones del Estado deberán: a) Adoptar los estándares técnicos publicados en el Marco Nacional de Interoperabilidad en todos sus nuevos desarrollos y adquisiciones tecnológicas; b) Publicar interfaces de programación de aplicaciones (APIs) que permitan la integración con otros sistemas gubernamentales; c) Participar en la Plataforma Digital Gubernamental compartiendo los datos que les corresponda, de acuerdo con la legislación aplicable; d) Implementar los estándares de metadatos establecidos para facilitar el intercambio e integración de datos entre instituciones."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6. Plataforma Digital Gubernamental",
+      "content": "El MICITT desarrollará y mantendrá la Plataforma Digital Gubernamental (PDG), que ofrecerá a las instituciones públicas los siguientes servicios compartidos: a) Identidad digital ciudadana: servicio de autenticación basado en la firma digital y la cédula de identidad digital; b) Notificaciones electrónicas: sistema central de envío de notificaciones de las instituciones públicas a los ciudadanos; c) Pagos electrónicos: plataforma unificada de pago de servicios e impuestos gubernamentales; d) Formularios electrónicos: herramienta para la creación y gestión de formularios digitales interoperables; e) Datos abiertos: repositorio central de conjuntos de datos públicos en formatos abiertos y reutilizables. Las instituciones del Estado deberán utilizar preferentemente los servicios de la Plataforma Digital Gubernamental antes de desarrollar soluciones propias equivalentes."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Artículo 7. Datos abiertos",
+      "content": "Las instituciones públicas publicarán sus datos en formato abierto, siguiendo las directrices del MICITT sobre estándares y formatos de datos abiertos. Se considerarán datos abiertos por defecto todos los datos en poder del Estado que no estén sujetos a restricciones legales de confidencialidad o seguridad. Las instituciones publicarán sus datos en el Portal de Datos Abiertos del Gobierno de Costa Rica, administrado por el MICITT, con los metadatos necesarios para facilitar su comprensión, búsqueda y reutilización. Los datos abiertos del Gobierno podrán ser utilizados libremente por cualquier persona para fines comerciales o no comerciales, sujeto únicamente a la atribución de la fuente. Las instituciones actualizarán sus conjuntos de datos con la frecuencia necesaria para mantener su vigencia y utilidad."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Artículo 8. Seguridad en los servicios digitales gubernamentales",
+      "content": "Las instituciones del Estado implementarán medidas de seguridad apropiadas en todos sus servicios digitales, de conformidad con los lineamientos técnicos emitidos por el MICITT y el CSIRT-CR. Las medidas de seguridad incluirán, como mínimo: a) Cifrado de las comunicaciones mediante protocolos de seguridad de la capa de transporte (TLS) en su versión más reciente; b) Autenticación robusta para los funcionarios con acceso a datos sensibles; c) Pruebas de seguridad previas al despliegue de servicios digitales en producción; d) Monitoreo continuo de la seguridad de los servicios digitales; e) Procedimientos de gestión de vulnerabilidades y parches de seguridad; f) Planes de continuidad de los servicios digitales críticos. El MICITT realizará auditorías periódicas de la seguridad de los servicios digitales gubernamentales y publicará los resultados de forma agregada."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Artículo 9. Accesibilidad digital",
+      "content": "Los sitios web, aplicaciones móviles y servicios digitales de las instituciones públicas deberán cumplir con las Pautas de Accesibilidad para el Contenido Web (WCAG) 2.1 en su nivel AA, o el estándar internacional equivalente más reciente. Las instituciones deberán realizar evaluaciones periódicas de accesibilidad de sus servicios digitales e implementar las mejoras necesarias para garantizar que todas las personas puedan utilizarlos, independientemente de su discapacidad o del dispositivo que utilicen. El MICITT ofrecerá capacitación y asistencia técnica a las instituciones para la implementación de los estándares de accesibilidad digital. Las instituciones mantendrán un canal de comunicación para que los ciudadanos puedan reportar problemas de accesibilidad en sus servicios digitales y deberán atender dichos reportes en un plazo máximo de treinta días."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Artículo 10. Inclusión digital",
+      "content": "El MICITT, en coordinación con el MEP y el Instituto Nacional de Aprendizaje (INA), implementará programas de inclusión digital orientados a: a) Reducir la brecha digital entre áreas urbanas y rurales, mediante la expansión del acceso a internet de banda ancha; b) Capacitar a los ciudadanos en el uso de servicios digitales gubernamentales, con especial atención a adultos mayores, personas con discapacidad y personas de bajo nivel educativo; c) Instalar y mantener puntos de acceso digital gratuito en comunidades sin acceso a internet; d) Facilitar el acceso de las pequeñas y medianas empresas a los beneficios del Gobierno Digital. Las instituciones públicas que ofrezcan servicios digitales garantizarán la disponibilidad de canales alternativos de atención presencial para los ciudadanos que no puedan acceder o utilizar los servicios digitales."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Artículo 11. Medición y evaluación del Gobierno Digital",
+      "content": "El MICITT evaluará periódicamente el avance del Gobierno Digital en Costa Rica, utilizando indicadores nacionales e internacionales reconocidos, incluyendo el Índice de Gobierno Electrónico de la ONU (UN E-Government Index). Las instituciones del Estado reportarán al MICITT, con la periodicidad que este establezca, información sobre el avance en la digitalización de sus servicios y trámites, el nivel de adopción de los servicios digitales por parte de los ciudadanos y el nivel de satisfacción de los usuarios. El MICITT publicará un informe anual de Gobierno Digital que presentará el estado de avance, los logros alcanzados, los principales obstáculos identificados y las prioridades para el período siguiente. Costa Rica participará activamente en los organismos internacionales que promuevan el intercambio de experiencias y mejores prácticas en Gobierno Digital."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Artículo 12. Nube gubernamental",
+      "content": "Las instituciones del Estado podrán utilizar servicios de computación en la nube para el alojamiento y procesamiento de sus sistemas de información y datos, sujeto a las siguientes condiciones: a) Los datos clasificados como secreto de Estado o de alta sensibilidad deberán alojarse en infraestructura gubernamental o en nubes privadas con control exclusivo del Estado; b) Los datos de carácter personal deberán alojarse en proveedores de nube que cumplan con los requisitos de la Ley 8968 de protección de datos personales; c) El proveedor de nube deberá ubicarse o disponer de un establecimiento en Costa Rica o en un país con nivel de protección de datos adecuado; d) Las instituciones mantendrán planes de migración y salida que garanticen la continuidad de los servicios en caso de cambio de proveedor. El MICITT emitirá una política de nube gubernamental con los requisitos de seguridad y protección de datos aplicables a cada categoría de datos."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Artículo 13. Software libre y código abierto",
+      "content": "Las instituciones del Estado darán preferencia al uso de software libre y de código abierto cuando las soluciones disponibles cumplan con sus requisitos funcionales, de seguridad y de soporte, y cuando el costo total de propiedad sea comparable al de las soluciones propietarias. Las soluciones de software desarrolladas con fondos públicos para uso del Estado costarricense deberán publicarse bajo licencias de software libre o de código abierto, salvo cuando razones de seguridad nacional lo impidan. Las instituciones públicas que adopten soluciones de software libre deberán garantizar el adecuado mantenimiento y soporte de dichas soluciones, ya sea mediante personal propio o mediante contratos con proveedores de servicios. El MICITT mantendrá un repositorio de soluciones de software libre y de código abierto recomendadas para su uso en el sector público costarricense."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Artículo 14. Transformación digital de los servicios de salud",
+      "content": "El Ministerio de Salud y la Caja Costarricense de Seguro Social (CCSS) implementarán la historia clínica digital interoperable, que permita a los profesionales de salud acceder a la información clínica del paciente de forma segura desde cualquier institución del sistema de salud nacional. La historia clínica digital se implementará con los más altos estándares de seguridad y privacidad, de conformidad con la Ley 8968 de protección de datos personales. Los ciudadanos podrán acceder a su historia clínica digital a través del portal de servicios de salud, y podrán autorizar el acceso a su información a profesionales de salud específicos. La interoperabilidad de los sistemas de información de salud se realizará mediante estándares internacionales reconocidos para el sector salud, como HL7 FHIR."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Artículo 15. Contrataciones de tecnología en el sector público",
+      "content": "Las instituciones del Estado observarán los principios de este Decreto en todas sus contrataciones de tecnología, asegurando que los productos y servicios adquiridos sean compatibles con los estándares de interoperabilidad, seguridad y accesibilidad establecidos por el MICITT. Las instituciones deberán incluir cláusulas de propiedad de los datos, portabilidad, reversibilidad y continuidad del servicio en todos sus contratos de tecnología, especialmente en los contratos de servicios en la nube. No se podrá adquirir ni renovar contratos de software o servicios tecnológicos que generen una dependencia exclusiva de un único proveedor (vendor lock-in) sin justificación razonada y aprobación de la CEGOV. El MICITT emitirá guías de buenas prácticas para la contratación de tecnología en el sector público, incluyendo modelos de cláusulas contractuales recomendadas."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Gobierno Digital",
+      "definition": "El uso de las TIC por parte de las instituciones del Estado para mejorar la información y la prestación de servicios a los ciudadanos, las empresas y otros organismos gubernamentales.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "interoperabilidad",
+      "definition": "La capacidad de los sistemas y las organizaciones de trabajar juntos para alcanzar metas mutuamente acordadas, que incluye el intercambio de información y conocimiento a través de los procesos de negocios que ellos soportan.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "datos abiertos",
+      "definition": "Información pública disponible para su uso, reutilización y redistribución por cualquier persona, sujeta únicamente a identificación de autoría, sin restricciones técnicas, legales o económicas.",
+      "source_provision": "art2"
+    }
+  ]
+}
