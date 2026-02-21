@@ -44,12 +44,12 @@ export function getAbout(db: InstanceType<typeof Database>, context: AboutContex
       eu_references: safeCount(db, 'SELECT COUNT(*) as count FROM eu_references'),
     },
     data_source: {
-      name: 'Official Legal Database',
-      authority: 'Government (State Chancellery of Costa Rican)',
+      name: 'Sistema Costarricense de Información Jurídica (SCIJ)',
+      authority: 'Procuraduría General de la República (PGR)',
       url: 'https://www.pgrweb.go.cr',
-      license: 'Creative Commons Attribution 4.0 International (CC BY 4.0)',
-      jurisdiction: 'EE',
-      languages: ['en'],
+      license: 'Government terms of use (official legal publication portal)',
+      jurisdiction: 'CR',
+      languages: ['es'],
     },
   };
 }

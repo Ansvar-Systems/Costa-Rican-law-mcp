@@ -30,12 +30,12 @@ export function generateResponseMetadata(
   }
 
   return {
-    data_source: 'Official Legal Database (pgrweb.go.cr) — Government (State Chancellery of Costa Rican)',
-    jurisdiction: 'EE',
+    data_source: 'SCIJ (pgrweb.go.cr) — Procuraduría General de la República (Costa Rica)',
+    jurisdiction: 'CR',
     disclaimer:
-      'This data is sourced from the Official Legal Database under public domain. ' +
-      'The authoritative versions are maintained by Government (State Chancellery of Costa Rican). ' +
-      'Always verify with the official Official Legal Database portal (pgrweb.go.cr).',
+      'This data is sourced from Costa Rica’s official legal portal (SCIJ). ' +
+      'The authoritative versions are maintained by the Procuraduría General de la República. ' +
+      'Always verify with the official portal: pgrweb.go.cr/scij.',
     freshness,
   };
 }

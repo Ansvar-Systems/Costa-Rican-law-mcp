@@ -1,0 +1,45 @@
+{
+  "id": "cr-ley10500",
+  "type": "statute",
+  "title": "Ley para la modernización de la intervención de las comunicaciones",
+  "title_en": "Law Modernizing Interception of Communications",
+  "short_name": "Ley 10500",
+  "status": "in_force",
+  "issued_date": "2024-07-17",
+  "in_force_date": "2024-07-26",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=102475",
+  "description": "Official SCIJ text modernizing legal rules for judicially authorized communications interception.",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "ÚNICO",
+      "title": "ARTÍCULO ÚNICO. Se reforman los artículos 9, 10 y 12 y se",
+      "content": "adiciona el artículo 28 bis a la Ley 7425, Ley sobre Registro, Secuestro y\nExamen de Documentos Privados e Intervención de las Comunicaciones, de 9 de\nagosto de 1994. Los textos son los siguientes:"
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "ARTÍCULO 9. Autorización de intervenciones. Dentro de los",
+      "content": "procedimientos de una investigación policial o jurisdiccional, los tribunales\nde justicia podrán autorizar la intervención de comunicaciones orales, escritas\no de otro tipo, incluso las telecomunicaciones fijas, móviles, inalámbricas,\ndigitales y por cualquier otro medio tecnológico, cuando involucre el\nesclarecimiento de los siguientes delitos: extorsión, extorsión cobratoria,\nsecuestro extorsivo, corrupción agravada, proxenetismo agravado, fabricación,\nproducción o difusión de pornografía y delitos sexuales contra personas menores\nde edad; trata de personas, tráfico ilícito de migrantes y tráfico de órganos;\ncontrabando, homicidio calificado, -homicidio simple, femicidio ,\n femicidio en otros contextos, genocidio, terrorismo y\nlos delitos previstos en la Ley 7786, Ley sobre Estupefacientes, Sustancias\nPsicotrópicas, Drogas de Uso no Autorizado, Actividades Conexas, Legitimación\nde Capitales y Financiamiento al Terrorismo, de 30 de abril de 1998, así como\nlos delitos de corrupción contra los deberes de la función pública que se\nindican: cohecho impropio, cohecho propio, corrupción agravada, aceptación de\ndádiva por acto cumplido, corrupción de jueces, penalidad del corruptor, concusión,\nprevaricato, peculado, malversación, peculado y malversación de fondos\nprivados, enriquecimiento ilícito, legislación o administración en provecho\npropio, sobreprecio irregular, tráfico de influencias, soborno transnacional,\ninfluencia en contra de la Hacienda Pública, fraude de ley en la función\nadministrativa. Los tribunales de justicia también podrán autorizar la\nintervención de comunicaciones dentro de los procedimientos de una\ninvestigación policial por desaparición de una persona, cuando existan indicios\nsuficientes que permitan presumir que la ausencia fue antecedida o propiciada\npor un delito de los contemplados en este artículo. \n \n En los mismos casos, dichos tribunales podrán autorizar\nla intervención de las comunicaciones entre los presentes, excepto lo dispuesto\nen el segundo párrafo del artículo 26 de la presente ley, cuando se produzcan\ndentro de domicilios y recintos privados, la intervención solo podrá\nautorizarse si existen indicios suficientes de que se lleva a cabo una\nactividad delictiva."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "ARTÍCULO 10. Orden del juez para intervenir. El juez, mediante resolución fundada a solicitud del fiscal",
+      "content": "general de la República o del fiscal subrogante o, en su defecto, en el o los\nfiscales adjuntos en quienes estos expresamente lo deleguen, podrá ordenar\nintervenir las comunicaciones orales o escritas, cuando pueda servir como\nprueba indispensable de la comisión de alguna de las conductas delictivas a las\nque se refiere el artículo anterior. \n \n El juez realizará personalmente la diligencia, salvo en\ncasos de excepción en los cuales, según su criterio, podrá delegarla en\nmiembros del Organismo de Investigación Judicial o del Ministerio Público,\nquienes deberán informarle, por escrito, del resultado. De ello deberá\nlevantarse el acta correspondiente. \n \n La solicitud de intervención deberá estar por escrito,\nexpresar y justificar sus motivos y cometidos, e indicar el nombre de los\noficiales a cargo de la investigación, con el propósito de que puedan ser\nvalorados por el tribunal. \n \n Presentada la solicitud, la persona juzgadora contará con\nel siguiente plazo para emitir la resolución que corresponda: \n \n a) En los casos de tramitación ordinaria, el plazo máximo\npara resolver es de hasta tres días naturales. \n \n b) En procesos con declaratoria de procedimiento especial\nde delincuencia organizada o tramitación compleja, el plazo máximo de\nresolución será de hasta cinco días naturales."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "ARTÍCULO 12. Plazos y prórrogas de la intervención. La intervención ordenada se autorizará por un lapso máximo",
+      "content": "hasta de cuatro meses, salvo en los casos de extrema gravedad o de difícil\ninvestigación, en los que el juez, mediante resolución fundada, disponga una\nprórroga. Excepcionalmente, se podrán ordenar, por igual plazo, hasta dos\nprórrogas como máximo. En todo caso, la intervención no podrá exceder el plazo\nmáximo de un año."
+    },
+    {
+      "provision_ref": "art28bis",
+      "section": "28 bis",
+      "title": "ARTÍCULO 28 bis. Uso de información en investigaciones de terrorismo y delitos previstos en la Ley 7786, Ley sobre Estupefacientes , Sustancias Psicotrópicas , Drogas de Uso no Autorizado , Actividades Conexas , Legitimación de Capitales y Financiamiento al Terrorismo , de 30 de abril de",
+      "content": "1998. \n \n En las investigaciones de terrorismo o los delitos\nprevistos en la Ley 7786, Ley sobre Estupefacientes, Sustancias Psicotrópicas,\nDrogas de Uso no Autorizado, Actividades Conexas, Legitimación de Capitales y\nFinanciamiento al Terrorismo, de 30 de abril de 1998, el Centro Judicial de\nIntervención de las Comunicaciones le compartirá al Organismo de Investigación\nJudicial la información técnica asociada a la intervención de las\ncomunicaciones, con excepción del contenido de la comunicación, que incluye\naudio, texto, imagen y video. Dicha información, a su vez, podrá ser compartida\npor el Organismo de Investigación Judicial con otros cuerpos policiales\ninternacionales, en el marco de la cooperación internacional en la\ninvestigación de estos delitos. \n \n Ficha articulo \n \n \n TRANSITORIO ÚNICO-El Poder Judicial reglamentará el"
+    }
+  ],
+  "definitions": []
+}

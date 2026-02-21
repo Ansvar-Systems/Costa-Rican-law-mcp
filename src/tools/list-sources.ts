@@ -44,15 +44,13 @@ export async function listSources(
     results: {
       sources: [
         {
-          name: 'Official Legal Database',
-          authority: 'Government (State Chancellery of Costa Rican)',
+          name: 'Sistema Costarricense de Información Jurídica (SCIJ)',
+          authority: 'Procuraduría General de la República (PGR)',
           url: 'https://www.pgrweb.go.cr',
-          license: 'Creative Commons Attribution 4.0 International (CC BY 4.0)',
+          license: 'Government terms of use (official legal publication portal)',
           coverage:
-            'All Commonwealth (federal) Acts and legislative instruments, ' +
-            'including privacy, cybersecurity, critical infrastructure, ' +
-            'corporations, consumer, telecommunications, and criminal law',
-          languages: ['en'],
+            'Selected Costa Rican statutes and provisions related to data protection, cybercrime, telecommunications, digital commerce, and criminal law',
+          languages: ['es'],
         },
       ],
       database: {

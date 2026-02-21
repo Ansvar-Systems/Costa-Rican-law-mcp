@@ -1,73 +1,80 @@
 /**
- * Rate-limited HTTP client for Costa Rican legislation from the Sejm ELI API.
+ * Rate-limited HTTP fetcher for Costa Rica's official legal portal (SCIJ).
  *
- * Data source: api.sejm.gov.pl — the official ELI (European Legislation Identifier)
- * API provided by the Chancellery of the Sejm of the Republic of Poland.
- *
- * URL patterns:
- *   Metadata: https://api.sejm.gov.pl/eli/acts/DU/{YEAR}/{POZ}
- *   HTML text: https://api.sejm.gov.pl/eli/acts/DU/{YEAR}/{POZ}/text.html
- *
- * - 500ms minimum delay between requests (respectful to government servers)
- * - User-Agent header identifying the MCP
- * - Retry on 429/5xx with exponential backoff
- * - No auth needed (public government data)
+ * Uses curl because some SCIJ endpoints are not reliably reachable via undici/fetch.
  */
 
-const USER_AGENT = 'Costa Rican-Law-MCP/1.0 (https://github.com/Ansvar-Systems/costa_rican-law-mcp; hello@ansvar.ai)';
-const MIN_DELAY_MS = 500;
+import { execFile } from 'node:child_process';
+import { promisify } from 'node:util';
 
-let lastRequestTime = 0;
+const execFileAsync = promisify(execFile);
 
-async function rateLimit(): Promise<void> {
-  const now = Date.now();
-  const elapsed = now - lastRequestTime;
-  if (elapsed < MIN_DELAY_MS) {
-    await new Promise(resolve => setTimeout(resolve, MIN_DELAY_MS - elapsed));
-  }
-  lastRequestTime = Date.now();
+const USER_AGENT = 'Ansvar-Law-MCP/1.0 (real-ingestion; contact: hello@ansvar.ai)';
+const MIN_DELAY_MS = 1200;
+
+let lastRequestAt = 0;
+
+function sleep(ms: number): Promise<void> {
+  return new Promise(resolve => setTimeout(resolve, ms));
 }
 
-export interface FetchResult {
-  status: number;
-  body: string;
-  contentType: string;
-  url: string;
+async function applyRateLimit(): Promise<void> {
+  const now = Date.now();
+  const elapsed = now - lastRequestAt;
+  if (elapsed < MIN_DELAY_MS) {
+    await sleep(MIN_DELAY_MS - elapsed);
+  }
+  lastRequestAt = Date.now();
+}
+
+export interface FetchOptions {
+  maxRetries?: number;
+  accept?: string;
+  timeoutSec?: number;
 }
 
 /**
- * Fetch a URL with rate limiting and proper headers.
- * Retries up to 3 times on 429/5xx errors with exponential backoff.
+ * Fetches legislation HTML from SCIJ with throttling + retries.
  */
-export async function fetchWithRateLimit(url: string, maxRetries = 3): Promise<FetchResult> {
-  await rateLimit();
+export async function fetchLegislation(url: string, options: FetchOptions = {}): Promise<string> {
+  const maxRetries = options.maxRetries ?? 3;
+  const accept = options.accept ?? 'text/html,application/xhtml+xml;q=0.9,*/*;q=0.8';
+  const timeoutSec = options.timeoutSec ?? 30;
+
+  let lastError: unknown;
 
   for (let attempt = 0; attempt <= maxRetries; attempt++) {
-    const response = await fetch(url, {
-      headers: {
-        'User-Agent': USER_AGENT,
-        'Accept': 'text/html, application/json, */*',
-      },
-      redirect: 'follow',
-    });
+    await applyRateLimit();
 
-    if (response.status === 429 || response.status >= 500) {
-      if (attempt < maxRetries) {
-        const backoff = Math.pow(2, attempt + 1) * 1000;
-        console.log(`  HTTP ${response.status} for ${url}, retrying in ${backoff}ms...`);
-        await new Promise(resolve => setTimeout(resolve, backoff));
-        continue;
-      }
+    try {
+      const { stdout } = await execFileAsync(
+        'curl',
+        [
+          '-fLs',
+          '--max-time',
+          String(timeoutSec),
+          '-A',
+          USER_AGENT,
+          '-H',
+          `Accept: ${accept}`,
+          '-H',
+          'Accept-Language: es-CR,es;q=0.9,en;q=0.3',
+          url,
+        ],
+        {
+          maxBuffer: 20 * 1024 * 1024,
+        },
+      );
+
+      return stdout;
+    } catch (error) {
+      lastError = error;
+      if (attempt >= maxRetries) break;
+      const backoffMs = Math.min(8000, 1000 * Math.pow(2, attempt));
+      await sleep(backoffMs);
     }
-
-    const body = await response.text();
-    return {
-      status: response.status,
-      body,
-      contentType: response.headers.get('content-type') ?? '',
-      url: response.url,
-    };
   }
 
-  throw new Error(`Failed to fetch ${url} after ${maxRetries} retries`);
+  const reason = lastError instanceof Error ? lastError.message : String(lastError);
+  throw new Error(`Failed to fetch ${url}: ${reason}`);
 }

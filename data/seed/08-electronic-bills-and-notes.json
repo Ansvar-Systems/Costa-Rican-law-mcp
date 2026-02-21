@@ -1,0 +1,194 @@
+{
+  "id": "cr-ley10069",
+  "type": "statute",
+  "title": "Ley sobre letra de cambio y pagaré electrónicos",
+  "title_en": "Law on Electronic Bills of Exchange and Promissory Notes",
+  "short_name": "Ley 10069",
+  "status": "in_force",
+  "issued_date": "2021-11-09",
+  "in_force_date": "2021-12-09",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=95870",
+  "description": "Official SCIJ text regulating electronic bills of exchange and promissory notes.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "CAPÍTULO I",
+      "section": "1",
+      "title": "ARTÍCULO 1. Ámbito de",
+      "content": "aplicación \n \n a) La presente ley será\naplicable únicamente a la letra de cambio y al pagaré electrónicos. En lo no\nregulado por esta ley en materia de carácter sustantivo se aplicarán las\ndisposiciones contenidas en el Código de Comercio vigente sobre letra de cambio\ny pagaré. \n \n b) Salvo en los casos\nprevistos en la presente ley, nada de lo dispuesto en ella afectará los títulos\nvalores emitidos en papel. \n \n c) En materia procesal, en\nlo no previsto en esta norma, se aplicarán las reglas contenidas en el Código\nProcesal Civil. \n \n \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "CAPÍTULO I",
+      "section": "2",
+      "title": "ARTÍCULO 2. Objeto. Esta",
+      "content": "ley tiene como objeto regular la desmaterialización y electronificación de la letra\nde cambio y pagaré, así como su anotación en cuenta en los Registros Centralizados\ndefinidos en esta ley. \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "CAPÍTULO I",
+      "section": "3",
+      "title": "ARTÍCULO 3. Definiciones. Para",
+      "content": "los efectos de esta ley se entenderá lo siguiente: \n \n a) Anotación en cuenta de\nla letra de cambio y pagaré electrónicos: significa cada registro contable que\nsobre la letra de cambio y pagaré electrónicos realizan los Registros\nCentralizados. \n \n b) Certificado digital:\nsegún se define en la Ley 8454, Ley de Certificados, Firmas Digitales y\nDocumentos Electrónicos, de 30 de agosto de 2005. \n \n c) Desmaterialización:\nproceso en virtud del cual un título valor emitido en formato físico es\ntransformado en un título valor electrónico mediante la anotación de cuenta,\nprevio cumplimiento de las formalidades establecidas por los Registros Centralizados. \n \n d) Documento electrónico:\nsignifica cualquier manifestación con carácter representativo o declarativo,\nexpresada o transmitida por un medio electrónico o informático. \n \n e) Electronificación: es el\nproceso a través del cual los títulos valores surgen a la vida jurídica ausente\nde presencia física, es decir, que únicamente pueden ser perceptibles por los\nsentidos mediante el sistema donde se realiza el intercambio electrónico de\ndatos. \n \n f) Firma digital: según se\ndefine en la Ley 8454, Ley de Certificados, Firmas Digitales y Documentos\nElectrónicos, de 30 de agosto de 2005. \n \n g) Letra de cambio\nelectrónica: se entenderá como la letra de cambio regulada en el Código de\nComercio vigente, en formato electrónico de conformidad con esta ley. \n \n h) Pagaré electrónico: se\nentenderá como el pagaré regulado en el Código de Comercio vigente, en formato\nelectrónico de conformidad con esta ley. \n \n i) Registros Centralizados:\nentidad pública o privada autorizada por la Superintendencia General de Valores\n(Sugeval) para inscribir, mediante la anotación en cuenta, la letra de cambio y\npagaré electrónicos, lo que incluye su desmaterialización, emisión, custodia,\nadministración, endoso, circulación, afectación, gravamen, embargo y cualquier\nacto cambiario, bajo la forma de anotaciones en cuenta. \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "CAPÍTULO I",
+      "section": "4",
+      "title": "ARTÍCULO 4. Principios",
+      "content": "generales de los documentos electrónicos aplicables a la letra de cambio y\npagaré electrónicos. En adición a los principios que rigen la letra de cambio y\npagaré emitidos en papel se observarán los siguientes principios para la\ndesmaterialización, emisión, custodia, administración, endoso, circulación,\nafectación, gravamen, embargo y cualquier acto cambiario, sobre estos: \n \n a) Neutralidad tecnológica:\nninguna disposición de la presente ley será aplicada de modo que excluya,\nrestrinja o prive de efecto jurídico cualquier método, procedimiento,\ndispositivo o tecnología para crear, circular o realizar cualquier acto cambiario\nrespecto de una letra de cambio o pagaré electrónicos. Como consecuencia de lo\nanterior, y para todos los efectos legales, la inscripción y los actos\ncambiarios que sobre la letra de cambio y pagaré se efectúen podrán realizarse\nutilizando cualquier tipo de tecnología disponible que se considere apropiada y\nadecuada, siempre y cuando se cumplan todos los requisitos legales y reglamentarios\nestablecidos en el ordenamiento jurídico. Asimismo, la tecnología utilizada\ndeberá garantizar autenticidad, integridad, disponibilidad, accesibilidad y trazabilidad\ndel título electrónico desde su emisión y durante todo el tiempo de su conservación. \n \n b) Equivalencia funcional:\nla letra de cambio y pagaré electrónicos tendrán el mismo valor, eficacia\nprobatoria y carácter ejecutivo de su equivalente en papel. En cualquier norma\njurídica que se haga referencia a una letra de cambio o pagaré se reconocerá de\nigual manera tanto los emitidos en papel como los electrónicos, y estos\nconservarán todos los derechos, las acciones y las prerrogativas propias de su\nnaturaleza, consagradas en el Código de Comercio. \n \n c) Inalteración del derecho\npreexistente: salvo en lo expresamente dispuesto en la presente ley, las\ndisposiciones aquí establecidas no implican una modificación sustancial del\nderecho preexistente. \n \n d) Valor equivalente de la\nfirma: la letra de cambio y el pagaré electrónicos, que sean suscritos mediante\nfirma digital o certificado digital indistintamente, tendrán el mismo valor y\neficacia probatoria de su equivalente firmado en forma autógrafa. \n \n e) Otros principios: de\nigual forma serán aplicables los principios de equivalencia funcional\nestablecidos en la Ley 8454, Ley de Certificados, Firmas Digitales y Documentos\nElectrónicos, de 30 de agosto de 2005, en relación con los documentos\nelectrónicos y la firma digital, en virtud de lo cual, cuando cualquier norma\nrequiera que la información conste por escrito, este requisito quedará satisfecho\ncon un documento electrónico. \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "CAPÍTULO I",
+      "section": "5",
+      "title": "ARTÍCULO 5. Interpretación.",
+      "content": "La presente ley deberá ser interpretada en conjunto con los principios aquí establecidos\ny con las regulaciones que se refieren a la letra de cambio y pagaré en el\nCódigo de Comercio, debiendo prevalecer, en caso de contradicción, las disposiciones\nestipuladas en esta ley. La misma regla aplicará respecto de las demás normativas\nsustanciales o procesales que regulen las materias desarrolladas en esta ley. \n \n Ficha articulo \n \n \n CAPÍTULO II \n \n EMISIÓN Y ANOTACIÓN EN\nCUENTA DE LA LETRA \n \n DE CAMBIO Y PAGARÉ\nELECTRÓNICOS"
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "CAPÍTULO II",
+      "section": "6",
+      "title": "ARTÍCULO 6. Cumplimiento de",
+      "content": "los requisitos formales para la emisión y circulación de la letra de cambio y\npagaré electrónicos. La emisión de una letra de cambio o pagaré electrónicos\ndeberá cumplir con los requisitos establecidos en el Código de Comercio, salvo\nlo modificado en virtud de esta ley; igualmente, deberá cumplirse con los requisitos\nestablecidos por las leyes vigentes asociados a la emisión de documentos\nelectrónicos y firma digital, que permitan verificar su integridad e\nidentificar de forma unívoca a su firmante y vincular jurídicamente al emisor,\navalista, tenedor o cualquier otro interviniente, según corresponda. \n \n Las firmas del deudor,\navalista, endosante o cualquier otro interviniente, si los hubiera, podrán\nrealizarse mediante firma digital o certificado digital, indistintamente. \n \n \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "CAPÍTULO II",
+      "section": "7",
+      "title": "ARTÍCULO 7. Legítimo",
+      "content": "tenedor. Para efectos de la letra de cambio y pagaré electrónicos, será\nlegítimo tenedor quien aparezca como tal en la anotación en cuenta, en el\nsistema del Registro Centralizado autorizado. \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "CAPÍTULO II",
+      "section": "8",
+      "title": "ARTÍCULO 8. Efecto jurídico",
+      "content": "de la anotación en cuenta. Toda letra de cambio o pagaré desmaterializado o\nemitido por medios electrónicos deberá ser anotado en cuenta ante un Registro\nCentralizado. \n \n La desmaterialización,\nemisión, custodia, administración, endoso, circulación, afectación, gravamen,\nembargo y cualquier acto cambiario se perfeccionará mediante la anotación en\ncuenta. \n \n La inscripción de la letra\nde cambio y pagaré electrónicos, mediante la anotación en cuenta ante un\nRegistro Centralizado, asigna el derecho de control sobre el título inscrito a\nfavor del tenedor de este, facultando a este el ejercicio de los mismos derechos\ny facultades que el tenedor de un título en soporte físico puede ejercer sobre\nel título. \n \n Ficha articulo \n \n \n CAPÍTULO III \n \n DESMATERIALIZACIÓN"
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "CAPÍTULO III",
+      "section": "9",
+      "title": "ARTÍCULO 9. Desmaterialización de la letra de cambio y pagaré. La desmaterialización de una",
+      "content": "letra de cambio o pagaré la realizará el Registro Centralizado a requerimiento\nde su legítimo tenedor cambiario, sin necesidad de que comparezca el deudor o\nterceros intervinientes en el título físico. Tal desmaterialización se\nejecutará a través de una anotación en cuenta en la que se indique que el\ntítulo emitido en soporte físico ha sido desmaterializado y tal soporte en\npapel ha perdido toda eficacia y validez. El título en soporte físico deberá entregarse\nal Registro Centralizado mediante un endoso no traslativo de dominio, para su\narchivo y custodia con el fin de evitar su circulación. Asimismo, en el documento\nfísico deberá consignarse que este ha sido desmaterializado. \n \n Los cambios de soporte que\nse realicen no afectarán los derechos ni las obligaciones de las partes. \n \n \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "CAPÍTULO III",
+      "section": "10",
+      "title": "ARTÍCULO 10. Prohibición de",
+      "content": "segundo cambio de soporte. Una vez que la letra de cambio o pagaré sean\ndesmaterializados o emitidos electrónicamente, queda prohibido que estos sean\nposteriormente representados en papel. \n \n Ficha articulo \n \n \n CAPÍTULO IV \n \n REGISTROS CENTRALIZADOS"
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "CAPÍTULO IV",
+      "section": "11",
+      "title": "ARTÍCULO 11. Registros",
+      "content": "centralizados. Podrán ser registros centralizados, aquellas entidades que sean\npreviamente autorizadas por la Superintendencia General de Valores (Sugeval). \n \n La Sugeval tendrá la\npotestad de otorgar la autorización correspondiente, después de verificar la\nexistencia de recursos humanos e infraestructura tecnológica y de seguridad\nadecuadas, y demás elementos propios para el funcionamiento de un registro de\nesa naturaleza. \n \n La autorización citada en\nel párrafo anterior estará sujeta a los siguientes requisitos mínimos: \n \n a) Constituirse como\nsociedad anónima. La escritura de constitución, los estatutos y los reglamentos\nserán aprobados por la Sugeval previo a su funcionamiento, así como sus modificaciones\ny la suscripción y transmisión de acciones. Las ampliaciones y reducciones de\ncapital deberán ser autorizadas por la Sugeval, la cual establecerá, por vía\nreglamentaria, la forma en que deberán realizarse, así como los criterios que\ndeberán seguirse para valorar el precio de las acciones. \n \n b) En el caso de\ninstituciones públicas, cumplir con los presentes requisitos y demás que\nestablezca la autoridad competente. \n \n c) Contar con un capital\nmínimo suscrito y pagado no inferior al equivalente del cincuenta por ciento\n(50%) del capital mínimo requerido para las centrales de valores autorizadas\npor la Sugeval, que se ajustará periódicamente de acuerdo con el Índice de\nPrecios al Consumidor. \n \n d) Mantener la rentabilidad\nde su patrimonio, de manera que cumplan con los montos y requisitos\npatrimoniales fijados por la Sugeval y que recuperen de sus usuarios el costo\nde los servicios prestados. \n \n e) No discriminar, en la prestación del servicio, a los usuarios. \n \n f) Todos los demás que la\nSugeval establezca tendientes a garantizar la continuidad, seguridad y\nsolvencia de la institución. \n \n Para tal efecto, el Consejo\nNacional de Supervisión del Sistema Financiero (Conassif) establecerá, vía\nreglamento, las demás disposiciones de carácter general que regularán los\nrequisitos técnicos de fiabilidad, la autorización, su revocación y los\nrequisitos para la interconexión, para las entidades interesadas en brindar\neste servicio, incluidos los requisitos de capital proporcionales a los volúmenes\nque se anoten, el monto de los aportes económicos al regulador y el cumplimiento\nde las obligaciones en materia de prevención de lavado de activos y financiamiento\nal terrorismo. \n \n El Conassif reglamentará la\norganización y el funcionamiento de los Registros Centralizados de valores no\ninscritos, los sistemas de identificación y el control de los pagarés y letras\nde cambio electrónicos representados por medio de anotaciones electrónicas en\ncuenta, así como las relaciones y comunicaciones de las entidades encargadas de\ntales registros con los emisores y las bolsas de valores. \n \n \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "CAPÍTULO IV",
+      "section": "12",
+      "title": "ARTÍCULO 12. Principios de",
+      "content": "la inscripción electrónica sobre la letra de cambio y pagaré electrónicos. Los\nRegistros Centralizados deberán realizar la inscripción de la letra de cambio y\npagaré electrónicos observando los siguientes principios: \n \n a) Principio de prioridad:\nuna vez producida la inscripción mediante anotación en cuenta, no podrá\npracticarse ninguna otra inscripción respecto de la misma letra de cambio o\npagaré que obedezca a un hecho producido con anterioridad. El acto que se\ninscriba primero en el Registro Centralizado tendrá prioridad sobre los posteriores. \n \n b) Principio de tracto\nsucesivo: las inscripciones sobre un mismo derecho deberán estar encadenadas,\ncronológica, secuencial e ininterrumpidamente, de modo que quien trasmite la\nletra de cambio o pagaré electrónico, o el derecho de control sobre estos,\naparezca previamente en la inscripción. \n \n c) Principio de rogación:\npara la realización de cada inscripción se requerirá solicitud previa del\nlegítimo tenedor. \n \n d) Principio de buena fe:\nla persona que aparezca como titular en la anotación en cuenta se presumirá\ncomo legítimo tenedor de la letra de cambio o pagaré electrónicos. \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "CAPÍTULO IV",
+      "section": "13",
+      "title": "ARTÍCULO 13. Funciones de",
+      "content": "los Registros Centralizados. Los Registros Centralizados tendrán las siguientes\nfunciones: \n \n a) Desmaterializar la letra\nde cambio y pagarés emitidos en papel, que les sean solicitados por el legítimo\ntenedor. La anotación en cuenta deberá corresponder a los derechos y las\nobligaciones incorporados en el título a desmaterializar. \n \n b) Administrar y custodiar\nla letra de cambio y pagaré electrónicos que sean depositados de conformidad\ncon lo establecido en esta ley. \n \n c) Realizar las anotaciones\nen cuenta y llevar la inscripción de estas, que garantice la trazabilidad de\nlos actos que afecten la letra de cambio y pagaré electrónicos. \n \n d) Emitir la certificación\nelectrónica para el cobro regulada en esta ley. \n \n e) Inscribir mediante\nanotación en cuenta los gravámenes sobre los derechos contenidos en los\ntítulos. \n \n f) Inscribir mediante\nanotación en cuenta las medidas cautelares que recaigan sobre los títulos\nelectrónicos. \n \n g) Otros servicios\ncomplementarios que no contravengan lo dispuesto en esta ley y su reglamento y\nque sean autorizados por la Superintendencia General de Valores (Sugeval). \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "CAPÍTULO IV",
+      "section": "14",
+      "title": "ARTÍCULO 14. Obligación de",
+      "content": "reserva. Los Registros Centralizados solo podrán suministrar información sobre\nlos títulos electrónicos al legítimo tenedor y a cualquier obligado, así como a\nlas autoridades competentes en ejercicio de sus funciones establecidas por ley\ny conforme a la reglamentación que al efecto se emita. \n \n Ficha articulo \n \n \n CAPÍTULO V \n \n TRASLADO DE LA LETRA DE\nCAMBIO Y PAGARÉ ELECTRÓNICOS \n \n A OTROS REGISTROS\nCENTRALIZADOS"
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "CAPÍTULO V",
+      "section": "15",
+      "title": "ARTÍCULO 15. Traslado de la",
+      "content": "letra de cambio y pagaré electrónicos. El legítimo tenedor de una letra de\ncambio o pagaré electrónicos tendrá la posibilidad de trasladarlos de un\nRegistro Centralizado autorizado a otro, siempre y cuando no existan terceros\ncon mejor derecho sobre el documento, o una orden de una autoridad competente\njudicial o administrativa que lo impida. La Superintendencia General de Valores\n(Sugeval) reglamentará los requisitos para que opere dicho traslado. \n \n \n \n Ficha articulo \n \n \n \n CAPÍTULO VI \n \n EJERCICIO DE LOS DERECHOS\nSOBRE LA LETRA \n \n DE CAMBIO Y PAGARÉ\nELECTRÓNICOS"
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "CAPÍTULO VI",
+      "section": "16",
+      "title": "ARTÍCULO 16. Ejercicio del",
+      "content": "derecho representado en la letra de cambio o pagaré electrónicos. El ejercicio\ndel derecho consignado en una letra de cambio o pagaré electrónicos requiere la\nexhibición de estos. Dicha exhibición se cumple con la presentación de la certificación\nelectrónica que emita el Registro Centralizado autorizado. Tal certificación\nlegitima a su titular para el ejercicio de los derechos representados en el\ntítulo y tendrá carácter de título ejecutivo para efectos de su cobro. La\ncertificación no podrá circular ni servirá para ceder o transferir ningún\nderecho sobre los títulos. \n \n El Poder Judicial podrá\nsuscribir convenios con los Registros Centralizados, para que aquel pueda\nconsultar los documentos electrónicos de certificación referidos en los procesos\njudiciales que les sean presentados para su conocimiento. \n \n \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "CAPÍTULO VI",
+      "section": "17",
+      "title": "ARTÍCULO 17. Requisitos de",
+      "content": "la certificación. En el reglamento de esta ley se establecerán los requisitos\nmínimos que deben cumplir las certificaciones que emitan los Registros\nCentralizados. Sin perjuicio de lo anterior, la certificación con carácter de\ntítulo ejecutivo, para efectos del cobro a la que se refiere el artículo\nprecedente, deberá contener como mínimo lo siguiente: \n \n 1- La indicación de que es\nuna \"certificación para el ejercicio de derechos patrimoniales de cobro\". \n \n 2- La denominación social y\nel número de cédula jurídica del Registro Centralizado que la emite. \n \n 3- Firma digital o\ncertificado digital de quien la emite. \n \n 4- Fecha de expedición de\nla certificación. \n \n 5- Los siguientes datos del\ntítulo sobre el cual versa la certificación: \n \n a) Especificación de si es\nun pagaré o una letra de cambio. \n \n b) Número de documento\nsegún el Registro Centralizado. \n \n c) Fecha de constitución de\nla letra de cambio o pagaré. \n \n d) Fecha de vencimiento de\nla obligación constituida en la letra de cambio o pagaré. \n \n e) Monto y moneda de la\nobligación (valor facial). \n \n f) Tasa de interés corriente y moratorio. \n \n 6- Datos de los obligados: \n \n a) Nombre o denominación\nsocial del obligado o los obligados, especificando su condición, librado,\nlibrador, deudor o deudores, o avalista o avalistas. \n \n b) Tipo y número documento\nde identificación. \n \n 7- Datos del beneficiario\ndel documento sobre el cual versa la certificación: \n \n a) Nombre o denominación\nsocial del beneficiario. \n \n b) Tipo y número de\ndocumento de identificación del beneficiario. \n \n Ficha articulo \n \n \n CAPÍTULO VII \n \n INFRACCIONES Y SANCIONES"
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "CAPÍTULO VII",
+      "section": "18",
+      "title": "ARTÍCULO 18. Infracciones y",
+      "content": "sanciones a los Registros Centralizados \n \n A. Incurrirán en\ninfracciones graves: \n \n a) Los Registros\nCentralizados que realicen actividades ajenas al objeto legal o reglamentariamente\nautorizado. \n \n b) Los Registros\nCentralizados que no lleven contabilidad. \n \n c) Los Registros\nCentralizados que lleven registros contables con retraso, inexactitud u otras\nirregularidades materiales o significativas. \n \n d) Los Registros\nCentralizados que incumplan con la obligación de reserva. \n \n e) Los Registros\nCentralizados que incumplan con los requisitos de autorización. \n \n Las sanciones\ncorrespondientes a las infracciones graves serán: \n \n i. Multa por un monto de\ncinco veces el beneficio patrimonial, obtenido como consecuencia directa de la\ninfracción cometida. \n \n ii. Multa del cinco por\nciento (5%) del patrimonio de la sociedad. \n \n iii. Multa entre veintiún y\nciento cincuenta salarios base, según se define en la Ley 7337, de 5 de mayo de\n1993. \n \n iv. Revocación de la\nautorización. \n \n B. Incurrirán en infracciones leves: \n \n a) Los Registros\nCentralizados que incumplan la normativa emitida por el Consejo Nacional de\nSupervisión del Sistema Financiero (Conassif), en supuestos que no estén\ncontemplados como una falta grave. \n \n Las sanciones\ncorrespondientes a las infracciones leves serán: \n \n i. Amonestación privada que\nconsiste en una comunicación escrita. \n \n ii. Multa entre uno y\nveinte salarios base, según se define en la Ley 7337, de 5 de mayo de 1993. \n \n \n \n Ficha articulo \n \n \n \n CAPÍTULO VIII \n \n REGLAMENTACIÓN"
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "CAPÍTULO VIII",
+      "section": "19",
+      "title": "ARTÍCULO 19. Reglamentación.",
+      "content": "El Consejo Nacional de Supervisión del Sistema Financiero (Conassif) deberá\nemitir el reglamento previsto en la presente ley en un plazo no mayor a seis\nmeses desde su entrada en vigor. \n \n Rige a partir de su publicación. \n \n Dado\nen la Presidencia de la República, San José, a los nueve días del mes de noviembre\ndel año dos mil veintiuno. \n \n EJECÚTESE Y PUBLÍQUESE. \n \n Ficha articulo \n \nFecha de generación: 21/2/2026 07:17:19"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Anotación en cuenta de la letra de cambio y pagaré electrónicos",
+      "definition": "significa cada registro contable que sobre la letra de cambio y pagaré electrónicos realizan los Registros Centralizados",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Certificado digital",
+      "definition": "según se define en la Ley 8454, Ley de Certificados, Firmas Digitales y Documentos Electrónicos, de 30 de agosto de 2005",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Desmaterialización",
+      "definition": "proceso en virtud del cual un título valor emitido en formato físico es transformado en un título valor electrónico mediante la anotación de cuenta, previo cumplimiento de las formalidades establecidas por los Registros Centralizados",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Documento electrónico",
+      "definition": "significa cualquier manifestación con carácter representativo o declarativo, expresada o transmitida por un medio electrónico o informático",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Electronificación",
+      "definition": "es el proceso a través del cual los títulos valores surgen a la vida jurídica ausente de presencia física, es decir, que únicamente pueden ser perceptibles por los sentidos mediante el sistema donde se realiza el intercambio electrónico de datos",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Firma digital",
+      "definition": "según se define en la Ley 8454, Ley de Certificados, Firmas Digitales y Documentos Electrónicos, de 30 de agosto de 2005",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Letra de cambio electrónica",
+      "definition": "se entenderá como la letra de cambio regulada en el Código de Comercio vigente, en formato electrónico de conformidad con esta ley",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Pagaré electrónico",
+      "definition": "se entenderá como el pagaré regulado en el Código de Comercio vigente, en formato electrónico de conformidad con esta ley",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Registros Centralizados",
+      "definition": "entidad pública o privada autorizada por la Superintendencia General de Valores (Sugeval) para inscribir, mediante la anotación en cuenta, la letra de cambio y pagaré electrónicos, lo que incluye su desmaterialización, emisión, custodia, administración, endoso, circulación, afectación, gravamen, embargo y cualquier acto cambiario, bajo la forma de anotaciones en cuenta. Ficha articulo",
+      "source_provision": "art3"
+    }
+  ]
+}

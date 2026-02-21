@@ -27,9 +27,9 @@ describe('Database integrity', () => {
     expect(row.cnt).toBe(10);
   });
 
-  it('should have at least 138 provisions', () => {
+  it('should have at least 200 provisions', () => {
     const row = db.prepare('SELECT COUNT(*) as cnt FROM legal_provisions').get() as { cnt: number };
-    expect(row.cnt).toBeGreaterThanOrEqual(138);
+    expect(row.cnt).toBeGreaterThanOrEqual(200);
   });
 
   it('should have FTS index', () => {
@@ -43,7 +43,7 @@ describe('Database integrity', () => {
 describe('Article retrieval', () => {
   it('should retrieve a provision by document_id and section', () => {
     const row = db.prepare(
-      "SELECT content FROM legal_provisions WHERE document_id = 'cr-cybersecurity-strategy' AND section = '1'"
+      "SELECT content FROM legal_provisions WHERE document_id = 'cr-ley8968' AND section = '1'"
     ).get() as { content: string } | undefined;
     expect(row).toBeDefined();
     expect(row!.content.length).toBeGreaterThan(50);
@@ -53,7 +53,7 @@ describe('Article retrieval', () => {
 describe('Search', () => {
   it('should find results via FTS search', () => {
     const rows = db.prepare(
-      "SELECT COUNT(*) as cnt FROM provisions_fts WHERE provisions_fts MATCH 'Decreto'"
+      "SELECT COUNT(*) as cnt FROM provisions_fts WHERE provisions_fts MATCH 'datos'"
     ).get() as { cnt: number };
     expect(rows.cnt).toBeGreaterThan(0);
   });
@@ -69,7 +69,7 @@ describe('Negative tests', () => {
 
   it('should return no results for invalid section', () => {
     const row = db.prepare(
-      "SELECT COUNT(*) as cnt FROM legal_provisions WHERE document_id = 'cr-cybersecurity-strategy' AND section = '999ZZZ-INVALID'"
+      "SELECT COUNT(*) as cnt FROM legal_provisions WHERE document_id = 'cr-ley8968' AND section = '999ZZZ-INVALID'"
     ).get() as { cnt: number };
     expect(row.cnt).toBe(0);
   });
@@ -77,16 +77,17 @@ describe('Negative tests', () => {
 
 describe('All 10 laws are present', () => {
   const expectedDocs = [
-    'cr-cybersecurity-strategy',
-    'cr-decreto37549',
-    'cr-ecommerce',
-    'cr-ley6683-trade-secrets',
+    'cr-codigo-penal-4573',
+    'cr-ley10039',
+    'cr-ley10069',
+    'cr-ley10500',
     'cr-ley8148',
     'cr-ley8220',
     'cr-ley8454',
     'cr-ley8642',
     'cr-ley8968',
-    'cr-sugef-cyber',  ];
+    'cr-ley9048',
+  ];
 
   for (const docId of expectedDocs) {
     it(`should contain document: ${docId}`, () => {
