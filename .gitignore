@@ -7,3 +7,6 @@ dist/
 .DS_Store
 coverage/
 data/source/
+!data/source/
+data/source/*
+!data/source/scij-full-corpus-ids.json
