@@ -276,7 +276,29 @@ function parseProvisionsFromText(textoHtml: string): ParsedProvision[] {
     }
   }
 
-  return Array.from(deduped.values());
+  const parsed = Array.from(deduped.values());
+  if (parsed.length > 0) {
+    return parsed;
+  }
+
+  // Fallback for norms without explicit "ARTÍCULO N" headings in the source text.
+  const fallbackContent = plain
+    .replace(/\n{2,}/g, '\n')
+    .replace(/[ \t]+/g, ' ')
+    .trim();
+
+  if (fallbackContent.length < 80) {
+    return [];
+  }
+
+  return [
+    {
+      provision_ref: 'artfull',
+      section: 'full',
+      title: 'Texto completo',
+      content: fallbackContent,
+    },
+  ];
 }
 
 function extractDefinitions(provisions: ParsedProvision[]): ParsedDefinition[] {
@@ -335,7 +357,7 @@ export function parseScijLaw(law: TargetLaw, fichaHtml: string, textoHtml: strin
     id: law.id,
     type: 'statute',
     title: metadata.title || law.shortName,
-    title_en: law.titleEn,
+    title_en: law.titleEn || metadata.title || law.shortName,
     short_name: normShort,
     status: 'in_force',
     issued_date: metadata.issuedDate,

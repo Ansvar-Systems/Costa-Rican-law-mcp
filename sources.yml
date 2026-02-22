@@ -8,18 +8,18 @@ sources:
     official_portal: "https://pgrweb.go.cr/scij"
     retrieval_method: "HTML_SCRAPE"
     update_frequency: "unknown"
-    last_ingested: "2026-02-21"
+    last_ingested: "2026-02-22"
     license_or_terms:
       type: "government_terms"
       url: "https://pgrweb.go.cr/scij"
       summary: "Official legislation published by the Costa Rican government portal."
     coverage:
-      scope: "Selected Costa Rican statutes on data protection, cybercrime, telecommunications, digital instruments, and related criminal law."
-      limitations: "Current dataset includes 10 curated laws; it is not the full national corpus."
+      scope: "Costa Rican legislation (tipo norma: Ley) discoverable via SCIJ selective search across years 1821-2026."
+      limitations: "Portal availability is intermittent; dataset currently contains the successfully fetched subset and must be resumed with full-corpus ingestion retries for complete coverage."
     languages:
       - "es"
 
 data_freshness:
   automated_checks: true
   check_frequency: "weekly"
-  last_verified: "2026-02-21"
+  last_verified: "2026-02-22"
