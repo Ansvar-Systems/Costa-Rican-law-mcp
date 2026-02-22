@@ -15,7 +15,10 @@ seed_count() {
 }
 
 portal_ready() {
-  curl -I -m 20 -sS "$PORTAL_URL" >/dev/null
+  if curl -I -m 20 -sS "$PORTAL_URL" >/dev/null 2>&1; then
+    return 0
+  fi
+  return 1
 }
 
 ATTEMPT=0
