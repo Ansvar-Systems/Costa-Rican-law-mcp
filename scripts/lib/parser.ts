@@ -380,6 +380,20 @@ export function lawUrlPair(nValor2: number): { fichaUrl: string; textUrl: string
   };
 }
 
+function normalizePortalHost(url: string): string {
+  return url
+    .replace(/^http:\/\/www\.pgrweb\.go\.cr/i, 'https://pgrweb.go.cr')
+    .replace(/^https:\/\/www\.pgrweb\.go\.cr/i, 'https://pgrweb.go.cr')
+    .replace(/^http:\/\/pgrweb\.go\.cr/i, 'https://pgrweb.go.cr');
+}
+
+export function extractTextoCompletoStaticUrl(html: string): string | null {
+  const match = html.match(/["'](https?:\/\/(?:www\.)?pgrweb\.go\.cr\/TextoCompleto\/NORMAS\/[^"'\s<>]+)["']/i);
+  if (!match?.[1]) return null;
+  const raw = match[1].replace(/&amp;/gi, '&');
+  return normalizePortalHost(raw);
+}
+
 export function defaultLawIdFromTitle(title: string): string {
   return asciiSlug(title).slice(0, 80);
 }

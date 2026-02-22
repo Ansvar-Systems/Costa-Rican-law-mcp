@@ -8,7 +8,7 @@ import { execFile } from 'node:child_process';
 import { promises as fs } from 'node:fs';
 import os from 'node:os';
 import path from 'node:path';
-import { promisify } from 'node:util';
+import { TextDecoder, promisify } from 'node:util';
 
 const execFileAsync = promisify(execFile);
 
@@ -22,6 +22,7 @@ const DEFAULT_MAX_RETRIES = Number.isFinite(ENV_MAX_RETRIES) && ENV_MAX_RETRIES 
 const DEFAULT_COOKIE_JAR = path.join(os.tmpdir(), 'scij-ingestion-cookies.txt');
 
 let lastRequestAt = 0;
+const WINDOWS_1252_DECODER = new TextDecoder('windows-1252');
 
 function sleep(ms: number): Promise<void> {
   return new Promise(resolve => setTimeout(resolve, ms));
@@ -57,6 +58,21 @@ export interface FetchOptions {
   formFields?: FormField[];
   referer?: string;
   cookieJar?: string;
+}
+
+function decodeResponseBody(stdout: string | Buffer): string {
+  const body = Buffer.isBuffer(stdout) ? stdout : Buffer.from(stdout, 'utf-8');
+  const sniff = body.subarray(0, 4096).toString('ascii').toLowerCase();
+
+  if (
+    sniff.includes('charset=windows-1252')
+    || sniff.includes('charset=iso-8859-1')
+    || sniff.includes('charset=latin1')
+  ) {
+    return WINDOWS_1252_DECODER.decode(body);
+  }
+
+  return body.toString('utf-8');
 }
 
 /**
@@ -109,13 +125,15 @@ export async function fetchLegislation(url: string, options: FetchOptions = {}):
 
       const { stdout } = await execFileAsync('curl', args, {
         maxBuffer: 50 * 1024 * 1024,
+        encoding: 'buffer',
       });
+      const response = decodeResponseBody(stdout);
 
-      if (!stdout || stdout.trim().length === 0) {
+      if (!response || response.trim().length === 0) {
         throw new Error('Empty response body');
       }
 
-      return stdout;
+      return response;
     } catch (error) {
       lastError = error;
       if (attempt >= maxRetries) break;

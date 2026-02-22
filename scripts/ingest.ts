@@ -11,7 +11,7 @@ import * as fs from 'node:fs';
 import * as path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { fetchLegislation, type FormField } from './lib/fetcher.js';
-import { parseScijLaw, lawUrlPair, type TargetLaw } from './lib/parser.js';
+import { extractTextoCompletoStaticUrl, parseScijLaw, lawUrlPair, type TargetLaw } from './lib/parser.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -221,6 +221,10 @@ function extractHiddenInput(html: string, name: string): string {
 
 function decodeAmp(value: string): string {
   return value.replace(/&amp;/g, '&');
+}
+
+function isPortalErrorPage(html: string): boolean {
+  return /PagError\.aspx\?nError=/i.test(html) || /name="aspnetForm"[^>]*action="\.\/*PagError\.aspx/i.test(html);
 }
 
 function collectNormaIds(html: string): number[] {
@@ -508,10 +512,47 @@ async function ingestLaw(
   ];
 
   const cachedFicha = options.useCache ? readFirstExisting(fichaCachePaths) : null;
-  const cachedTexto = options.useCache ? readFirstExisting(textoCachePaths) : null;
+  const rawCachedTexto = options.useCache ? readFirstExisting(textoCachePaths) : null;
+  const cachedTexto = rawCachedTexto && !isPortalErrorPage(rawCachedTexto) ? rawCachedTexto : null;
+  const fichaSource = cachedFicha ? 'cache' : 'network';
+  let textSource = cachedTexto ? 'cache' : 'network:nrm';
 
   const fichaHtml = cachedFicha ?? await fetchLegislation(fichaUrl, { method: 'GET', referer: SELECTIVE_FORM_URL });
-  const textoHtml = cachedTexto ?? await fetchLegislation(textUrl, { method: 'GET', referer: SELECTIVE_FORM_URL });
+  let textoHtml = cachedTexto;
+
+  if (!textoHtml) {
+    let nrmError: unknown;
+    try {
+      const nrmHtml = await fetchLegislation(textUrl, { method: 'GET', referer: SELECTIVE_FORM_URL });
+      if (isPortalErrorPage(nrmHtml)) {
+        throw new Error('SCIJ returned PagError for nrm_texto_completo');
+      }
+      textoHtml = nrmHtml;
+    } catch (error) {
+      nrmError = error;
+    }
+
+    if (!textoHtml) {
+      const staticUrl = extractTextoCompletoStaticUrl(fichaHtml);
+      if (staticUrl) {
+        try {
+          const staticHtml = await fetchLegislation(staticUrl, { method: 'GET', referer: fichaUrl });
+          if (isPortalErrorPage(staticHtml)) {
+            throw new Error('SCIJ returned PagError for TextoCompleto static route');
+          }
+          textoHtml = staticHtml;
+          textSource = 'network:texto-completo';
+        } catch (staticError) {
+          const nrmReason = nrmError instanceof Error ? nrmError.message : String(nrmError);
+          const staticReason = staticError instanceof Error ? staticError.message : String(staticError);
+          throw new Error(`nrm_texto_completo failed (${nrmReason}); static TextoCompleto failed (${staticReason})`);
+        }
+      } else {
+        const nrmReason = nrmError instanceof Error ? nrmError.message : String(nrmError);
+        throw new Error(`nrm_texto_completo failed (${nrmReason}); no static TextoCompleto URL found in ficha`);
+      }
+    }
+  }
 
   fs.writeFileSync(path.join(SOURCE_DIR, `${law.id}.ficha.html`), fichaHtml);
   fs.writeFileSync(path.join(SOURCE_DIR, `${law.id}.texto.html`), textoHtml);
@@ -519,7 +560,7 @@ async function ingestLaw(
   const parsed = parseScijLaw(law, fichaHtml, textoHtml);
   fs.writeFileSync(seedPath, `${JSON.stringify(parsed, null, 2)}\n`);
 
-  const sourceLabel = (cachedFicha && cachedTexto) ? 'cache' : 'network';
+  const sourceLabel = `${fichaSource}+${textSource}`;
   console.log(` OK (${parsed.provisions.length} provisions, ${parsed.definitions.length} definitions, source=${sourceLabel})`);
 
   return {
