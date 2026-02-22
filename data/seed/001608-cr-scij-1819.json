@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-1819",
+  "type": "statute",
+  "title": "Exoneración de pago de derechos de aduanas a la Municipalidad Limón",
+  "title_en": "Exoneración de pago de derechos de aduanas a la Municipalidad Limón",
+  "short_name": "Norma 1819",
+  "status": "in_force",
+  "issued_date": "1963-11-04",
+  "in_force_date": "1963-11-13",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=1819",
+  "description": "Official SCIJ legislation text (nValor2=1819).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. Exonérase del pago de derechos de aduanas la",
+      "content": "importación de un camión de volteo, de una camioneta y de materiales de\ncañería, por valor de quinientos cincuenta dólares ($ 550.00), que hará la\nMunicipalidad de Limón. \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. Esta ley rige desde su publicación.",
+      "content": "Casa Presidencial.-San José, a los cuatro días del mes de\nnoviembre de mil novecientos sesenta y tres. \n \n Ficha articulo \n \nFecha de generación: 22/2/2026 03:51:32"
+    }
+  ],
+  "definitions": []
+}

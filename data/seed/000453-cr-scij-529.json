@@ -1,0 +1,45 @@
+{
+  "id": "cr-scij-529",
+  "type": "statute",
+  "title": "Reforma Código de Educación",
+  "title_en": "Reforma Código de Educación",
+  "short_name": "Norma 529",
+  "status": "in_force",
+  "issued_date": "1946-05-10",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=529",
+  "description": "Official SCIJ legislation text (nValor2=529).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Refórmase los incisos 1), 13), que se restablece por",
+      "content": "estar derogado, y 2) de los artículos 428, 429 y 435 del Código de\n \n Educación por su orden, los cuales se leerán así:"
+    },
+    {
+      "provision_ref": "art428",
+      "section": "428",
+      "title": "ARTÍCULO 428. - 1)- Elegir Rector y secretario de la Universidad, en",
+      "content": "votación secreta y por mayoría relativa."
+    },
+    {
+      "provision_ref": "art429",
+      "section": "429",
+      "title": "ARTÍCULO 429. - 13)- Designar, en votación secreta y por mayoría",
+      "content": "relativa, Director y Secretario de las Escuelas Universitarias. La\n \n designación de Director se hará necesariamente de una terna que le\n \n presentará cada Facultad."
+    },
+    {
+      "provision_ref": "art435",
+      "section": "435",
+      "title": "ARTÍCULO 435. - 2)- Formar las ternas para la elección de Directores",
+      "content": "y personal docente de las Escuelas Universitarias; las de los primeros con\n \n dos elementos de su propia designación y uno que designarán los\n \n estudiantes de la respectiva escuela. Una y otra designación se hará en\n \n votación secreta y por mayoría relativa.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Esta ley entrará en vigencia desde la fecha de su",
+      "content": "publicación en el Diario Oficial.\n \n Ficha articulo \n \nFecha de generación: 22/2/2026 01:53:40"
+    }
+  ],
+  "definitions": []
+}

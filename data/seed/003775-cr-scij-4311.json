@@ -1,0 +1,33 @@
+{
+  "id": "cr-scij-4311",
+  "type": "statute",
+  "title": "Interpreta Ley de Impuesto sobre las Ventas",
+  "title_en": "Interpreta Ley de Impuesto sobre las Ventas",
+  "short_name": "Norma 4311",
+  "status": "in_force",
+  "issued_date": "1970-08-12",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=4311",
+  "description": "Official SCIJ legislation text (nValor2=4311).",
+  "provisions": [
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "ARTÍCULO 14. de la Ley del Impuesto sobre las Ventas, Nº 3914 de 17 de",
+      "content": "julio de 1967, en el sentido de que las exportaciones a que se refiere el\n \n mismo, como exentas del pago del Impuesto sobre las Ventas, son tanto las\n \n exportaciones de mercancías, como las exportaciones de servicios.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Dicha ley, en todos los casos en que se refiere a",
+      "content": "exportaciones, comprende tanto mercancías como servicios.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "ARTÍCULO 3. - Rige a partir de su publicación.",
+      "content": "Ficha articulo \n \nFecha de generación: 22/2/2026 07:13:24"
+    }
+  ],
+  "definitions": []
+}

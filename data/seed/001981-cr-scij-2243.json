@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-2243",
+  "type": "statute",
+  "title": "Exoneración de pago de impuestos al Comité Auxiliar de la Cruz Roja de Turrialba",
+  "title_en": "Exoneración de pago de impuestos al Comité Auxiliar de la Cruz Roja de Turrialba",
+  "short_name": "Norma 2243",
+  "status": "in_force",
+  "issued_date": "1974-11-28",
+  "in_force_date": "1974-12-14",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=2243",
+  "description": "Official SCIJ legislation text (nValor2=2243).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. Exonérase del pago de toda clase de impuestos la",
+      "content": "compra de un vehículo automotor que rifará el Comité Auxiliar de la Cruz Roja\nde Turrialba, con el fin de recaudar fondos para la construcción de su\nedificio. \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. Esta ley rige a partir de su publicación.",
+      "content": "Casa Presidencial.-San José, a los veintiocho días del mes\nde noviembre de mil novecientos setenta y cuatro. \n \n Ficha articulo \n \nFecha de generación: 22/2/2026 04:24:58"
+    }
+  ],
+  "definitions": []
+}

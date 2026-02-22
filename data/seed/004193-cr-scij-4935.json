@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-4935",
+  "type": "statute",
+  "title": "Reforma Código Municipal",
+  "title_en": "Reforma Código Municipal",
+  "short_name": "Norma 4935",
+  "status": "in_force",
+  "issued_date": "1970-07-27",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=4935",
+  "description": "Official SCIJ legislation text (nValor2=4935).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Refórmase el inciso f) del artículo 21 del Código",
+      "content": "Municipal, ley Nº 4574 de 4 de mayo de 1970, para que se lea así:\n \n \"f) Nombrar directamente a los miembros de las Juntas Administrativas\n \n de centros oficiales de enseñanza, los cuales sólo podrán ser removidos con\n \n justa causa\".\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Rige a partir de su publicación.",
+      "content": "Ficha articulo \n \nFecha de generación: 22/2/2026 08:07:13"
+    }
+  ],
+  "definitions": []
+}

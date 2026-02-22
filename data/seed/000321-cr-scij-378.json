@@ -1,0 +1,33 @@
+{
+  "id": "cr-scij-378",
+  "type": "statute",
+  "title": "Crea Colegio Nocturno en Desamparados",
+  "title_en": "Crea Colegio Nocturno en Desamparados",
+  "short_name": "Norma 378",
+  "status": "in_force",
+  "issued_date": "1967-05-22",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=378",
+  "description": "Official SCIJ legislation text (nValor2=378).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Créase el Colegio Nocturno de Enseñanza Media, con",
+      "content": "asiento en la ciudad de Desamparados, dependiente del Ministerio de\n \n Educación.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - El Colegio iniciará sus labores cuando el Consejo",
+      "content": "Superior de Educación lo considere oportuno.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "ARTÍCULO 3. - Esta ley rige a partir de su publicación.",
+      "content": "Ficha articulo \n \nFecha de generación: 22/2/2026 01:44:29"
+    }
+  ],
+  "definitions": []
+}

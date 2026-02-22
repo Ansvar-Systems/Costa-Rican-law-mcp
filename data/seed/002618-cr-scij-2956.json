@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-2956",
+  "type": "statute",
+  "title": "Reforma Ley Impuesto Renta",
+  "title_en": "Reforma Ley Impuesto Renta",
+  "short_name": "Norma 2956",
+  "status": "in_force",
+  "issued_date": "1969-08-22",
+  "in_force_date": "1969-08-27",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=2956",
+  "description": "Official SCIJ legislation text (nValor2=2956).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Agrégase un inciso al artículo 6º de la Ley de Impuesto sobre",
+      "content": "la Renta, Nº 837 de 20 de diciembre de 1946, con el siguiente texto: \n \n \"4) Las sumas\ndonadas a la Orquesta Sinfónica Nacional para su operación y\nmantenimiento.\" \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Rige a",
+      "content": "partir de su publicación. \n \n Casa Presidencial.-San\nJosé, a los veintidós días del mes de agosto de mil novecientos sesenta y\nnueve. \n \n Ficha articulo \n \nFecha de generación: 22/2/2026 05:17:40"
+    }
+  ],
+  "definitions": []
+}

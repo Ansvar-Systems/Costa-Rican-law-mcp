@@ -1,0 +1,33 @@
+{
+  "id": "cr-scij-6281",
+  "type": "statute",
+  "title": "Impuestos municipales de Golfito y Aguirre",
+  "title_en": "Impuestos municipales de Golfito y Aguirre",
+  "short_name": "Norma 6281",
+  "status": "in_force",
+  "issued_date": "1964-07-27",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=6281",
+  "description": "Official SCIJ legislation text (nValor2=6281).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Los impuestos creados por la Ley Nº 812 de 26 de",
+      "content": "noviembre de 1946, regirán también para los cantones de Golfito y\n \n Aguirre y deberán destinarse al mantenimiento del Hospital del cantón\n \n correspondiente o a su construcción, si no lo hubiere.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Para el cobro y control de los impuestos a que se",
+      "content": "refiere el artículo anterior, se aplicarán las disposiciones contenidas\n \n en los artículos 3º, 4º y 5º de la referida ley, aplicada en lo\n \n conducente a los cantones de Golfito y Aguirre.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "ARTÍCULO 3. - Esta ley rige a partir de su publicación.",
+      "content": "Ficha articulo \n \nFecha de generación: 22/2/2026 10:19:16"
+    }
+  ],
+  "definitions": []
+}

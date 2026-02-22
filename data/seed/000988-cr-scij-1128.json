@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-1128",
+  "type": "statute",
+  "title": "Integra Comisión Permanente Congreso",
+  "title_en": "Integra Comisión Permanente Congreso",
+  "short_name": "Norma 1128",
+  "status": "in_force",
+  "issued_date": "1908-08-19",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=1128",
+  "description": "Official SCIJ legislation text (nValor2=1128).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. Eligense para ejercer el Poder Ejecutivo en las",
+      "content": "faltas temporales o absolutas del Presidente de la\nRepública con el carácter del Primer Designado, al señor Doctor don Carlos\nDurán, con el de segundo, al señor Licenciado don Andrés Venegas y con el\ntercero al señor licenciado don José Astúa Aguilar. \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. Estos altos funcionarios prestarán el juramento de ley y tomarán posesión de",
+      "content": "su cargo, a las doce del día ocho del corriente mes, en el Salón de Sesiones. \n \n \n \n Al\nPoder Ejecutivo \n \n \n \n Dado\nen el Salón de Sesiones del Congreso, Palacio Nacional, San José, a los cuatro\ndías del mes de mayo de mil novecientos seis. \n \n Ficha articulo \n \nFecha de generación: 22/2/2026 02:46:53"
+    }
+  ],
+  "definitions": []
+}

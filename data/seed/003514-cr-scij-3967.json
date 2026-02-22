@@ -1,0 +1,51 @@
+{
+  "id": "cr-scij-3967",
+  "type": "statute",
+  "title": "Reforma CPC, LOPJ",
+  "title_en": "Reforma CPC, LOPJ",
+  "short_name": "Norma 3967",
+  "status": "in_force",
+  "issued_date": "1958-12-22",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=3967",
+  "description": "Official SCIJ legislation text (nValor2=3967).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Refórmanse los incisos 1) y 2) de los artículos 81 y",
+      "content": "91 y el inciso 4) del artículo 86 de la Ley Orgánica del Poder Judicial,\n \n así:\n \n \"Artículo 81.- Los Jueces Civiles conocerán:\n \n 1) De todo asunto cuya cuantía exceda de tres mil colones, cuando no\n \n corresponda al Juzgado de lo Contencioso Administrativo y Civil de\n \n Hacienda;\n \n 2) De todo litigio en que sean actores los Municipios y Juntas de\n \n Educación de sus respectivas jurisdicciones, siempre que su cuantía\n \n exceda de tres mil colones, y de las tercerías y reconvenciones que\n \n puedan provocar esas acciones;"
+    },
+    {
+      "provision_ref": "art86",
+      "section": "86",
+      "title": "ARTÍCULO 86. - El Juez de lo Contencioso Administrativo y Civil de",
+      "content": "Hacienda conocerá:\n \n 4) De todos los litigios que es establezcan contra los Municipios y\n \n Juntas de Educación, siempre que la cuantía del negocio exceda de tres\n \n mil colones y salvo los casos de reconvenciones y tercerías a que se\n \n refiere el inciso 2) del artículo 81;"
+    },
+    {
+      "provision_ref": "art91",
+      "section": "91",
+      "title": "ARTÍCULO 91. - En materia civil conocerán los Alcaldes en primera",
+      "content": "instancia:\n \n 1) De los asuntos cuya cuantía no exceda de tres mil colones, salvo\n \n de aquellos a que se refieren los incisos 2) y 3) del artículo 86; y\n \n 2) De los asuntos a que aluden los artículos 81, inciso 2) y 86,\n \n inciso 4), cuando la cuantía no exceda de tres mil colones\".\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Refórmanse los artículos 18, 163, 188, 189, 190, 191,",
+      "content": "351, 371, 373, 381, y 382 del Código de Procedimientos Civiles, los\n \n cuales se leerán así:\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "ARTÍCULO 3. - Deróganse el artículo 368 y el Capítulo Unico, Título",
+      "content": "V, Libro Cuarto, del Código de Procedimientos Civiles, que comprende los\n \n artículos 1060 y 1089.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "ARTÍCULO 4. - Esta ley entrará en vigencia el primero de enero de",
+      "content": "1959, pero los juicios iniciados antes de esa fecha seguirán tramitándose\n \n y fenecerán de acuerdo con los textos derogados.\n \n Ficha articulo \n \nFecha de generación: 22/2/2026 06:45:02"
+    }
+  ],
+  "definitions": []
+}

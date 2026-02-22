@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-6611",
+  "type": "statute",
+  "title": "Ordena Publicación y Vigencia Constitución de 1871",
+  "title_en": "Ordena Publicación y Vigencia Constitución de 1871",
+  "short_name": "Norma 6611",
+  "status": "in_force",
+  "issued_date": "1872-01-05",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=6611",
+  "description": "Official SCIJ legislation text (nValor2=6611).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. -La Constitución emitida por la",
+      "content": "Asamblea Nacional Constituyente en 7 de diciembre del año próximo pasado se\npublicar con la solemnidad debida en todos los pueblos de la República el\nDomingo 28 del corriente a las doce del día y comenzar a regir el 8 de\nmayo del presente año, en que, según ella, debe tomar posesión el Presidente\nConstitucional, sin perjuicio de que desde el 1° del mismo mayo se reúna el\nCongreso a llenar las funciones que dicha Constitución le señala. \n \n único. -Las funciones del Consejo de Estado\ncesarán el último de abril de este mismo año. \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. -El juramento de la Constitución y",
+      "content": "las elecciones que conforme a ella deben practicarse se arreglar n a la\nley que oportunamente se dictar. \n \n Dado en el Palacio Nacional, San José a los\ncinco días del mes de enero de mil ochocientos setenta y dos. \n \n \n \n Ficha articulo \n \nFecha de generación: 22/2/2026 11:17:30"
+    }
+  ],
+  "definitions": []
+}

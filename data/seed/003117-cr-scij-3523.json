@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-3523",
+  "type": "statute",
+  "title": "Exonera Impuestos Producción y Transporte Granos y Leche",
+  "title_en": "Exonera Impuestos Producción y Transporte Granos y Leche",
+  "short_name": "Norma 3523",
+  "status": "in_force",
+  "issued_date": "1977-07-20",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=3523",
+  "description": "Official SCIJ legislation text (nValor2=3523).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Se exonera de toda clase de contribuciones e impuestos",
+      "content": "de índole municipal la producción y transporte de granos básicos y de la\n \n leche y sus derivados.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Esta ley es de orden público y rige a partir de su",
+      "content": "publicación.\n \n Ficha articulo \n \nFecha de generación: 22/2/2026 06:02:42"
+    }
+  ],
+  "definitions": []
+}

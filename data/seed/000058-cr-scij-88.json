@@ -1,0 +1,33 @@
+{
+  "id": "cr-scij-88",
+  "type": "statute",
+  "title": "Impuesto a Certificaciones del Registro General de Prendas",
+  "title_en": "Impuesto a Certificaciones del Registro General de Prendas",
+  "short_name": "Norma 88",
+  "status": "in_force",
+  "issued_date": "1970-10-31",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=88",
+  "description": "Official SCIJ legislation text (nValor2=88).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Las fotocopias de las certificaciones practicadas",
+      "content": "mediante el sistema de microfilm que funciona en el Registro General de\n \n Prendas pagarán, adicionalmente a los impuestos establecidos por leyes\n \n anteriores, un colón (¢ 1.00) de timbre por cada hoja o fracción.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Los fondos que se recauden, en virtud de lo dispuesto",
+      "content": "en el artículo anterior, serán depositados dentro de los primeros cinco\n \n días de cada mes, por el Banco Central de Costa Rica, directamente en la\n \n cuenta corriente de la Junta Administrativa del Registro Nacional y se\n \n destinarán a la adquisición de materiales y equipo y demás gastos de\n \n mantenimiento del Registro General de Prendas.\n \n Para efectos de control, los timbres que se usen en las fotocopias\n \n llevarán un distintivo especial.\n \n (Así reformado por artículo 1º de Ley Nº 5950 de 27 de octubre de 1976)\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "ARTÍCULO 3. - Rige a partir de su publicación.",
+      "content": "Ficha articulo \n \nFecha de generación: 21/2/2026 09:31:51"
+    }
+  ],
+  "definitions": []
+}

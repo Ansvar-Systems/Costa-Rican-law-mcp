@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-4555",
+  "type": "statute",
+  "title": "Ley de presupuesto extraordinario",
+  "title_en": "Ley de presupuesto extraordinario",
+  "short_name": "Norma 4555",
+  "status": "in_force",
+  "issued_date": "1949-12-01",
+  "in_force_date": "1949-03-12",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=4555",
+  "description": "Official SCIJ legislation text (nValor2=4555).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Derógase, a partir del ocho de noviembre del año en",
+      "content": "curso, el Capítulo Unico de la Sección Primera, Parte Primera del\n \n Presupuesto General Ordinario, correspondiente a la Asamblea\n \n Constituyente, cuyo saldo a la fecha indicada es de ciento ochenta y tres\n \n mil doce colones y setenta céntimos (¢ 183,012.77.)\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - En sustitución del Capítulo que se deroga, autorízase,",
+      "content": "a partir de la misma fecha y hasta el 31 de diciembre del mismo año, el\n \n siguiente Presupuesto para la Asamblea Legislativa, el cual se cubrirá con\n \n el saldo indicado en el artículo anterior.\n \n Ficha articulo \n \nFecha de generación: 22/2/2026 07:38:17"
+    }
+  ],
+  "definitions": []
+}

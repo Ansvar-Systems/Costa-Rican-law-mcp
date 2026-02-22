@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-4732",
+  "type": "statute",
+  "title": "Modificación Presupuestaria",
+  "title_en": "Modificación Presupuestaria",
+  "short_name": "Norma 4732",
+  "status": "in_force",
+  "issued_date": "1971-04-13",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=4732",
+  "description": "Official SCIJ legislation text (nValor2=4732).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Se deroga el artículo 11 de la Ley de Modificación",
+      "content": "al Presupuesto de 1965, Nº 3599 de 30 de noviembre de 1965.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Esta ley rige a partir de su publicación.",
+      "content": "Ficha articulo \n \nFecha de generación: 22/2/2026 07:49:22"
+    }
+  ],
+  "definitions": []
+}

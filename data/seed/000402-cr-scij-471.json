@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-471",
+  "type": "statute",
+  "title": "Reforma Código de Educación",
+  "title_en": "Reforma Código de Educación",
+  "short_name": "Norma 471",
+  "status": "in_force",
+  "issued_date": "1949-05-03",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=471",
+  "description": "Official SCIJ legislation text (nValor2=471).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - El artículo 134 del Código de Educación se leerá así:",
+      "content": "\"Artículo 134.-Cuando la licencia se conceda al maestro por razón de\n \n enfermedad debidamente comprobada, se girará a su favor una suma mensual\n \n equivalente a la mitad de su sueldo anterior a la licencia.\n \n Estos auxilios solamente se concederán por tiempo mayor de seis\n \n meses, cuando el maestro haya sido internado en el Asilo Chapuí o en\n \n instituciones oficiales de lucha contra la tuberculosis o la lepra. En\n \n tales casos el auxilio será equivalente a la totalidad del sueldo, y se\n \n girará durante todo el tiempo que permanezca bajo tratamiento en tales\n \n establecimientos, o bajo su control.\"\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - El artículo 297 del Código de Educación se leerá así:",
+      "content": "\"Artículo 297.-Los Directores, Profesores y demás funcionarios y\n \n empleados, docentes o administrativos, de los Colegios Oficiales de\n \n Segunda Enseñanza, estarán amparados por las disposiciones del artículo\n \n 134 de este mismo Código. Además tendrán derecho a las jubilaciones y\n \n pensiones que regulan los artículos 166 a 197, siempre que hubieren\n \n prestado servicios en la docencia nacional con anterioridad a la vigencia\n \n de la Ley de Seguros Sociales; y a las prestaciones que señala esa ley en\n \n caso contrario.\"\n \n Ficha articulo \n \nFecha de generación: 22/2/2026 01:49:50"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-6498",
+  "type": "statute",
+  "title": "Reforma Código de Trabajo",
+  "title_en": "Reforma Código de Trabajo",
+  "short_name": "Norma 6498",
+  "status": "in_force",
+  "issued_date": "1962-11-07",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=6498",
+  "description": "Official SCIJ legislation text (nValor2=6498).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Adiciónase el párrafo final del artículo 85 del",
+      "content": "Código de Trabajo, así:\n \n \"Para el pago de las prestaciones indicadas, el Tribunal\n \n correspondiente ordenará la publicación de un edicto en el \"Boletín\n \n Judicial\". Ocho días después de su publicación el juez de trabajo\n \n determinará la forma en que deba entregarse el giro a los interesados\n \n conforme al orden establecido. Si se presentaren consignaciones por\n \n este concepto, el juez deberá llamar de inmediato a los interesados\n \n mediante la publicación del edicto indicado\".\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Esta ley rige desde su publicación.",
+      "content": "Ficha articulo \n \nFecha de generación: 22/2/2026 11:00:07"
+    }
+  ],
+  "definitions": []
+}

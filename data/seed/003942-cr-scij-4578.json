@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-4578",
+  "type": "statute",
+  "title": "Reforma Código de Trabajo",
+  "title_en": "Reforma Código de Trabajo",
+  "short_name": "Norma 4578",
+  "status": "in_force",
+  "issued_date": "1970-04-30",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=4578",
+  "description": "Official SCIJ legislation text (nValor2=4578).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Refórmase el artículo 406 del Código de Trabajo, para",
+      "content": "que se lea así:\n \n \"Artículo 406.- Todos los miembros del Tribunal Superior de Trabajo\n \n durarán cuatro años en sus cargos y su remuneración será la que establezca\n \n la Corte Plena de conformidad con la Ley de Salarios del Poder Judicial\".\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Esta ley rige desde su publicación, pero no afectará los",
+      "content": "salarios que en la actualidad devengan los Jueces del Tribunal Superior de\n \n Trabajo o de los demás Tribunales Superiores.\n \n Ficha articulo \n \nFecha de generación: 22/2/2026 07:39:13"
+    }
+  ],
+  "definitions": []
+}

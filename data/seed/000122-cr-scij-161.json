@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-161",
+  "type": "statute",
+  "title": "Reforma Ley de Pensiones y Jubilaciones del Magisterio Nacional",
+  "title_en": "Reforma Ley de Pensiones y Jubilaciones del Magisterio Nacional",
+  "short_name": "Norma 161",
+  "status": "in_force",
+  "issued_date": "1960-09-27",
+  "in_force_date": "1960-10-02",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=161",
+  "description": "Official SCIJ legislation text (nValor2=161).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Modifícase el artículo 4º en su inciso d), de la ley Nº 2248",
+      "content": "de 5 de setiembre de 1958, el cual se leerá así: \n \n \"Inciso d).- La\njubilación extraordinaria se calculará dividiendo entre 120 el total de las\nsumas nominales devengadas durante los últimos diez años de servicio,\nincluyendo sueldos y sobresueldos y multiplicandola \ncantidad así obtenida por el número de años servidos sin que puedan pasar de\n30. \n \n La aplicación de esta\nreforma cubrirá a todas las pensiones extraordinarias acordadas con la ley Nº\n2248\". \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Esta",
+      "content": "ley rige desde su publicación \n \n Casa Presidencial.-San\nJosé, a los veintisiete días del mes de setiembre de mil novecientos sesenta. \n \n Ficha articulo \n \nFecha de generación: 21/2/2026 22:00:34"
+    }
+  ],
+  "definitions": []
+}

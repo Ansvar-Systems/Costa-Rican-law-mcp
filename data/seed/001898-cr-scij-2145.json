@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-2145",
+  "type": "statute",
+  "title": "Reforma Código de Trabajo",
+  "title_en": "Reforma Código de Trabajo",
+  "short_name": "Norma 2145",
+  "status": "in_force",
+  "issued_date": "1966-01-06",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=2145",
+  "description": "Official SCIJ legislation text (nValor2=2145).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Refórmese el inciso 1) del artículo 317 del Código",
+      "content": "de Trabajo, para que se lea así:\n \n \"1) La época fija en que cada año se reunirá la Asamblea General\n \n para elegir, cuando sea del caso, la Junta Directiva, el Gerente, el\n \n SubGerente y el Comité de Vigilancia; y para conocer la rendición de\n \n cuentas, distribución de excedentes, inventarios, balances y memorias\n \n que habrán de serle presentados\".\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Adiciónase el artículo 327 del mismo Código, con el",
+      "content": "siguiente párrafo:\n \n \"Para sustituir las ausencias temporales o absolutas del Gerente, la\n \n Asamblea podrá nombrar un Subgerente, con iguales facultades y poderes que\n \n éste\".\n \n Ficha articulo \n \nFecha de generación: 22/2/2026 04:17:17"
+    }
+  ],
+  "definitions": []
+}

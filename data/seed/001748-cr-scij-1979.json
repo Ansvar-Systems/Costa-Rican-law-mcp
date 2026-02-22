@@ -1,0 +1,33 @@
+{
+  "id": "cr-scij-1979",
+  "type": "statute",
+  "title": "Interpreta Ley sobre Aumento Impuesto Ad Valorem (Nº 1484)",
+  "title_en": "Interpreta Ley sobre Aumento Impuesto Ad Valorem (Nº 1484)",
+  "short_name": "Norma 1979",
+  "status": "in_force",
+  "issued_date": "1954-10-08",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=1979",
+  "description": "Official SCIJ legislation text (nValor2=1979).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Interpretando los artículos 3º y 4º y transitorio",
+      "content": "segundo de la ley Nº 1484 de 4 de agosto de 1952, se declara que todos\n \n superávit producido en la renta del 2% ad valorem desde su creación por\n \n la citada ley, debe distribuirse entre le fisco y las Municipalidades del\n \n país en la proporción que señala esa ley. En caso de déficit se\n \n disminuirá en la misma proporción.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - En consecuencia, en los procedimientos nacionales",
+      "content": "respectivos se harán las correspondientes rectificaciones.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "ARTÍCULO 3. - Esta ley rige desde su publicación.",
+      "content": "Ficha articulo \n \nFecha de generación: 22/2/2026 04:02:45"
+    }
+  ],
+  "definitions": []
+}

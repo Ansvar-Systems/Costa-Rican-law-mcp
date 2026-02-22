@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-2019",
+  "type": "statute",
+  "title": "Reforma Emisión de Bonos Vivienda para Asegurados",
+  "title_en": "Reforma Emisión de Bonos Vivienda para Asegurados",
+  "short_name": "Norma 2019",
+  "status": "in_force",
+  "issued_date": "1970-11-23",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=2019",
+  "description": "Official SCIJ legislation text (nValor2=2019).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Refórmase el artículo 7º de la Ley de Emisión de ¢",
+      "content": "35,000.000 de Bonos Vivienda para Asegurados 5 I/4%, Nº 3242 de 14 de\n \n noviembre de 1963, para que se lea así:\n \n \"Artículo 7º.- Autorízase a la Caja Costarricense de Seguro Social\n \n para adquirir del Instituto Nacional de Vivienda y Urbanismo, la totalidad\n \n de los bonos originados en esta ley y en las condiciones que convengan\n \n ambas Instituciones.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Esta ley rige a partir de su publicación.",
+      "content": "Ficha articulo \n \nFecha de generación: 22/2/2026 04:06:36"
+    }
+  ],
+  "definitions": []
+}

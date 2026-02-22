@@ -1,0 +1,39 @@
+{
+  "id": "cr-scij-1253",
+  "type": "statute",
+  "title": "Ley de presupuesto extraordinario",
+  "title_en": "Ley de presupuesto extraordinario",
+  "short_name": "Norma 1253",
+  "status": "in_force",
+  "issued_date": "1959-10-05",
+  "in_force_date": "1959-06-10",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=1253",
+  "description": "Official SCIJ legislation text (nValor2=1253).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. �.- Refórmanse los artículos 21 y 22 de la ley N� 12 de 30",
+      "content": "de octubre de 1924, los cuales se leerán así:"
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "ARTÍCULO 21. - Las reservas matemáticas del Banco, así como las",
+      "content": "técnicas, se invertirán en las más eficientes condiciones de garantía y\n \n rentabilidad. Las inversiones se harán tomando en cuenta la naturaleza de\n \n las obligaciones contraídas por la institución.\n \n Podrá el Banco efectuar las operaciones de redescuento que para los\n \n Bancos Comerciales autoriza el artículo 85 de la Ley del Banco Nacional de\n \n Costa Rica de 5 de noviembre de 1936.\n \n Le está prohibido al Banco:\n \n 1�.- Hacer compras o préstamos para fomentar especulaciones de\n \n cualquier género;\n \n 2�.- Comprar o pignorar acciones u obligaciones de sociedades\n \n anónimas;\n \n 3�.- Invertir más del 25% de sus reservas libres en deuda pública;\n \n 4�.- Especular en cambios de moneda o en giros de letras;\n \n 5�.- Emprestar dinero al Gobierno, Municipalidades u otros organismos\n \n del Estado, o a particulares, si no es con garantías reales que puedan\n \n hacerse efectivas en caso de incumplimiento de la obligación u\n \n obligaciones;\n \n 6�.- Otorgar crédito a personas naturales o jurídicas que no\n \n favorezcan a los regímenes de seguro del Estado."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "ARTÍCULO 22. - Las reservas libres del Banco podrán invertirse:",
+      "content": "1�.- En la ampliación de los servicios que el Banco brinda a sus\n \n asegurados;\n \n 2�.- Hasta un 50% de las mismas en la adquisición de bienes inmuebles\n \n productores de renta, bonos, cédulas hipotecarias y construcción de casas\n \n para empleados.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. �.- Esta ley regirá desde su publicación.",
+      "content": "Ficha articulo \n \nFecha de generaci�n: 22/2/2026 02:57:54"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "cr-scij-924",
+  "type": "statute",
+  "title": "Comisión Redactora Proyecto Constitución Política",
+  "title_en": "Comisión Redactora Proyecto Constitución Política",
+  "short_name": "Norma 924",
+  "status": "in_force",
+  "issued_date": "1948-05-20",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=924",
+  "description": "Official SCIJ legislation text (nValor2=924).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Créase una Comisión compuesta de diez miembros de",
+      "content": "nombramiento de esta Junta, cuya función será la de redactar el proyecto\n \n de Constitución Política de la Segunda República.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Los miembros de esa Comisión gozarán de la inmunidad y",
+      "content": "de las prerrogativas inherentes a los miembros de los Supremos Poderes,\n \n devengarán un sueldo mensual de un mil colones, y tendrán facultad para\n \n nombrar los\n \n empleados indispensables para el debido cumplimiento de sus funciones.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "ARTÍCULO 3. - Los miembros de la Junta Fundadora de la Segunda",
+      "content": "República podrán tomar parte en las deliberaciones para exponer sus\n \n puntos de vista técnicos en materia de gobierno, pero no tendrán derecho\n \n a emitir voto en las resoluciones de la misma.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "ARTÍCULO 4. - Las funciones de la Comisión deberán quedar cumplidas",
+      "content": "antes del 8 de noviembre del año en curso. (*)\n \n ----------\n \n (*) Prorrogado este plazo por un mes más, según Decreto-Ley Nº 223 de\n \n 19 de octubre de 1948.\n \n Ficha articulo \n \nFecha de generación: 22/2/2026 02:26:43"
+    }
+  ],
+  "definitions": []
+}

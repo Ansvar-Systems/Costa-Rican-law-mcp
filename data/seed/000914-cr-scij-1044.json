@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-1044",
+  "type": "statute",
+  "title": "Crea Cargo Procurador de Hacienda",
+  "title_en": "Crea Cargo Procurador de Hacienda",
+  "short_name": "Norma 1044",
+  "status": "in_force",
+  "issued_date": "1948-07-17",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=1044",
+  "description": "Official SCIJ legislation text (nValor2=1044).",
+  "provisions": [
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "ARTÍCULO 29. de la Ley Orgánica Procuraduría General de la República, N°",
+      "content": "3848 del 10 de enero de 1967)"
+    },
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. Ficha articulo",
+      "content": "Fecha de generación: 22/2/2026 02:38:12"
+    }
+  ],
+  "definitions": []
+}

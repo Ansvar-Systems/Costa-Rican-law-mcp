@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-3240",
+  "type": "statute",
+  "title": "Exoneración de impuestos a la Asociación de Desarrollo Comunal de La Arena",
+  "title_en": "Exoneración de impuestos a la Asociación de Desarrollo Comunal de La Arena",
+  "short_name": "Norma 3240",
+  "status": "in_force",
+  "issued_date": "1974-10-17",
+  "in_force_date": "1974-10-29",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=3240",
+  "description": "Official SCIJ legislation text (nValor2=3240).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. Se autoriza a la Asociación de Desarrollo",
+      "content": "Comunal de La Arena, distrito de San José, cantón de Grecia, para rifar un\nautomóvil cuya adquisición estará exenta de toda clase de impuestos. El\nproducto de la rifa se destinará a realizar obras de interés comunal en La\nArena. \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. Rige a partir de su publicación.",
+      "content": "Casa Presidencial.-San José, a los diecisiete días del mes de octubre de\nmil novecientos setenta y cuatro. \n \n Ficha articulo \n \nFecha de generación: 22/2/2026 05:39:38"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cr-scij-1960",
+  "type": "statute",
+  "title": "Rebaja de Sumas Adeudadas a Regímenes de Pensiones y Jubilaciones",
+  "title_en": "Rebaja de Sumas Adeudadas a Regímenes de Pensiones y Jubilaciones",
+  "short_name": "Norma 1960",
+  "status": "in_force",
+  "issued_date": "1966-11-22",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=1960",
+  "description": "Official SCIJ legislation text (nValor2=1960).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Los beneficiarios de regímenes de pensiones y jubilaciones de los Poderes",
+      "content": "Ejecutivo y Legislativo y de las instituciones autónomas y semiautónomas, podrán\nacogerse a pensión o jubilación aunque adeudaren alguna suma al fondo del régimen\nrespectivo, por la no retención de la misma en su oportunidad sin culpa del trabajador,\nésta le será deducida en un 5% mensual sobre el monto de la pensión o jubilación\nacordada, hasta su cancelación. \n \n Si el\npensionado falleciere antes de la cancelación de la deuda, el faltante se le seguirá\ndeduciendo a sus beneficiarios, si los tuviere. \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - La Oficina Técnica Mecanizada, y la oficina respectiva en las",
+      "content": "instituciones autónomas y semiautónomas, deberán practicar las retenciones que les\nautoricen los empleados cuando éstos estuvieren en deuda con el fondo de pensiones. \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "ARTÍCULO 3. - Esta ley rige desde el día de su",
+      "content": "publicación. \n \n Ficha articulo \n \nFecha de generación: 22/2/2026 04:01:39"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cr-scij-2907",
+  "type": "statute",
+  "title": "Exoneración de impuestos a la Junta de Protección Social de Alajuela",
+  "title_en": "Exoneración de impuestos a la Junta de Protección Social de Alajuela",
+  "short_name": "Norma 2907",
+  "status": "in_force",
+  "issued_date": "1968-11-11",
+  "in_force_date": "1968-11-14",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=2907",
+  "description": "Official SCIJ legislation text (nValor2=2907).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. Exonérase del pago de toda clase de impuesto, el",
+      "content": "equipo y los materiales de construcción que adquiera en plaza o importe la\nJunta de Protección Social de Alajuela, con destino a la edificación y\nacondicionamiento de un pensionado y una lavandería para el Hospital San\nRafael. \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. El Departamento de Arquitectura Hospitalaria de",
+      "content": "la Dirección General de Asistencia Médico-Social, fiscalizará y pondrá el vistió\nbueno a las órdenes de compra. \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "ARTÍCULO 3. Esta ley rige desde su publicación.",
+      "content": "Casa Presidencial.-San José, a los once días del mes de\nnoviembre de mil novecientos sesenta y ocho. \n \n Ficha articulo \n \nFecha de generación: 22/2/2026 05:14:22"
+    }
+  ],
+  "definitions": []
+}

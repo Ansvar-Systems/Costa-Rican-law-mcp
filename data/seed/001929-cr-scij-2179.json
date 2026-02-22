@@ -1,0 +1,21 @@
+{
+  "id": "cr-scij-2179",
+  "type": "statute",
+  "title": "Reforma constitucional",
+  "title_en": "Reforma constitucional",
+  "short_name": "Norma 2179",
+  "status": "in_force",
+  "issued_date": "1971-05-17",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=2179",
+  "description": "Official SCIJ legislation text (nValor2=2179).",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "único",
+      "title": "ARTÍCULO único. - Refórmase el artículo 90 de la Constitución",
+      "content": "Política, para que se lea así:\n \n \"Artículo 90.- La ciudadanía es el conjunto de derechos y deberes\n \n políticos que corresponden a los costarricenses mayores de dieciocho\n \n años\".\n \n Ficha articulo \n \nFecha de generación: 22/2/2026 04:19:40"
+    }
+  ],
+  "definitions": []
+}

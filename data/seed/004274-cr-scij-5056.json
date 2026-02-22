@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-5056",
+  "type": "statute",
+  "title": "Reforma Código Civil",
+  "title_en": "Reforma Código Civil",
+  "short_name": "Norma 5056",
+  "status": "in_force",
+  "issued_date": "1966-06-03",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=5056",
+  "description": "Official SCIJ legislation text (nValor2=5056).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Suprímese el inciso 5) del artículo 55 del Código",
+      "content": "Civil.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Adiciónase el inciso 4) del artículo 592 del Código",
+      "content": "Civil, para que se lea así:\n \n \"Inciso 4) Del cónyuge adúltero, su copartícipe, si se ha probado\n \n judicialmente el adulterio, salvo que se hubieren unido en matrimonio\".\n \n Ficha articulo \n \nFecha de generación: 22/2/2026 08:16:53"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cr-scij-4220",
+  "type": "statute",
+  "title": "Ley de presupuesto extraordinario",
+  "title_en": "Ley de presupuesto extraordinario",
+  "short_name": "Norma 4220",
+  "status": "in_force",
+  "issued_date": "1956-11-21",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=4220",
+  "description": "Official SCIJ legislation text (nValor2=4220).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. Traspásase",
+      "content": "gratuitamente al Centro Agrícola Cantonal de Cartago, la finca del Estado\ninscrita en el Registro de la Propiedad, Partido de Cartago, al tomo 2079,\nfolio 519, número 70.789, asiento 1°, ubicada en el barrio El Molino, distrito\n2°, cantón primero de la provincia de Cartago, que es terreno inculto,\ndestinado a construir el campo de exposiciones agropecuarias e industriales,\ndenominado Campo Ayala. \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. Se autoriza al Procurador General de la",
+      "content": "república, para otorgar, en nombre y representación del estado y ante la Notaría\ndel estado, a quien se le encarga al efecto, la o las escrituras respectivas\ncuya inscripción será libre de toda clase de derechos, impuestos y timbres. \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "ARTÍCULO 3. Esta ley rige a partir de su publicación.",
+      "content": "Casa Presidencial.-San José, a los treinta días del mes de\nabril de mil novecientos setenta y cinco. \n \n Ficha articulo \n \nFecha de generación: 22/2/2026 07:05:26"
+    }
+  ],
+  "definitions": []
+}

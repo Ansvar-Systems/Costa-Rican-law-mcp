@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-1447",
+  "type": "statute",
+  "title": "Reforma Código de Trabajo",
+  "title_en": "Reforma Código de Trabajo",
+  "short_name": "Norma 1447",
+  "status": "in_force",
+  "issued_date": "1944-03-07",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=1447",
+  "description": "Official SCIJ legislation text (nValor2=1447).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Refórmanse, como aparece a continuación, los",
+      "content": "siguientes artículos del Código de Trabajo:\n \n a) Suprímase del párrafo final del artículo 139 el vocablo\n \n propiamente.\n \n b) Adiciónase el artículo 172, párrafo final, con la frase \"... y\n \n del importe del pre-aviso que queden adeudando los\n \n trabajadores\".\n \n c) Sustitúyase la frase \"envíen en consulta forzosa los autos al\n \n Superior\", visible en la parte final del párrafo segundo del"
+    },
+    {
+      "provision_ref": "art466",
+      "section": "466",
+      "title": "ARTÍCULO 466. , por esta otra: \"... eleven forzosamente los autos",
+      "content": "al Superior para que éste resuelva lo que proceda en Derecho\".\n \n Ficha articulo \n \nFecha de generación: 22/2/2026 03:23:42"
+    }
+  ],
+  "definitions": []
+}

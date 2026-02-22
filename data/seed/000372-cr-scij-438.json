@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-438",
+  "type": "statute",
+  "title": "Equiparación Grados Militares",
+  "title_en": "Equiparación Grados Militares",
+  "short_name": "Norma 438",
+  "status": "in_force",
+  "issued_date": "1898-04-05",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=438",
+  "description": "Official SCIJ legislation text (nValor2=438).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. Facultase al Poder Ejecutivo para que asimile en el Ejercito Nacional, con",
+      "content": "el grado militar que en otras partes hubieren alcanzado, a los militares\nnacionales o extranjeros de graduación mayor que la de Teniente\nCoronel , cuyos servicios juzgare conveniente utilizar. Esta asimilación\nse concederá para el efecto de prestar activo militar y se mantedrá \npor el tiempo que se preste dicho servicio. \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. Señalanse las dos de la tarde del jueves doce del corriente mes para recibir",
+      "content": "al nombrado el juramento constitucional. \n \n \n \n Al\nPoder Ejecutivo \n \n \n \n Dado\nen el Salón de Sesiones del Congreso, Palacio Nacional, San José a los once\ndías del mes de mayo de mil ochocientos noventa y ocho. \n \n Ficha articulo \n \nFecha de generación: 22/2/2026 01:47:56"
+    }
+  ],
+  "definitions": []
+}

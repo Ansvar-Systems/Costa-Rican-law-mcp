@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-1521",
+  "type": "statute",
+  "title": "Confiere Grado Militar",
+  "title_en": "Confiere Grado Militar",
+  "short_name": "Norma 1521",
+  "status": "in_force",
+  "issued_date": "1895-07-08",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=1521",
+  "description": "Official SCIJ legislation text (nValor2=1521).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. Confierese el grado de General de Brigada de las milicias de la República a",
+      "content": "iniciativa del Poder Ejecutivo don Lesmes Jiménez Bonnefil . \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. Confierese asimismo el grado de Coronel efectivo de las expresadas milicias",
+      "content": "Teniente Coronel don Arístides Romain Point. \n \n \n \n Al\nPoder Ejecutivo \n \n \n \n Dado\nen el Salón de Sesiones del Congreso, Palacio Nacional, San José, a ocho de\njulio de mil ochocientos noventa y cinco. \n \n Ficha articulo \n \nFecha de generación: 22/2/2026 03:28:46"
+    }
+  ],
+  "definitions": []
+}

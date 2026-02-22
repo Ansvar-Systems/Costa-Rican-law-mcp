@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-162",
+  "type": "statute",
+  "title": "Ref. Ley Pago Aguinaldo Servidores Empresa Privada",
+  "title_en": "Ref. Ley Pago Aguinaldo Servidores Empresa Privada",
+  "short_name": "Norma 162",
+  "status": "in_force",
+  "issued_date": "1960-10-03",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=162",
+  "description": "Official SCIJ legislation text (nValor2=162).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Agréguese al final del Transitorio 2º de la ley Nº 2412",
+      "content": "de 23 de octubre de 1959, el siguiente párrafo:\n \n \"No tendrá tampoco aplicación el transitorio anterior a las\n \n cooperativas y otros organismos que estén exentos del pago del impuesto de\n \n la renta que obtengan excedentes o utilidades netas al año mayores de\n \n trescientos mil colones (¢ 300,000.00).\n \n Esta norma se aplicará a partir de 1960\".\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Esta ley rige a partir de su publicación.",
+      "content": "Ficha articulo \n \nFecha de generación: 21/2/2026 22:00:39"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-1278",
+  "type": "statute",
+  "title": "Reforma Código de Educación",
+  "title_en": "Reforma Código de Educación",
+  "short_name": "Norma 1278",
+  "status": "in_force",
+  "issued_date": "1957-11-08",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=1278",
+  "description": "Official SCIJ legislation text (nValor2=1278).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - El párrafo final del artículo 196 del Código de",
+      "content": "Educación, en adelante se leerá así:\n \n \"De cada giro de pensión se deducirá mensualmente la suma que haya\n \n determinado la Asamblea General de la Asociación de Profesores y Maestros\n \n Jubilados o Pensionados por el voto no menor de dos tercios de sus\n \n miembros, y el producto será entregado al Tesorero de la Directiva para\n \n lo que disponen los Estatutos de la referida Institución.\"\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Esta ley rige a partir del día de su publicación.",
+      "content": "Ficha articulo \n \nFecha de generación: 22/2/2026 02:59:47"
+    }
+  ],
+  "definitions": []
+}

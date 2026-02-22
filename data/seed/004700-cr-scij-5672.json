@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-5672",
+  "type": "statute",
+  "title": "Adiciona Ley de Impuesto sobre las Ventas (Art.11 )",
+  "title_en": "Adiciona Ley de Impuesto sobre las Ventas (Art.11 )",
+  "short_name": "Norma 5672",
+  "status": "in_force",
+  "issued_date": "1969-09-11",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=5672",
+  "description": "Official SCIJ legislation text (nValor2=5672).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Adiciónase el artículo 11 de la Ley de Impuesto sobre",
+      "content": "las Ventas, Nº 3914 de 17 de julio de 1967, con el inciso siguiente:\n \n \"d) Los servicios, materiales, repuestos y componentes necesarios\n \n para la inspección, la reparación, la transformación, el mantenimiento o\n \n el ensamblaje de aeronaves nacionales que se destinen al servicio público\n \n de carga o pasajeros, o que se usen en trabajos agrícolas, y de\n \n aeronaves extranjeras, los motores, instrumentos y componentes de\n \n aviación, de exclusivo uso de esa actividad.\n \n Sin embargo, si los artículos referidos se producen en el país y\n \n se opta por su importación, deberán pagar el impuesto\".\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Rige a partir de su publicación.",
+      "content": "Ficha articulo \n \nFecha de generación: 22/2/2026 09:20:23"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cr-scij-1481",
+  "type": "statute",
+  "title": "Pensionados Sinfónica y Bandas Militares",
+  "title_en": "Pensionados Sinfónica y Bandas Militares",
+  "short_name": "Norma 1481",
+  "status": "in_force",
+  "issued_date": "1974-05-06",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=1481",
+  "description": "Official SCIJ legislation text (nValor2=1481).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Los músicos pensionados de la Orquesta Sinfónica Nacional",
+      "content": "y de las bandas militares podrán prestar sus servicios como maestros de\n \n música en las banda municipales, sin que por ello se les suspenda el pago\n \n de la pensión de que disfrutan a cargo del Estado.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Déjese sin efecto cualquier disposición legal o",
+      "content": "reglamentaria que se oponga a la presente ley.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "ARTÍCULO 3. -Esta ley rige a partir de su publicación.",
+      "content": "Ficha articulo \n \nFecha de generación: 22/2/2026 03:26:04"
+    }
+  ],
+  "definitions": []
+}

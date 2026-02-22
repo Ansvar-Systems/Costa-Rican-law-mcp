@@ -1,0 +1,75 @@
+{
+  "id": "cr-scij-2362",
+  "type": "statute",
+  "title": "Ley de Normas Industriales",
+  "title_en": "Ley de Normas Industriales",
+  "short_name": "Norma 2362",
+  "status": "in_force",
+  "issued_date": "1953-11-26",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=2362",
+  "description": "Official SCIJ legislation text (nValor2=2362).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - El Poder Ejecutivo, por medio del Ministerio de",
+      "content": "Agricultura e Industrias, y cuando fuere del caso con la aprobación\n \n también de cualquier otro Ministerio a quien le incumba, decretará las\n \n normas oficiales de nomenclatura, calidad y funcionamiento aplicables a\n \n la industria y a sus productos.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - El estudio y redacción de las Normas Oficiales estará",
+      "content": "a cargo del Comité de Normas y Asistencia Técnica Industrial creado por\n \n Decreto Ejecutivo Nº 6 de 21 de setiembre de 1951, que continuará\n funcionando adscrito a al Dirección de Industrias como dependencia del\n \n Ministerio de Agricultura e Industrias.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "ARTÍCULO 3. - El Comité estará integrado por seis miembros de",
+      "content": "nombramiento del Poder Ejecutivo, en la siguiente forma: el Director y\n \n otro funcionario dependiente de la Dirección de Industrias, el Director\n \n de Agricultura y Ganadería y tres representantes de los industriales\n \n escogidos por el Ministerio de Agricultura, de ternas que se solicitarán\n \n a la Cámara de Industrias de Costa Rica para cada uno de los candidatos.\n \n Los representantes del Ministerio de Agricultura e Industrias serán\n \n sustituídos cuando cesen en el desempeño de sus respectivos cargos; los\n \n de los industriales serán sustituídos en los siguientes casos:\n \n a) Cuando presenten la renuncia de cargo:\n \n b) Por desacato al Reglamento de esta ley; y\n \n c) Cuando incurran en las causales que determina el artículo 81 del\n \n Código de Trabajo. Para los efectos del inciso g) de dicho artículo se\n \n computarán las ausencias a las sesiones que están obligado a celebrar el\n \n Comité, de acuerdo con lo que disponga el Reglamento de esta ley.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "ARTÍCULO 4. - Los Colegios profesionales y las dependencias técnicas",
+      "content": "oficiales evacuarán las consultas de carácter técnico que el Comité les\n \n hiciere en asuntos que les competan.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "ARTÍCULO 5. - Las Normas Oficiales de nomenclatura y las que",
+      "content": "determinen los requisitos que deban reunir los productos industriales,\n \n tanto los de producción nacional, como los importados, en protección de\n \n la salud o la seguridad de las personas y de la economía agropecuaria,\n \n serán de cumplimiento obligatorio, haciéndolo constar así en cada caso.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "ARTÍCULO 6. - todos los productos nacionales o importados que se",
+      "content": "ajusten a las Normas Oficiales, podrán ostentar un sello de patrón que\n \n los distinga, previa autorización del Comité de Normas y Asistencia\n \n Técnica Industrial. El uso indebido del sello será sancionado con la\n \n pena de seis meses a tres años de prisión, señalada en el artículo 432,\n \n inciso 2), del Código Penal. En el caso de productos importados serán\n \n responsables conjunta o separadamente el importador, el agente o\n \n representante del productor o exportador y el comerciante que tenga el\n \n producto sellado indebidamente.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "ARTÍCULO 7. - El Ministerio de Agricultura e Industrias incluirá en",
+      "content": "su presupuesto anual las partidas adecuadas para el buen funcionamiento\n \n del Comité.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "ARTÍCULO 8. - Todas las dependencias oficiales dentro del campo de",
+      "content": "sus funciones, velarán por que sean acatadas las disposiciones de las\n \n normas oficiales de cumplimiento obligatorio.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "ARTÍCULO 9. El Poder Ejecutivo reglamentará esta ley, que rige a",
+      "content": "partir de su publicación.\n \n Ficha articulo \n \nFecha de generación: 22/2/2026 04:33:02"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Cuando presenten la renuncia de cargo",
+      "definition": "b) Por desacato al Reglamento de esta ley; y c) Cuando incurran en las causales que determina el artículo 81 del Código de Trabajo. Para los efectos del inciso g) de dicho artículo se computarán las ausencias a las sesiones que están obligado a celebrar el Comité, de acuerdo con lo que disponga el Reglamento de esta ley. Ficha articulo",
+      "source_provision": "art3"
+    }
+  ]
+}

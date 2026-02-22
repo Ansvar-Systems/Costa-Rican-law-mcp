@@ -1,0 +1,33 @@
+{
+  "id": "cr-scij-2998",
+  "type": "statute",
+  "title": "Reforma Código de Trabajo",
+  "title_en": "Reforma Código de Trabajo",
+  "short_name": "Norma 2998",
+  "status": "in_force",
+  "issued_date": "1960-09-29",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=2998",
+  "description": "Official SCIJ legislation text (nValor2=2998).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - El artículo 143 del Código de Trabajo en adelante",
+      "content": "se leerá así:"
+    },
+    {
+      "provision_ref": "art143",
+      "section": "143",
+      "title": "ARTÍCULO 143. - Quedarán excluidos de la limitación de la jornada",
+      "content": "de trabajo los gerentes, administradores, apoderados y todos aquellos\n \n empleados que trabajan sin fiscalización superior inmediata: los\n \n trabajadores que ocupan puestos de confianza; los agentes\n \n comisionistas y empleados similares que no cumplan su cometido en el\n \n local del establecimiento; los que desempeñan funciones discontinuas\n \n o que requieran su sola presencia; y las personas que realizan\n \n labores que por su indudable naturaleza no están sometidas a jornada\n \n de trabajo.\n \n Sin embargo, estas personas no estarán obligadas a permanecer\n \n más de doce horas diarias en su trabajo y tendrán derecho, dentro de\n \n esa jornada, a un descanso mínimo de una hora y media\".\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Esta ley rige desde su publicación.",
+      "content": "Ficha articulo \n \nFecha de generación: 22/2/2026 05:20:21"
+    }
+  ],
+  "definitions": []
+}

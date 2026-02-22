@@ -1,0 +1,33 @@
+{
+  "id": "cr-scij-2534",
+  "type": "statute",
+  "title": "Integración de Municipalidades",
+  "title_en": "Integración de Municipalidades",
+  "short_name": "Norma 2534",
+  "status": "in_force",
+  "issued_date": "1941-06-11",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=2534",
+  "description": "Official SCIJ legislation text (nValor2=2534).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - La Municipalidad de cada cantón se compondrá",
+      "content": "de tres regidores propietarios y dos suplentes.\n \n \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Refórmanse en tal sentido las disposiciones",
+      "content": "legales que a lo dispuesto por este decreto se refieren, y\n \n deróganse las que al mismo se opongan.\n \n \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "ARTÍCULO 3. - Los munícipes actualmente en funciones",
+      "content": "continuarán ejerciendo su mandato hasta la expiración del período\n \n para el cual fueron elegidos.\n \n Ficha articulo \n \nFecha de generación: 22/2/2026 04:44:05"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "cr-scij-1321",
+  "type": "statute",
+  "title": "Crea Escuela Normal en Pérez Zeledón",
+  "title_en": "Crea Escuela Normal en Pérez Zeledón",
+  "short_name": "Norma 1321",
+  "status": "in_force",
+  "issued_date": "1968-11-21",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=1321",
+  "description": "Official SCIJ legislation text (nValor2=1321).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Créase una Escuela Normal en el cantón de Pérez",
+      "content": "Zeledón, con sede en San Isidro de El General, cuyo objetivo será la\n \n formación de Profesores de enseñanza primaria, destinados a laborar\n \n preferentemente en las zonas rurales del país.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - El plan de estudios y los programas que se aplicarán en",
+      "content": "esta institución, serán los mismos que rigen en las Escuelas Normales del\n \n país, pero se les imprimirá alguna variante en la parte dedicada a\n \n actividades, con el fin de utilizar mejor los recursos locales y atender\n \n en forma más completa las necesidades de la zona.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "ARTÍCULO 3. - El Ministerio de Educación Publica fijará cada año en",
+      "content": "su presupuesto, las sumas necesarias para el mantenimiento de la\n \n institución y elaborará un programa de becas para alumnos pobres.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "ARTÍCULO 4. - Rige a partir de su publicación.",
+      "content": "Ficha articulo \n \nFecha de generación: 22/2/2026 03:02:30"
+    }
+  ],
+  "definitions": []
+}

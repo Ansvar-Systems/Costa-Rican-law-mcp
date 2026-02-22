@@ -1,0 +1,21 @@
+{
+  "id": "cr-scij-70",
+  "type": "statute",
+  "title": "Reforma Código Penal",
+  "title_en": "Reforma Código Penal",
+  "short_name": "Norma 70",
+  "status": "in_force",
+  "issued_date": "1900-06-06",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=70",
+  "description": "Official SCIJ legislation text (nValor2=70).",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "único",
+      "title": "ARTÍCULO único. Apruebase el decreto número 2 emitido por la Comisión Permanente el 30",
+      "content": "de agosto de 1899, que adiciona el título I, libro III del Código Penal y\nReforma la ley número II de 15 de junio de 1894. \n \n \n \n Al\nPoder Ejecutivo \n \n \n \n Dado\nen el Salón de Sesiones del Congreso, Palacio Nacional, San José a los cinco\ndías de mes de junio de mil novecientos. \n \n \n \n Palacio\nNacional, San José, seis de junio de mil novecientos. \n \n Ficha articulo \n \nFecha de generación: 21/2/2026 21:51:48"
+    }
+  ],
+  "definitions": []
+}

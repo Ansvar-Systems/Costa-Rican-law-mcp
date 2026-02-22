@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-5959",
+  "type": "statute",
+  "title": "Exoneración de impuestos ala Diócesis de Alajuela",
+  "title_en": "Exoneración de impuestos ala Diócesis de Alajuela",
+  "short_name": "Norma 5959",
+  "status": "in_force",
+  "issued_date": "1970-12-21",
+  "in_force_date": "1970-12-25",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=5959",
+  "description": "Official SCIJ legislation text (nValor2=5959).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. Exonérase del pago de toda clase de impuestos la",
+      "content": "compra de 21 lámparas que importará la Diócesis de Alajuela, para colocarlas en\nla catedral de ese lugar. \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. Rige a partir de su publicación.",
+      "content": "Casa Presidencial.-San José, a los veintiún días del mes de diciembre\nde mil novecientos setenta. \n \n Ficha articulo \n \nFecha de generación: 22/2/2026 09:44:13"
+    }
+  ],
+  "definitions": []
+}

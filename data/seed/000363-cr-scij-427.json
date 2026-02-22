@@ -1,0 +1,33 @@
+{
+  "id": "cr-scij-427",
+  "type": "statute",
+  "title": "Prorroga vigencia ley N° 53 de 22 diciembre 1945",
+  "title_en": "Prorroga vigencia ley N° 53 de 22 diciembre 1945",
+  "short_name": "Norma 427",
+  "status": "in_force",
+  "issued_date": "1946-06-08",
+  "in_force_date": "1946-06-09",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=427",
+  "description": "Official SCIJ legislation text (nValor2=427).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Cambiar la denominación de \"Policía de Orden y",
+      "content": "Seguridad\" por la de \"Guardia Civil\", para designar a los cuerpos de\n \n Fuerza Armada de la República que tienen a su cargo las funciones de\n \n policía, orden y seguridad de la Nación.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - En todas las leyes, decretos, acuerdos y reglamentos en",
+      "content": "donde aparece la denominación específica de \"Policía de Orden y Seguridad\"\n \n deberá leerse a partir de este Decreto-Ley \"Guardia Civil\", con la\n \n Dirección General de ese Cuerpo, que tendrá jurisdicción en todo el país,\n \n y dependerá del Ministerio de Seguridad Pública.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "ARTÍCULO 3. - La Dirección General de la Guardia Civil ejercerá sus",
+      "content": "funciones con las mismas atribuciones y reglamentaciones establecidas para\n \n la Dirección de Policía, creada por decreto Nº 1 del 24 de julio de 1908.\n \n Ficha articulo \n \nFecha de generación: 22/2/2026 01:47:23"
+    }
+  ],
+  "definitions": []
+}

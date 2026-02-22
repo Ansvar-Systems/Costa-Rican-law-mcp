@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-3871",
+  "type": "statute",
+  "title": "Reforma Ley de Pensiones y Jubilaciones del Magisterio Nacional",
+  "title_en": "Reforma Ley de Pensiones y Jubilaciones del Magisterio Nacional",
+  "short_name": "Norma 3871",
+  "status": "in_force",
+  "issued_date": "1961-10-21",
+  "in_force_date": "1962-01-01",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=3871",
+  "description": "Official SCIJ legislation text (nValor2=3871).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. &deg;-Adiciónase",
+      "content": "el artículo 2&deg; de la ley N&deg; 2248, de 6 de agosto de 1958, con un\npárrafo final que dirá textualmente: \n \n “Asimismo,\nen el cómputo de esos años se incluirán los servicios en\notras dependencias del Estado con anterioridad al ingreso o reingreso al\nservicio docente. En este cómputo se tomarán en cuenta solamente\ndiez o menos años de servicio debidamente comprobados. \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. esta ley rige a partir del 1° de enero de 1962.",
+      "content": "Casa Presidencial.-San José, a los veintiún días del mes de\noctubre de mil novecientos sesenta y uno. \n \n Ficha articulo \n \nFecha de generación: 22/2/2026 06:34:10"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-2720",
+  "type": "statute",
+  "title": "Préstamo AID Programa Investigaciones Agrícolas",
+  "title_en": "Préstamo AID Programa Investigaciones Agrícolas",
+  "short_name": "Norma 2720",
+  "status": "in_force",
+  "issued_date": "1967-11-21",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=2720",
+  "description": "Official SCIJ legislation text (nValor2=2720).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. Refórmase el artículo 5° de la ley N°",
+      "content": "12, de 13 de octubre de 1944 y sus reformas, que en adelante se leerá así: \n \n \n \"Articulo 5°-El\ncapital de la Caja\nserá ilimitado, y estará representado por el número de acciones de cien colones\n(¢ 100.00) cada una, que correspondan a su monto pagado\". \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. Esta ley rige a partir de su publicación.",
+      "content": "Casa Presidencia.- San José, a los doce días del mes de agosto de mil\nnovecientos sesenta. \n \n Ficha articulo \n \nFecha de generación: 22/2/2026 04:56:32"
+    }
+  ],
+  "definitions": []
+}

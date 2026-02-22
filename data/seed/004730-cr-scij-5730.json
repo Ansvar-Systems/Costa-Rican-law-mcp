@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-5730",
+  "type": "statute",
+  "title": "Jurisdicción de Buenos Aires dentro Alcaldía Pérez Zeledón",
+  "title_en": "Jurisdicción de Buenos Aires dentro Alcaldía Pérez Zeledón",
+  "short_name": "Norma 5730",
+  "status": "in_force",
+  "issued_date": "1951-11-10",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=5730",
+  "description": "Official SCIJ legislation text (nValor2=5730).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Declárase que por haber sido anexado al cantón de Pérez",
+      "content": "Zeledón de la provincia de San José, el distrito de San Pedro del cantón\n \n de Buenos Aires de la provincia de Puntarenas, el mencionado distrito\n \n queda sometido en lo judicial a la Alcaldía del cantón de Pérez Zeledón,\n \n o sea, a la jurisdicción de la provincia de San José.\n \n \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Esta ley rige desde su publicación.",
+      "content": "Ficha articulo \n \nFecha de generación: 22/2/2026 09:26:36"
+    }
+  ],
+  "definitions": []
+}

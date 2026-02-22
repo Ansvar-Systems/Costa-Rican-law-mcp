@@ -1,0 +1,21 @@
+{
+  "id": "cr-scij-4000",
+  "type": "statute",
+  "title": "Apertura Sesiones Extraordinarias Congreso",
+  "title_en": "Apertura Sesiones Extraordinarias Congreso",
+  "short_name": "Norma 4000",
+  "status": "in_force",
+  "issued_date": "1901-08-22",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=4000",
+  "description": "Official SCIJ legislation text (nValor2=4000).",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "único",
+      "title": "ARTÍCULO único. El Congreso Constitucional abre las sesiones extraordinarias para que ha sido convocado.",
+      "content": "AL\nPODER EJECUTIVO \n \n \n \n Dado\nen el Salón de Sesiones del Congreso, Palacio Nacional, San José, a los veintiséis\ndías del mes de diciembre de mil novecientos uno. \n \n \n \n Casa\nPresidencial, San José veintiséis de diciembre de mil novecientos uno. \n \n Ficha articulo \n \nFecha de generación: 22/2/2026 06:47:30"
+    }
+  ],
+  "definitions": []
+}

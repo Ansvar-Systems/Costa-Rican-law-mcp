@@ -1,0 +1,39 @@
+{
+  "id": "cr-scij-1935",
+  "type": "statute",
+  "title": "Ley de presupuesto extraordinario",
+  "title_en": "Ley de presupuesto extraordinario",
+  "short_name": "Norma 1935",
+  "status": "in_force",
+  "issued_date": "1973-07-09",
+  "in_force_date": "1973-07-13",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=1935",
+  "description": "Official SCIJ legislation text (nValor2=1935).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. Autorízase al Ministerio de Hacienda para",
+      "content": "condonar los impuestos de aduana y cualesquiera otros que puedan recaer a la\nCooperativa de Electrificación de Alfaro Ruiz, sobre los materiales y equipos\nindispensables para la construcción, instalación y operación de la subestación,\nlíneas de conducción, distribución y demás servicios requeridos para la electrificación\nrural de los cantones de Alfaro Ruiz y Naranjo, en su zona Norte. \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. El Banco Central concederá las divisas oficiales",
+      "content": "que fuere necesario otorgar para el proyecto de construcción de las\ninstalaciones para la Cooperativa de Electrificación Rural de los cantones de\nAlfaro Ruiz y Naranjo, zona Norte, en todo lo referente a la importación de\nmateriales y equipos indispensables. \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "ARTÍCULO 3. Autorízase al Poder Ejecutivo para extender el",
+      "content": "aval del estado, hasta por el monto de un millón de colones (¢ 1.000,000.00),\nante el Banco Nacional de Costa Rica, a fin de que los asociados de dicha\nCooperativa puedan obtener, con la debida facilidad y largo plazo, los créditos\nnecesarios para el aporte de capital que les corresponde hacer en su calidad de\nasociados de ella. \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "ARTÍCULO 4. Esta ley rige a partir de su publicación.",
+      "content": "Casa Presidencial.-San José, a los quince días del mes de\nfebrero de mil novecientos setenta y tres. \n \n Ficha articulo \n \nFecha de generación: 22/2/2026 03:59:50"
+    }
+  ],
+  "definitions": []
+}

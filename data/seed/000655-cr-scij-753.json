@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-753",
+  "type": "statute",
+  "title": "Exoneración de pago de impuestos a la Municipalidad de Alajuela",
+  "title_en": "Exoneración de pago de impuestos a la Municipalidad de Alajuela",
+  "short_name": "Norma 753",
+  "status": "in_force",
+  "issued_date": "1968-05-28",
+  "in_force_date": "1968-06-01",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=753",
+  "description": "Official SCIJ legislation text (nValor2=753).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. Exonérase del pago de toda clase de impuestos,",
+      "content": "la compra que hará la Municipalidad del cantón central de Alajuela, de un\ntractor y dos vagonetas de volteo. \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. Rige a partir de su publicación.",
+      "content": "Casa Presidencial.-San José, a los veintiocho días del mes\nde mayo de mil novecientos sesenta y ocho. \n \n Ficha articulo \n \nFecha de generación: 22/2/2026 02:12:22"
+    }
+  ],
+  "definitions": []
+}

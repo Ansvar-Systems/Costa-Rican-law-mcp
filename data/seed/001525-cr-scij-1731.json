@@ -1,0 +1,33 @@
+{
+  "id": "cr-scij-1731",
+  "type": "statute",
+  "title": "Construcción Escuela Hacienda Vieja Orotina",
+  "title_en": "Construcción Escuela Hacienda Vieja Orotina",
+  "short_name": "Norma 1731",
+  "status": "in_force",
+  "issued_date": "1938-08-10",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=1731",
+  "description": "Official SCIJ legislation text (nValor2=1731).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. �.- Refórmase el artículo 30, inciso 2) de la Ley de",
+      "content": "Defensa Económica N� 57 de 26 de marzo de 1945, en la forma siguiente:"
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "ARTÍCULO 30. - Inciso 2).- al que usando pesas o medidas inexactas, o",
+      "content": "cualquier otro artificio o medio fraudulento, burlare o intentare burlar\n \n los precios máximos en ventas al pormenor.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. �.- El juzgamiento de las faltas contra la adulteración o",
+      "content": "mal estado de los productos alimenticios estará a cargo de los Agentes\n \n Principales de Policía Sanitaria, de conformidad con lo que al respecto\n \n dispone el Código Sanitario vigente.\n \n Ficha articulo \n \nFecha de generaci�n: 22/2/2026 03:45:07"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-2526",
+  "type": "statute",
+  "title": "Reforma Código de Educación",
+  "title_en": "Reforma Código de Educación",
+  "short_name": "Norma 2526",
+  "status": "in_force",
+  "issued_date": "1951-06-19",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=2526",
+  "description": "Official SCIJ legislation text (nValor2=2526).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - El",
+      "content": "Instituto Nacional de Seguros y la Caja Costarricense del Seguro Social, si a\nbien lo tienen, realizarán los estudios y elaboración, por medio de sus Departamentos\nActuariales, de un proyecto de ley destinado a la creación y funcionamiento de\nla Caja de Jubilaciones del Periodista. \n \n La\nbase del proyecto será los aportes acumulativos de los asociados y de la\nempresa periodística. \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Esta ley rige desde su publicación.",
+      "content": "Casa\nPresidencial.- San José, a los ocho días del mes de agosto de mil novecientos\ncincuenta y dos. \n \n Ficha articulo \n \nFecha de generación: 22/2/2026 04:43:33"
+    }
+  ],
+  "definitions": []
+}

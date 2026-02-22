@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-2524",
+  "type": "statute",
+  "title": "Crea Impuesto Ingresos Venta Cigarrillos",
+  "title_en": "Crea Impuesto Ingresos Venta Cigarrillos",
+  "short_name": "Norma 2524",
+  "status": "in_force",
+  "issued_date": "1949-01-20",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=2524",
+  "description": "Official SCIJ legislation text (nValor2=2524).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Créase un impuesto sobre los ingresos brutos que",
+      "content": "obtengan los fabricantes de la venta de cigarrillos elaborados por ellos\n \n en el país, de acuerdo con la siguiente escala:\n \n a) Los cigarrillos elaborados con tabacos nacionales exclusivamente,\n \n y los elaborados con tabacos nacionales en mezcla con tabacos importados,\n \n pagarán tres décimos de céntimo por pieza.\n \n b) Los cigarrillos elaborados con tabacos importados exclusivamente\n \n pagarán un céntimo por pieza.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - El presente Decreto no reforma ni modifica ni deroga el",
+      "content": "impuesto establecido por la ley Nº 34 de 21 de diciembre de 1940, y rige\n \n desde su publicación.\n \n Ficha articulo \n \nFecha de generación: 22/2/2026 04:43:28"
+    }
+  ],
+  "definitions": []
+}

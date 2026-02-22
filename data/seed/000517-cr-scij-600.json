@@ -1,0 +1,33 @@
+{
+  "id": "cr-scij-600",
+  "type": "statute",
+  "title": "Autoriza a la Municipalidad de San José para hipotecar finca",
+  "title_en": "Autoriza a la Municipalidad de San José para hipotecar finca",
+  "short_name": "Norma 600",
+  "status": "in_force",
+  "issued_date": "1943-09-28",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=600",
+  "description": "Official SCIJ legislation text (nValor2=600).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. Autorizase a la Municipalidad del cantón central",
+      "content": "de San José, para vender o hipotecar la finca de su propiedad, que se segregará\nde las fincas que le pertenecen, situadas en Mata Redonda distrito noveno del\nmismo cantón, inscritas en el Registro de la Propiedad, bajo los números 4278,\n31752, 3836, 3853, 51752, 31177, 11245, 23703; tomos 51, 517, 367, 695, 847,\n500, 786 y 308; folios 434, 276, 85, 105, 478, 262, 430 y 122; asientos 4, 1,\n17, 19, 3, 2, 10, 3 y 9, todos del Partido de San José. \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. La venta se hará con base del informe de los",
+      "content": "peritos de la Tributación Directa y en subasta pública, debidamente anunciada\nen los diarios de la capital. \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "ARTÍCULO 3. Para hipotecar, puede hacerlo por medio de",
+      "content": "Cédulas Hipotecarias hasta por un valor de cuatrocientos mil colones, a un\nplazo hasta de cinco años y con un interés anual del 6% pagaderos por\ntrimestres adelantados. \n \n Casa Presidencial.-San José, veintiocho de setiembre de mil\nnovecientos cuarenta y tres. \n \n Ficha articulo \n \nFecha de generación: 22/2/2026 02:00:16"
+    }
+  ],
+  "definitions": []
+}

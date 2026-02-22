@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-934",
+  "type": "statute",
+  "title": "Reforma Código Electoral",
+  "title_en": "Reforma Código Electoral",
+  "short_name": "Norma 934",
+  "status": "in_force",
+  "issued_date": "1961-08-22",
+  "in_force_date": "1961-08-29",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=934",
+  "description": "Official SCIJ legislation text (nValor2=934).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Refórmase el párrafo primero del artículo 27 del Código",
+      "content": "Electoral, el cual se leerá así: \n \n \n \n \n \n \n \"Artículo\n27.- Las papeletas serán marcadas con un sello a color del\nTribunal Supremo de Elecciones y llevará la forma de puño y letra del Director\ndel Registro, o la misma firma por medio del sistema conocido con el nombre \" protectograph signer \", y\ncontendrán los siguientes requisitos:\" \n \n \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Esta ley rige desde su publicación.",
+      "content": "Casa Presidencia.- San José, a los veintidós días del mes de\nagosto de mil novecientos sesenta y uno. \n \n \n \n Ficha articulo \n \nFecha de generación: 22/2/2026 02:27:17"
+    }
+  ],
+  "definitions": []
+}

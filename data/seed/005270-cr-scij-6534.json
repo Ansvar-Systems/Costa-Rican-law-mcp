@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-6534",
+  "type": "statute",
+  "title": "Ref. Código Penal (arts. 333 y 334)",
+  "title_en": "Ref. Código Penal (arts. 333 y 334)",
+  "short_name": "Norma 6534",
+  "status": "in_force",
+  "issued_date": "1993-06-22",
+  "in_force_date": "1993-07-09",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=6534",
+  "description": "Official SCIJ legislation text (nValor2=6534).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. -Deróganse los artículos 333 y 334 del Código",
+      "content": "Penal.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Rige a partir de su publicación.",
+      "content": "Ficha articulo \n \nFecha de generación: 22/2/2026 11:03:05"
+    }
+  ],
+  "definitions": []
+}

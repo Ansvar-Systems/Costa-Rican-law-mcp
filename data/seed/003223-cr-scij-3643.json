@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-3643",
+  "type": "statute",
+  "title": "Reforma Impuesto a Vehículos artículo 2 de la Ley N°1122 de 15 de diciembre de 1949",
+  "title_en": "Reforma Impuesto a Vehículos artículo 2 de la Ley N°1122 de 15 de diciembre de 1949",
+  "short_name": "Norma 3643",
+  "status": "in_force",
+  "issued_date": "1951-07-31",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=3643",
+  "description": "Official SCIJ legislation text (nValor2=3643).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. &deg;.- El artículo 2&deg; de la ley N&deg; 1122 de 15 de diciembre de",
+      "content": "1949 se leerá así: \n \n “Artículo\n2&deg;.- Este impuesto deberá ser pagado por los propietarios de\nvehículos en el Banco Central o sus Agencias Auxiliares, por anualidades\nadelantadas y previamente al cambio de placas.” \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Esta ley rige a partir de su publicación.",
+      "content": "Casa\nPresidencial.- San José, a los treinta y un días del mes de julio de mil\nnovecientos cincuenta y uno. \n \n Ficha articulo \n \nFecha de generación: 22/2/2026 06:11:41"
+    }
+  ],
+  "definitions": []
+}

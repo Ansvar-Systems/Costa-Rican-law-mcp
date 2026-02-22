@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-5971",
+  "type": "statute",
+  "title": "Presupuesto Reparaciones Escuela de Osejo",
+  "title_en": "Presupuesto Reparaciones Escuela de Osejo",
+  "short_name": "Norma 5971",
+  "status": "in_force",
+  "issued_date": "1938-08-03",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=5971",
+  "description": "Official SCIJ legislation text (nValor2=5971).",
+  "provisions": [
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. -No habrá reserva de pruebas",
+      "content": "en los juicios civiles y criminales; en consecuencia, todas las partes\ncontenedoras en un juicio tienen el derecho de presenciar las declaraciones de\nlos testigos, que constituyen una prueba judicial, y de repreguntar respectiva y\nrecíprocamente a los mismos testigos. \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "ARTÍCULO 3. -Comuníquese y publíquese en la",
+      "content": "Gaceta Oficial. Dado en el Palacio Nacional, a las seis de mayo de mil\nochocientos sesenta. \n \n Ficha articulo \n \nFecha de generación: 22/2/2026 09:45:47"
+    }
+  ],
+  "definitions": []
+}

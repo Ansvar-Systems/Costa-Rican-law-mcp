@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-5748",
+  "type": "statute",
+  "title": "Convoca al Congreso Nacional para 1º Mayo",
+  "title_en": "Convoca al Congreso Nacional para 1º Mayo",
+  "short_name": "Norma 5748",
+  "status": "in_force",
+  "issued_date": "1867-04-16",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=5748",
+  "description": "Official SCIJ legislation text (nValor2=5748).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. , inciso 498, de la ley N° 10287 del 20 de",
+      "content": "setiembre de 2022, \"Derogatoria de leyes caducas o históricamente\nobsoletas para la depuración del ordenamiento jurídico (Sexta parte)\") \n \n Convoca al Congreso\npara el 1° de mayo del presente año. \n \n \n \n José María Castro,\nPresidente de la República de Costa Rica, En cumplimiento de lo dispuesto en la\nfracción 7° artículo 110 de la Constitución. - Decreto:"
+    },
+    {
+      "provision_ref": "artunico",
+      "section": "único",
+      "title": "ARTÍCULO único. Convocase al Congreso Nacional para el 1° del entrante mayo. - Dado en el",
+      "content": "Palacio Nacional. San José a los diezsiseis días del mes de abril de mil\nochocientos sesenta y siete. \n \n Ficha articulo \n \nFecha de generación: 22/2/2026 09:28:45"
+    }
+  ],
+  "definitions": []
+}

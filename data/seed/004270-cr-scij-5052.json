@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-5052",
+  "type": "statute",
+  "title": "Impuestos municipales de Carrillo",
+  "title_en": "Impuestos municipales de Carrillo",
+  "short_name": "Norma 5052",
+  "status": "in_force",
+  "issued_date": "1975-08-04",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=5052",
+  "description": "Official SCIJ legislation text (nValor2=5052).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Autorizace a la Municipalidad del Cantón de Grecia para",
+      "content": "destinar a obras de electrificación en el distrito de San José, de ese cantón,\nla suma de diez mil colones (₵10.000.00) que tiene en su poder, y que le\nfue asignado en el Presupuesto Ordinario de 1960 para la construcción de una\nAgencia de Policía en el distrito de Santa Gertrudis Norte. \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Esta Ley",
+      "content": "rige a partir de su publicación. \n \n Casa Presidencial.- San\nJosé, a los catorce días del mes de noviembre de mil novecientos sesenta y uno. \n \n Ficha articulo \n \nFecha de generación: 22/2/2026 08:16:17"
+    }
+  ],
+  "definitions": []
+}

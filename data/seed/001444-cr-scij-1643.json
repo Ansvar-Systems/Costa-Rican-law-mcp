@@ -1,0 +1,21 @@
+{
+  "id": "cr-scij-1643",
+  "type": "statute",
+  "title": "Reforma Constitucional",
+  "title_en": "Reforma Constitucional",
+  "short_name": "Norma 1643",
+  "status": "in_force",
+  "issued_date": "1977-06-15",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=1643",
+  "description": "Official SCIJ legislation text (nValor2=1643).",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "único",
+      "title": "ARTÍCULO único. - Refórmase el inciso 3) del artículo 195 de la",
+      "content": "Constitución Política, para que se lea así:\n \n \"3) En caso afirmativo pasará a una comisión nombrada por mayoría\n \n absoluta de la Asamblea, para que dictamine en un término de hasta veinte\n \n días hábiles.\"\n \n Ficha articulo \n \nFecha de generación: 22/2/2026 03:38:29"
+    }
+  ],
+  "definitions": []
+}

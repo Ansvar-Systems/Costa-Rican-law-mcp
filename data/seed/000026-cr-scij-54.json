@@ -1,0 +1,39 @@
+{
+  "id": "cr-scij-54",
+  "type": "statute",
+  "title": "Circuito Judicial en Turrialba y Jiménez",
+  "title_en": "Circuito Judicial en Turrialba y Jiménez",
+  "short_name": "Norma 54",
+  "status": "in_force",
+  "issued_date": "1945-06-21",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=54",
+  "description": "Official SCIJ legislation text (nValor2=54).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Erígese en Circuito Judicial el territorio",
+      "content": "comprendido por los cantones de Turrialba y Jiménez, de la\n \n provincia de Cartago.\n \n \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Créase un Juzgado Civil y Penal con asiento",
+      "content": "en la ciudad de Turrialba, cuya jurisdicción será la que\n \n determina la ley para los cantones de Turrialba y Jiménez.\n \n \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "ARTÍCULO 3. - La Corte Suprema de Justicia hará el",
+      "content": "nombramiento del Juez Civil y Penal del Circuito indicado; dicho\n \n Circuito será recargado al Juzgado de Trabajo, mientras la\n \n situación de la Hacienda Pública no mejore.\n \n \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "ARTÍCULO 4. - Para los efectos de esta ley, auméntase en la",
+      "content": "suma necesaria el presupuesto del Poder Judicial.\n \n Ficha articulo \n \nFecha de generación: 21/2/2026 21:49:43"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "cr-scij-4215",
+  "type": "statute",
+  "title": "Exonera Impuestos CNP",
+  "title_en": "Exonera Impuestos CNP",
+  "short_name": "Norma 4215",
+  "status": "in_force",
+  "issued_date": "1949-02-09",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=4215",
+  "description": "Official SCIJ legislation text (nValor2=4215).",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "único",
+      "title": "ARTÍCULO único. - El Consejo Nacional de Producción está exento de la",
+      "content": "obligación de pagar toda clase de impuestos, sean nacionales o\n \n municipales, ordinarios o extraordinarios.\n \n Este decreto rige desde el día de su publicación.\n \n Ficha articulo \n \nFecha de generación: 22/2/2026 07:05:03"
+    }
+  ],
+  "definitions": []
+}

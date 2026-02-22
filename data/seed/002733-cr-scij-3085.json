@@ -1,0 +1,33 @@
+{
+  "id": "cr-scij-3085",
+  "type": "statute",
+  "title": "Amplía vigencia Ley sobre Impuesto de Vehículos",
+  "title_en": "Amplía vigencia Ley sobre Impuesto de Vehículos",
+  "short_name": "Norma 3085",
+  "status": "in_force",
+  "issued_date": "1951-12-06",
+  "in_force_date": "1952-01-01",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=3085",
+  "description": "Official SCIJ legislation text (nValor2=3085).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Mantíenese hasta el 31 de diciembre de 1952",
+      "content": "el impuesto a los vehículos creado por la ley N° 1122 de 15 de diciembre de 1949,\nel producto del cual engrosará los fondos del Tesoro Público. \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. &deg;.- Deróganse los artículos 4&deg; y 6&deg; de la Ley N&deg;",
+      "content": "1122 del 15 de diciembre de 1949, y cualquier otra disposición de la\nmisma que se oponga al artículo 1&deg; de esta ley. \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "ARTÍCULO 3. - Esta ley rige a partir del 1° de enero de 1952.",
+      "content": "Casa\nPresidencial, San José, a los seis días del mes de diciembre de mil novecientos\ncincuenta y uno. \n \n Ficha articulo \n \nFecha de generación: 22/2/2026 05:26:32"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-5798",
+  "type": "statute",
+  "title": "Pensión a Particular",
+  "title_en": "Pensión a Particular",
+  "short_name": "Norma 5798",
+  "status": "in_force",
+  "issued_date": "1947-08-13",
+  "in_force_date": "1947-08-22",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=5798",
+  "description": "Official SCIJ legislation text (nValor2=5798).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. Exonérase de todo tipo de impuestos nacionales o",
+      "content": "municipales, el vehículo marca Datsun , 100 A, modelo\n1972, sedán de cuatro puertas que la Junta Edificadora de la Parroquia de San\nAntonio de Belén procederá a rifar, dentro de su campaña tendiente a recaudar\nfondos para los trabajos de ampliación y mejoras en el Tempo Parroquial. \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. esta ley rige desde su publicación.",
+      "content": "Casa Presidencial.-San José, \n a los nueve días del mes de noviembre de mil novecientos sesenta y dos. \n \n Ficha articulo \n \nFecha de generación: 22/2/2026 09:33:30"
+    }
+  ],
+  "definitions": []
+}

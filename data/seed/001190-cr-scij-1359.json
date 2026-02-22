@@ -1,0 +1,33 @@
+{
+  "id": "cr-scij-1359",
+  "type": "statute",
+  "title": "Declara Inembargabilidad de Bienes del Estado",
+  "title_en": "Declara Inembargabilidad de Bienes del Estado",
+  "short_name": "Norma 1359",
+  "status": "in_force",
+  "issued_date": "1918-09-26",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=1359",
+  "description": "Official SCIJ legislation text (nValor2=1359).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Salvo las excepciones previstas en los contratos o",
+      "content": "convenios celebrados o que celebre el Gobierno, los bienes destinados\n \n directamente a los servicios públicos del Estado, de los gobiernos\n \n locales y de las Juntas de Educación, no son susceptibles de embargo por\n \n sus particulares acreedores.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Las deudas provenientes de los impuestos y demás",
+      "content": "rentas constituidas como entradas del Tesoro Público, según el artículo\n \n 1º. del Código Fiscal, así como las que provengan de impuestos\n \n municipales o escolares, no son susceptibles del pago por compensación\n \n previsto en el artículo 806 del Código Civil.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "ARTÍCULO 3. - Esta ley es de orden público y aplicable a los casos",
+      "content": "que hubiere pendientes respecto a los puntos que define, quedando en\n \n estos términos ampliadas las disposiciones del Capítulo preliminar del\n \n Código Fiscal.\n \n Ficha articulo \n \nFecha de generación: 22/2/2026 03:05:16"
+    }
+  ],
+  "definitions": []
+}

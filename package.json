@@ -1,6 +1,6 @@
 {
   "name": "@ansvar/costa-rican-law-mcp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "mcpName": "eu.ansvar/costa-rican-law-mcp",
   "description": "Costa Rican law database covering data protection, cybersecurity, e-commerce, and criminal law provisions via Model Context Protocol",
   "author": "Ansvar Systems <hello@ansvar.eu>",

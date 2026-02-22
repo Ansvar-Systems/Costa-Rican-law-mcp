@@ -1,0 +1,33 @@
+{
+  "id": "cr-scij-6222",
+  "type": "statute",
+  "title": "Reforma constitucional",
+  "title_en": "Reforma constitucional",
+  "short_name": "Norma 6222",
+  "status": "in_force",
+  "issued_date": "1949-10-11",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=6222",
+  "description": "Official SCIJ legislation text (nValor2=6222).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. -Refórmase el artículo 23 del Decreto-Ley Nº 41 de 2 de",
+      "content": "junio de 1948, en los siguientes términos:\n \n \"Artículo 23.-No presentada en tiempo la demanda, el Tribunal dictará\n sentencia declarando que los bienes intervenidos fueron adquiridos en\n \n fraude del Fisco. En tales casos, la Procuraduría General de la República\n \n gestionará ante los Tribunales Comunes el remate de dichos bienes, a fin\n \n de adjudicar al Estado el valor de los mismos. Si éstos fueren muebles,\n \n se hará previamente su avalúo pericial, y si se tratare de inmuebles, la\n \n base para el remate será la suma por la cual se encuentren declarados en\n \n las Oficinas de la Tributación Directa; sin embargo, en los casos de\n \n evidente desproporción entre el valor declarado y el valor real del\n \n inmueble, queda facultada la Procuraduría General para solicitar al\n \n Tribunal de Avalúos de la Tributación Directa el avalúo respectivo, que\n \n será la base para el remate.\n \n La anterior disposición no obsta para que en los casos en que la\n \n Oficina Administradora de la Propiedad Intervenida lo juzgue conveniente,\n \n pueda solicitar se abra juicio de probidad para los rebeldes en presentar\n \n la demanda, caso en el cual se nombrará al intervenido un representante ad\n \n litem.\"\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Adiciónase el artículo 24 del mismo Decreto-Ley con el",
+      "content": "agregado siguiente:\n \n \"En las ejecuciones de las sentencias condenatorias no será necesario\n \n el avalúo previo de inmuebles, siendo en estos casos aplicables las\n \n disposiciones contenidas en el artículo anterior.\"\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "ARTÍCULO 3. - Este decreto rige desde el día de su publicación, y",
+      "content": "deroga cualquier disposición que se le oponga.\n \n Ficha articulo \n \nFecha de generación: 22/2/2026 10:15:12"
+    }
+  ],
+  "definitions": []
+}

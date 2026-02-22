@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-4646",
+  "type": "statute",
+  "title": "Reforma Impuestos Municipales de Limón",
+  "title_en": "Reforma Impuestos Municipales de Limón",
+  "short_name": "Norma 4646",
+  "status": "in_force",
+  "issued_date": "1972-07-24",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=4646",
+  "description": "Official SCIJ legislation text (nValor2=4646).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Se reforma el artículo 1º de la ley de tarifa de",
+      "content": "impuestos municipales del cantón de Limón, Nº 4821 de 23 de julio de 1971,\n \n eliminando del título \"Patentes de comercio\" el rubro denominado \"oficinas\n \n o despachos de profesionales\", sujeto a un impuesto de cien colones\n \n trimestrales, declarándose que los establecimientos de esta naturaleza no\n \n se encuentran afectos al pago de patente municipal.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Esta ley rige a partir de su publicación.",
+      "content": "Ficha articulo \n \nFecha de generación: 22/2/2026 07:43:49"
+    }
+  ],
+  "definitions": []
+}

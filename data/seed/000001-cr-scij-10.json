@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-10",
+  "type": "statute",
+  "title": "Adiciona Artículos y Transitorio a Ley de Impuestos Municipales de la Cruz",
+  "title_en": "Adiciona Artículos y Transitorio a Ley de Impuestos Municipales de la Cruz",
+  "short_name": "Norma 10",
+  "status": "in_force",
+  "issued_date": "2000-09-27",
+  "in_force_date": "2000-10-12",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=10",
+  "description": "Official SCIJ legislation text (nValor2=10).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Anulado.",
+      "content": "(Anulado este\nartículo mediante resolución de \nla Sala Constitucional\n N° 967 7 del 26 de setiem bre de l 200 1 ). \n \n \n \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Adiciónase a la Ley Nº 7166, un transitorio único,",
+      "content": "cuyo texto dirá:\n \n \n \" TRANSITORIO ÚNICO.- Autorízase a la Municipalidad de La\n Cruz para que disponga de los recursos que se hayan recaudado según lo dispuesto en la\n Ley Nº 7083, Modificación al Presupuesto Ordinario y Extraordinario de la República\n para el ejercicio fiscal y por programas de 1987, y que hayan ingresado en las arcas\n municipales entre la fecha de derogación de la Ley Nº 6930 y la vigencia de esta\n reforma.\"\n \n \n \n Rige a partir de su publicación. \n \n Ficha articulo \n \nFecha de generación: 21/2/2026 21:47:35"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-815",
+  "type": "statute",
+  "title": "Reforma Código Penal (1941)",
+  "title_en": "Reforma Código Penal (1941)",
+  "short_name": "Norma 815",
+  "status": "in_force",
+  "issued_date": "1945-01-17",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=815",
+  "description": "Official SCIJ legislation text (nValor2=815).",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "único",
+      "title": "ARTÍCULO único. - El artículo 172 del Código Penal se leerá",
+      "content": "así:"
+    },
+    {
+      "provision_ref": "art172",
+      "section": "172",
+      "title": "ARTÍCULO 172. - El Poder Ejecutivo concederá o denegará la gracia por",
+      "content": "acuerdo formal que expresará las razones en que se funda y hará\nmención del parecer emitido por la Corte Suprema de Justicia. Tal\nacuerdo surtirá efectos en cuanto sea debidamente comunicado a las\nautoridades respectivas por la vía más rápida, y\nserá publicado en la Gaceta, de preferencia, en los cinco días\nsiguientes a la fecha del acuerdo. \n \n Comuníquese\nal Poder Ejecutivo \n \n Dado\nen el Salón de Sesiones del Congreso.- Palacio Nacional. San\nJosé, a los dieciséis días del mes de enero de mil\nnovecientos cuarenta y cinco. \n \n Casa Presidencial.-San\nJosé, a los diecisiete días del mes de enero de mil novecientos\ncuarenta y cinco. \n \n Ficha articulo \n \nFecha de generación: 22/2/2026 02:18:29"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-4389",
+  "type": "statute",
+  "title": "Interpreta Ley de Creación del INA",
+  "title_en": "Interpreta Ley de Creación del INA",
+  "short_name": "Norma 4389",
+  "status": "in_force",
+  "issued_date": "1970-05-04",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=4389",
+  "description": "Official SCIJ legislation text (nValor2=4389).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Interprétase el inciso a) del artículo 16 de la Ley",
+      "content": "de Creación del Instituto Nacional de Aprendizaje, Nº 3506 de 21 de mayo\n \n de 1965, en el sentido de que en el concepto de \"empresas particulares\n \n dedicadas a las actividades de... servicios\", no están incluidas las\n \n instituciones educacionales de carácter privado, que carezcan de\n \n propósito de lucro.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Rige a partir de su publicación.",
+      "content": "Ficha articulo \n \nFecha de generación: 22/2/2026 07:18:36"
+    }
+  ],
+  "definitions": []
+}

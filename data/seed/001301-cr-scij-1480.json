@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-1480",
+  "type": "statute",
+  "title": "Reforma CPen",
+  "title_en": "Reforma CPen",
+  "short_name": "Norma 1480",
+  "status": "in_force",
+  "issued_date": "1975-08-11",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=1480",
+  "description": "Official SCIJ legislation text (nValor2=1480).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Para que el artículo 90 del Código Penal se lea así:",
+      "content": "Indulto.\n \n \"Artículo 90.- El indulto, aplicable a los delitos comunes, implica\n \n el perdón total o parcial de la pena impuesta por sentencia ejecutoria o\n \n bien su conmutación por otra más benigna y no comprende las penas\n \n accesorias.\n \n El indulto sólo podrá ser concedido por el Consejo de Gobierno, el\n \n cual previamente a otorgar el beneficio oirá el criterio del Instituto de\n \n Criminología y el de la Corte Suprema de Justicia, quienes deberán\n \n pronunciarse en un término no mayor de treinta días naturales. En caso\n \n de que los organismos consultados, dentro del término dicho, no\n \n contestaren, el Consejo podrá resolver\".\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Esta ley rige desde su publicación.",
+      "content": "Ficha articulo \n \nFecha de generación: 22/2/2026 03:25:59"
+    }
+  ],
+  "definitions": []
+}

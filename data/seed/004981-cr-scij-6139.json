@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-6139",
+  "type": "statute",
+  "title": "Exoneración de impuestos a la Municipalidad Alajuela",
+  "title_en": "Exoneración de impuestos a la Municipalidad Alajuela",
+  "short_name": "Norma 6139",
+  "status": "in_force",
+  "issued_date": "1970-12-01",
+  "in_force_date": "1970-12-12",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=6139",
+  "description": "Official SCIJ legislation text (nValor2=6139).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. Exónerase de toda clase de impuestos la compra",
+      "content": "de 150 lámparas de mercurio (luminarias) que hizo la Municipalidad de Alajuela\nmediante licitación. \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. Esta ley rige a partir de su publicación.",
+      "content": "Casa Presidencial.-San José, al primer día del mes de diciembre\nde mil novecientos setenta. \n \n Ficha articulo \n \nFecha de generación: 22/2/2026 10:06:52"
+    }
+  ],
+  "definitions": []
+}

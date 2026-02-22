@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-5045",
+  "type": "statute",
+  "title": "Reforma Código Civil",
+  "title_en": "Reforma Código Civil",
+  "short_name": "Norma 5045",
+  "status": "in_force",
+  "issued_date": "1951-10-03",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=5045",
+  "description": "Official SCIJ legislation text (nValor2=5045).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - El artículo 406 del Código Civil se leerá así:",
+      "content": "\"Artículo 406.- El dueño de pared divisoria no medianera puede abrir\n \n ventanas y claraboyas, con tal de que estén guarnecidas por rejas de hierro\n \n y de una red de alambre, y que disten del piso de la vivienda a que se\n \n quiere dar luz, dos metros y medio a lo menos.\"\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Esta ley rige desde su publicación.",
+      "content": "Ficha articulo \n \nFecha de generación: 22/2/2026 08:15:25"
+    }
+  ],
+  "definitions": []
+}

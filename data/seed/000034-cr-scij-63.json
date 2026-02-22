@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-63",
+  "type": "statute",
+  "title": "Exonera Instituto Tecnológico pago Impuesto de Consumo",
+  "title_en": "Exonera Instituto Tecnológico pago Impuesto de Consumo",
+  "short_name": "Norma 63",
+  "status": "in_force",
+  "issued_date": "1972-11-20",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=63",
+  "description": "Official SCIJ legislation text (nValor2=63).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - El Instituto de Costa Rica no estará afecto al pago de",
+      "content": "los Impuestos Selectivos de Consumo establecidos en la ley Nº 4961 de 10\n \n de marzo de 1972.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Esta ley rige desde su publicación.",
+      "content": "Ficha articulo \n \nFecha de generación: 21/2/2026 21:50:59"
+    }
+  ],
+  "definitions": []
+}

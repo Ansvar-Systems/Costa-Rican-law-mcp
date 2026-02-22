@@ -1,0 +1,45 @@
+{
+  "id": "cr-scij-1111",
+  "type": "statute",
+  "title": "Pago Cuota Oficina Sanitaria Panamericana",
+  "title_en": "Pago Cuota Oficina Sanitaria Panamericana",
+  "short_name": "Norma 1111",
+  "status": "in_force",
+  "issued_date": "1938-09-28",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=1111",
+  "description": "Official SCIJ legislation text (nValor2=1111).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. �.- Refórmanse los artículos 16, 17, 22 y 23 del Decreto N�",
+      "content": "41 de 2 de junio de 1948, los cuales deberán leerse en la siguiente forma:"
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "ARTÍCULO 16. - Al resolverse el juicio el Tribunal de Probidad se",
+      "content": "pronunciará aparte de las cuestiones propuestas por los interesados, sobre\n \n lo siguiente:\n \n a) Si los bienes intervenidos han sido adquiridos legítimamente con\n \n valores bien habidos por sus propietarios. b) Si la adquisición de bienes\n \n de personas indicadas en el párrafo c) del artículo 2� obedece a una\n \n negociación veraz y posible y legítima investigación para el reembolso de\n \n las sumas defraudadas que corresponda."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "ARTÍCULO 17. - En la sustanciación de los juicios de probidad el",
+      "content": "Tribunal gozará de amplia libertad para ordenar, de previo a resolver, la\n \n recepción de todas aquellas pruebas convenientes para la mejor\n \n averiguación de los hechos. Además tendrá facultades bastantes para\n \n corregir los procedimientos si notare defecto, y para ordenar la\n \n repetición de aquellas pruebas y actuaciones que a su juicio\n \n Las autoridades judiciales y administrativas estarán obligadas a\n \n cooperar con el Tribunal mediante la recepción de pruebas y la práctica de\n \n las diligencias que éste ordenare.\n \n En la recepción de pruebas o diligencias a que se refiere este\n \n artículo, el Tribunal deberá actuar de oficio, gestionando activamente su\n \n práctica.\n \n La resolución que ordene pruebas por parte del Tribunal, deberá\n indicar el plazo dentro del cual haya de ejecutarse lo acordado, y si no\n \n fuere posible determinarlo, el Tribunal velará de que se ejecute sin\n \n demora.\n \n Cuando a juicio del Tribunal la demanda presentada no amerita\n \n diligencia alguna de pruebas, podrá dictar sentencia sin otro trámite que\n \n la audiencia que indica el artículo 22."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "ARTÍCULO 22. - Las pruebas se recibirán por el propio Tribunal o",
+      "content": "miembros que se designen o bien mediante los Instructores o autoridades\n \n que sean comisionadas.\n \n Es obligación de la parte proponente de prueba gestionar su admisión\n \n y recepción desde el momento en que la ofrece. Si incurriere en abandono\n \n por más de ocho días, el Tribunal de oficio la declarará inevacuable.\n \n Los peritos que nombre el Tribunal tendrán obligación de aceptar sus\n \n cargos y rendir los respectivos informes dentro de los términos señalados.\n \n Cualquier negativa no justificada al respecto, podrá ser sancionada con\n \n multa de � 100.00 a � 1,000.00 a juicio del Tribunal.\n \n Terminada la recepción de la prueba, o declarada inevacuable toda o\n \n parte de ella, renunciada la que falte, el Tribunal concederá a las partes\n \n una audiencia no menor de ocho días ni mayor de quince para que aleguen lo\n \n que a bien tengan.\n \n Transcurrido ese plazo el juicio quedará listo para sentencia sin\n \n necesidad de citación de partes, la cual deberá dictarse dentro del\n \n término de quince días."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "ARTÍCULO 23. - No presentada en tiempo la demanda, el Tribunal dictará",
+      "content": "sentencia declarando que los bienes intervenidos fueron adquiridos en\n \n fraude del Fisco. En tales casos, la Procuraduría General de la República\n \n gestionará ante los Tribunales Comunes el avalúo de dichos bienes y los\n \n hará rematar en pública subasta, a fin de adjudicar al Estado el precio de\n \n los mismos.\n \n No obstante, si en el término de un mes a partir de la promulgación\n \n de este decreto, se demostrare ante el Tribunal, en forma evidente y\n \n concreta, que el intervenido trató de presentar en tiempo su demanda de\n \n probidad, dando los pasos necesarios para prepararla, y que si no pudo\n \n hacerlo fué por motivos especiales ajenos a su voluntad, el mismo Tribunal\n \n podrá conferirle un término adicional de quince días para iniciar la\n \n acción de probidad.\n \n Ficha articulo \n \nFecha de generaci�n: 22/2/2026 02:45:32"
+    }
+  ],
+  "definitions": []
+}

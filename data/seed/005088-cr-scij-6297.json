@@ -1,0 +1,33 @@
+{
+  "id": "cr-scij-6297",
+  "type": "statute",
+  "title": "Pensiones en Casos Determinados por Ordenanzas Militares",
+  "title_en": "Pensiones en Casos Determinados por Ordenanzas Militares",
+  "short_name": "Norma 6297",
+  "status": "in_force",
+  "issued_date": "1953-08-05",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=6297",
+  "description": "Official SCIJ legislation text (nValor2=6297).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Toda solicitud de jubilación o pensión fundada en los",
+      "content": "casos que prevén las Ordenanzas Militares, será dirigida al Departamento\n \n Nacional de Pensiones, necesariamente documentada, con arreglo al"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "ARTÍCULO 3. - Esta ley rige desde su publicación.",
+      "content": "Transitorio.- Caso de no existir Ministerio de Seguridad Pública,\n \n será el Ministerio encargado de esta Cartera, como anexo de sus funciones\n \n y en su defecto el Poder Ejecutivo, quien tenga a su cargo el\n \n cumplimiento de los dispuesto en esta ley.\n \n Ficha articulo \n \nFecha de generación: 22/2/2026 10:21:49"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Queda abolido el artículo 761 de las Ordenanzas",
+      "content": "Militares.\n \n Ficha articulo"
+    }
+  ],
+  "definitions": []
+}

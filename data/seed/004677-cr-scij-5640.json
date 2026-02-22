@@ -1,0 +1,21 @@
+{
+  "id": "cr-scij-5640",
+  "type": "statute",
+  "title": "Reforma Código de Trabajo",
+  "title_en": "Reforma Código de Trabajo",
+  "short_name": "Norma 5640",
+  "status": "in_force",
+  "issued_date": "1964-08-07",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=5640",
+  "description": "Official SCIJ legislation text (nValor2=5640).",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "único",
+      "title": "ARTÍCULO único. - Adiciónase el párrafo primero del artículo 10",
+      "content": "del Código de Trabajo con la siguiente cláusula:\n \n \"así como para las legalizaciones que los trabajadores tuvieren\n \n que hacer en juicios de sucesión, insolvencia, concurso o quiebra\".\n \n Ficha articulo \n \nFecha de generación: 22/2/2026 09:16:51"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "cr-scij-5414",
+  "type": "statute",
+  "title": "Fija Número Soldados Ejército Nacional",
+  "title_en": "Fija Número Soldados Ejército Nacional",
+  "short_name": "Norma 5414",
+  "status": "in_force",
+  "issued_date": "1856-02-27",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=5414",
+  "description": "Official SCIJ legislation text (nValor2=5414).",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "único",
+      "title": "ARTÍCULO único. El Ejercito Nacional se eleva a 9,000 hombres de todas armas,",
+      "content": "y con este fin en cada una de las Provincias de Alajuela y Heredia se\norganizará inmediatamente una división de mil soldados con sus correspondientes\njefes y oficiales.- \n \n \n \n Dado en San José a\nlos veintisiete días del mes de febrero de mil ochocientos cincuenta y seis. \n \n Ficha articulo \n \nFecha de generación: 22/2/2026 08:53:44"
+    }
+  ],
+  "definitions": []
+}

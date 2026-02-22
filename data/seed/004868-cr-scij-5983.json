@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-5983",
+  "type": "statute",
+  "title": "Reforma LOPJ",
+  "title_en": "Reforma LOPJ",
+  "short_name": "Norma 5983",
+  "status": "in_force",
+  "issued_date": "1964-07-27",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=5983",
+  "description": "Official SCIJ legislation text (nValor2=5983).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Agrégase el siguiente párrafo al artículo transitorio",
+      "content": "de la ley Nº 2844 de 27 de octubre de 1961:\n \n \"Lo dispuesto en el párrafo anterior será también aplicable a\n \n aquellos Magistrados que hayan reingresado al Poder Judicial, siempre\n \n y cuando no deriven mayoures beneficios del reingreso.\n \n Para efectos del reajuste o de la fijación de la respectiva\n \n jubilación, se tomará en cuenta el cargo y el tiempo que servieron hasta\n \n el ocho de mayo de mil novecientos cuarenta y ocho\".\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Esta ley rige desde su publicación.",
+      "content": "Ficha articulo \n \nFecha de generación: 22/2/2026 09:47:27"
+    }
+  ],
+  "definitions": []
+}

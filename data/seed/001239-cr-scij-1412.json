@@ -1,0 +1,33 @@
+{
+  "id": "cr-scij-1412",
+  "type": "statute",
+  "title": "Exoneración de pago de impuestos de aduana a la Municipalidad de Limón",
+  "title_en": "Exoneración de pago de impuestos de aduana a la Municipalidad de Limón",
+  "short_name": "Norma 1412",
+  "status": "in_force",
+  "issued_date": "1965-07-12",
+  "in_force_date": "1965-07-16",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=1412",
+  "description": "Official SCIJ legislation text (nValor2=1412).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. Exonérase del pago de toda clase de impuestos de",
+      "content": "aduana la compra que hará la Municipalidad de Limón de una vagoneta de volteo. \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. El Ministerio de Economía y Hacienda no hará",
+      "content": "efectiva esta exoneración, hasta tanto la Municipalidad no presente certificación\nemanada de la Contraloría General de la República, de que cuenta con los fondos\nnecesarios para comprar el vehículo objeto de la exoneración. \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "ARTÍCULO 3. Esta ley rige desde su publicación.",
+      "content": "Casa Presidencial.-San José, a los doce días del mes de\njulio de mil novecientos noventa y cinco. \n \n Ficha articulo \n \nFecha de generación: 22/2/2026 03:19:42"
+    }
+  ],
+  "definitions": []
+}

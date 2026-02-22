@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-1277",
+  "type": "statute",
+  "title": "Reforma Ley Impuesto sobre la Renta",
+  "title_en": "Reforma Ley Impuesto sobre la Renta",
+  "short_name": "Norma 1277",
+  "status": "in_force",
+  "issued_date": "1947-08-22",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=1277",
+  "description": "Official SCIJ legislation text (nValor2=1277).",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "único",
+      "title": "ARTÍCULO único. -El artículo 21 de la ley número 837 de 20 de",
+      "content": "diciembre de 1946, se leerá así:"
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "ARTÍCULO 21. -La obligación que a",
+      "content": "los comerciantes impone el artículo 1&deg; de la ley N&deg; 20 de 5 de\njulio de 1901, se limitará a llevar el libro Diario, siempre que las\nventas o, en general, las operaciones del respectivo estableci&shy;miento,\nempresa o negocio, no excedan de sesenta mil colones anuales. En tal caso el\nDiario se iniciará con el inventario completo del activo y pasivo del\ncomer&shy;ciante, quien practicará en el mismo libro sus balances o\nliquidaciones anuales. \n \n La Oficina de la Tributación\neximirá de la obligación de llevar contabilidad a aquellos\ncomerciantes que, por la exigüidad de su giro, sea notorio que no deben\npagar impuestos. El pronunciamiento de dicha oficina se hará a\npetición del interesado. \n \n Casa Presidencial.-San José, a los veintidós días del\nmes de agosto de mil novecientos cuarenta y siete. \n \n Ficha articulo \n \nFecha de generación: 22/2/2026 02:59:42"
+    }
+  ],
+  "definitions": []
+}

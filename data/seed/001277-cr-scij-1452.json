@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-1452",
+  "type": "statute",
+  "title": "Reforma Ley Orgánica del Banco Nacional de Costa Rica (BNCR)",
+  "title_en": "Reforma Ley Orgánica del Banco Nacional de Costa Rica (BNCR)",
+  "short_name": "Norma 1452",
+  "status": "in_force",
+  "issued_date": "1952-12-01",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=1452",
+  "description": "Official SCIJ legislation text (nValor2=1452).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Refórmase el inciso 2) del artículo 36 de la Ley del",
+      "content": "Banco Nacional de Costa Rica, Nº 16 de 5 de noviembre de 1936, en la siguiente forma: \n \n \"2) El 10% (diez por ciento) de dichas ganancias netas se destinará\nal mantenimiento del fondo de garantías y jubilaciones de los empleados del Banco, no pudiendo, en ningún caso, exceder esta suma del 10% (diez\npor ciento) del total de los sueldos pagados durante el período respectivo.\" \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Esta ley rige desde su publicación.",
+      "content": "Casa Presidencial.- San José, al primer día del mes de diciembre de mil\nnovecientos cincuenta y dos. \n \n Ficha articulo \n \nFecha de generación: 22/2/2026 03:24:07por ciento) del total de los sueldos pagados durante el período respectivo.\""
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-961",
+  "type": "statute",
+  "title": "Reforma Código de Comercio",
+  "title_en": "Reforma Código de Comercio",
+  "short_name": "Norma 961",
+  "status": "in_force",
+  "issued_date": "1964-09-23",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=961",
+  "description": "Official SCIJ legislation text (nValor2=961).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Refórmase el inciso c) del artículo 572 del Código",
+      "content": "de Comercio, que se leerá de la siguiente forma:\n \n \"Inciso c) La de dominio que fuere acompañada de ejecutoria en la\n \n cual se haga expresa declaración contra el pignorante, de que ha\n \n defraudado o estafado al legítimo dueño de los bienes dados en prenda,\n \n o certificación de estar admitida ante los tribunales penales, acusación\n \n encaminada al logro de tal declaratoria\".\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Esta ley rige a partir de su publicación.",
+      "content": "Ficha articulo \n \nFecha de generación: 22/2/2026 00:29:42"
+    }
+  ],
+  "definitions": []
+}

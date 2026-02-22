@@ -1,0 +1,21 @@
+{
+  "id": "cr-scij-1006",
+  "type": "statute",
+  "title": "Declara Elección Diputados",
+  "title_en": "Declara Elección Diputados",
+  "short_name": "Norma 1006",
+  "status": "in_force",
+  "issued_date": "1902-05-03",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=1006",
+  "description": "Official SCIJ legislation text (nValor2=1006).",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "único",
+      "title": "ARTÍCULO único. Convocase al Congreso Constitucional a sesiones ordinarias que se inauguran",
+      "content": "a las doce del día primero de mayo próximo. \n \n \n \n Dado\nen la ciudad de Cartago, en la Casa Presidencial, a los veintidós días del mes\nde abril de mil novecientos uno. \n \n Ficha articulo \n \nFecha de generación: 22/2/2026 02:35:01"
+    }
+  ],
+  "definitions": []
+}
