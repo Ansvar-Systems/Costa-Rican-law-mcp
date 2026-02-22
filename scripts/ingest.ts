@@ -492,8 +492,11 @@ async function ingestLaw(
 
   if (options.resume && fs.existsSync(seedPath)) {
     const counts = readSeedCounts(seedPath);
-    console.log(`  Skipping ${law.id} (existing seed, ${counts.provisions} provisions)`);
-    return { ...counts, skipped: true };
+    if (counts.provisions > 0) {
+      console.log(`  Skipping ${law.id} (existing seed, ${counts.provisions} provisions)`);
+      return { ...counts, skipped: true };
+    }
+    console.log(`  Reprocessing ${law.id} (existing seed has 0 provisions)`);
   }
 
   const { fichaUrl, textUrl } = lawUrlPair(law.nValor2);
@@ -558,6 +561,9 @@ async function ingestLaw(
   fs.writeFileSync(path.join(SOURCE_DIR, `${law.id}.texto.html`), textoHtml);
 
   const parsed = parseScijLaw(law, fichaHtml, textoHtml);
+  if (parsed.provisions.length === 0) {
+    throw new Error('No provisions parsed from fetched source text');
+  }
   fs.writeFileSync(seedPath, `${JSON.stringify(parsed, null, 2)}\n`);
 
   const sourceLabel = `${fichaSource}+${textSource}`;
