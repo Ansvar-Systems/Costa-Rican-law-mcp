@@ -1,0 +1,39 @@
+{
+  "id": "cr-scij-8307",
+  "type": "statute",
+  "title": "Pago de intereses y servicios financieros",
+  "title_en": "Pago de intereses y servicios financieros",
+  "short_name": "Norma 8307",
+  "status": "in_force",
+  "issued_date": "1971-10-07",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8307",
+  "description": "Official SCIJ legislation text (nValor2=8307).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Autorízase al Poder Ejecutivo a pagar a los bancos",
+      "content": "que suscriben el contrato de préstamo con el Estado, ratificado por ley\n \n Nº 4823 de 26 de julio de 1971, además de los intereses acordados en\n \n ésta, los gastos y servicios financieros, gastos legales y comisiones\n \n bancarias usuales, conforme a los siguientes tipos máximos:\n \n Gastos financieros: no más de un 0.5%, por una sola vez, sobre el\n \n total del préstamo.\n \n Servicios financieros: no más de un 0.5% anual sobre los saldos\n \n insolutos calculados a valor actual sobre la vida del préstamo.\n \n Comisiones bancarias: no más de un 3% flat, es decir, por una sola\n \n vez.\n \n Gastos legales: no más de un uno por mil sobre el total del\n \n préstamo.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Los bancos podrán deducir de la cantidad prestada,",
+      "content": "en el momento de acreditar los fondos, las sumas a que se refiere el\n \n artículo anterior, incluyendo los intereses adelantados correspondientes\n \n al primer semestre.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "ARTÍCULO 3. - El Poder Ejecutivo deberá incluir en el presupuesto",
+      "content": "que distribuya los fondos provenientes del préstamo, las partidas que\n \n correspondan a los gastos citados.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "ARTÍCULO 4. - Rige a partir de su publicación.",
+      "content": "Ficha articulo \n \nFecha de generación: 22/2/2026 14:49:28"
+    }
+  ],
+  "definitions": []
+}

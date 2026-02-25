@@ -1,0 +1,33 @@
+{
+  "id": "cr-scij-24296",
+  "type": "statute",
+  "title": "Ley de Personería Jurídica de las Academias",
+  "title_en": "Ley de Personería Jurídica de las Academias",
+  "short_name": "Norma 24296",
+  "status": "in_force",
+  "issued_date": "1996-07-01",
+  "in_force_date": "1996-07-17",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=24296",
+  "description": "Official SCIJ legislation text (nValor2=24296).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Las academias doctas, creadas por ley o cuyos estatutos",
+      "content": "hayan sido aprobados por el Poder Ejecutivo, acreditarán su existencia y\n \n personería jurídica con la cita de la ley o del decreto respectivos.\n \n Sobre esa base, el Registro Público les extenderá las respectivas cédulas\n \n jurídicas.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Para demostrar la personería de los directores, jerarcas",
+      "content": "o personeros de las academias, bastará publicar su nombramiento en La\n \n Gaceta.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "ARTÍCULO 3. - Rige a partir de su publicación.",
+      "content": "Ficha articulo \n \nFecha de generación: 23/2/2026 06:39:51"
+    }
+  ],
+  "definitions": []
+}

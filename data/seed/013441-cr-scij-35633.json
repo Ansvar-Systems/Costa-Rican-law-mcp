@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-35633",
+  "type": "statute",
+  "title": "Crea Agencia Policía en San Ramón Quebrada Grande Tilarán",
+  "title_en": "Crea Agencia Policía en San Ramón Quebrada Grande Tilarán",
+  "short_name": "Norma 35633",
+  "status": "in_force",
+  "issued_date": "1945-06-28",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=35633",
+  "description": "Official SCIJ legislation text (nValor2=35633).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Créase en el caserío de San Ramón del distrito",
+      "content": "de Quebrada Grande del cantón de Tilarán, una Agencia Auxiliar\n \n de Policía, con la dotación mensual asignada a las similares.\n \n \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Para los efectos del artículo anterior,",
+      "content": "auméntase el presupuesto vigente del Departamento de Gobernación\n \n en la suma correspondiente.\n \n Ficha articulo \n \nFecha de generación: 24/2/2026 23:21:25"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "cr-scij-34534",
+  "type": "statute",
+  "title": "Reforma Código de Trabajo",
+  "title_en": "Reforma Código de Trabajo",
+  "short_name": "Norma 34534",
+  "status": "in_force",
+  "issued_date": "1946-09-02",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=34534",
+  "description": "Official SCIJ legislation text (nValor2=34534).",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "único",
+      "title": "ARTÍCULO único. - Agrégase al artículo 272 del Código de Trabajo",
+      "content": "el siguiente párrafo final:\n \n \"La Junta Directiva de todo Sindicato podrá estar integrada\n \n por personas que no reúnan las condiciones que este artículo\n \n establece.\"\n \n Ficha articulo \n \nFecha de generación: 24/2/2026 19:31:08"
+    }
+  ],
+  "definitions": []
+}

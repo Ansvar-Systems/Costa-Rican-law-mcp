@@ -1,0 +1,33 @@
+{
+  "id": "cr-scij-37534",
+  "type": "statute",
+  "title": "Exonera títulos SBN y préstamos Bancos Oficiales extranjeros",
+  "title_en": "Exonera títulos SBN y préstamos Bancos Oficiales extranjeros",
+  "short_name": "Norma 37534",
+  "status": "in_force",
+  "issued_date": "1954-10-25",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=37534",
+  "description": "Official SCIJ legislation text (nValor2=37534).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Los títulos que conforme a las regulaciones legales",
+      "content": "emitan los Bancos integrantes del Sistema Bancario Nacional, así como sus\n \n intereses, estarán exentos de todo impuesto presente o futuro, nacional o\n \n municipal, en el territorio de la República.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - El principal de los préstamos que en cualquier forma",
+      "content": "otorguen bancos oficiales de otros países a empresas privadas o\n \n instituciones públicas costarricenses, estarán libres de todo impuesto\n \n nacional o municipal, presente o futuro, en el territorio de la\n \n República.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "ARTÍCULO 3. - Esta ley rige desde su publicación.",
+      "content": "Ficha articulo \n \nFecha de generación: 25/2/2026 06:36:24"
+    }
+  ],
+  "definitions": []
+}

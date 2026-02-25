@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-10232",
+  "type": "statute",
+  "title": "Concesión Eléctrica Northern Railway Company",
+  "title_en": "Concesión Eléctrica Northern Railway Company",
+  "short_name": "Norma 10232",
+  "status": "in_force",
+  "issued_date": "1968-12-03",
+  "in_force_date": "1968-12-07",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=10232",
+  "description": "Official SCIJ legislation text (nValor2=10232).",
+  "provisions": [
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. -Las tarifas para la energía eléctrica que la concesionaria deberá suministrar a las oficinas del Gobierno , conforme a la presente concesión , no podrán ser superiores a las que tiene",
+      "content": "establecidas el Instituto Costarricense de Electricidad , en\nla ciudad de Limon. \n \n \n \n \n \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "ARTÍCULO 3. Esta ley rige a partir de su publicación.",
+      "content": "Casa Presidencial . -\nSan José, a los tres días del mes de diciembre de mil novecientos sesenta y\nocho. \n \n \n \n Ficha articulo \n \nFecha de generación: 22/2/2026 21:44:12"
+    }
+  ],
+  "definitions": []
+}

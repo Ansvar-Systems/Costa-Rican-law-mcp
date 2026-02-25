@@ -1,0 +1,33 @@
+{
+  "id": "cr-scij-37788",
+  "type": "statute",
+  "title": "Reforma Artículo 52 Constitución Política (1871)",
+  "title_en": "Reforma Artículo 52 Constitución Política (1871)",
+  "short_name": "Norma 37788",
+  "status": "in_force",
+  "issued_date": "1943-06-11",
+  "in_force_date": "1943-08-08",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=37788",
+  "description": "Official SCIJ legislation text (nValor2=37788).",
+  "provisions": [
+    {
+      "provision_ref": "art134",
+      "section": "134",
+      "title": "ARTÍCULO 134. de la Constitución Política y cumplidas las formalidades",
+      "content": "exigidas por las disposiciones 1°, 2°, 3°, 4° y 5°, del mismo: \n \n \n \n \n DECRETA:"
+    },
+    {
+      "provision_ref": "artunico",
+      "section": "Único",
+      "title": "ARTÍCULO Único. - El artículo",
+      "content": "52 de la constitución Política, queda reformado así:"
+    },
+    {
+      "provision_ref": "art52",
+      "section": "52",
+      "title": "ARTÍCULO 52. - La enseñanza",
+      "content": "primaria es obligatoria, gratuita y costeada por la Nación. \n La dirección de ella corresponde al Poder Ejecutivo. \n \n \n \n \n El Estado mantendrá las escuelas de educación primaria y los Colegios\n de Segunda Enseñanza que requieran las necesidades del país\n y\n creará rentas para el sostenimiento de la Universidad. \n \n \n \n \n \n Casa Presidencial.-San José, a los once días del mes de junio de mil\nnovecientos cuarenta y tres. \n \n \n \n Ficha articulo \n \nFecha de generación: 25/2/2026 07:47:35"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cr-scij-14819",
+  "type": "statute",
+  "title": "Reforma Ley del Sistema Nacional de Ahorro y Préstamo",
+  "title_en": "Reforma Ley del Sistema Nacional de Ahorro y Préstamo",
+  "short_name": "Norma 14819",
+  "status": "in_force",
+  "issued_date": "1973-02-08",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=14819",
+  "description": "Official SCIJ legislation text (nValor2=14819).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Refórmase el artículo 2º de la Ley del Sistema",
+      "content": "Nacional de Ahorro y Préstamo, Nº 4338 del 23 dde mayo de 1969, que se\n \n leerá así:\n \n \"Artículo 2º.- Para realizar dicho objetivo el Banco Crédito\n \n Agrícolo de Cartago, como Caja Central, junto con las Asociaciones de\n \n Ahorro y Préstamo y otras entidades aprobadas, formará el Sistema\n \n Nacional de Ahorro y Préstamo\".\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Se deroga el transitorio único de la citada ley",
+      "content": "Nº4338.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "ARTÍCULO 3. - Esta ley rige desde su publicación",
+      "content": "Ficha articulo \n \nFecha de generación: 23/2/2026 04:20:21"
+    }
+  ],
+  "definitions": []
+}

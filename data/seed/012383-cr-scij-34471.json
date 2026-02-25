@@ -1,0 +1,33 @@
+{
+  "id": "cr-scij-34471",
+  "type": "statute",
+  "title": "Reforma Código Civil",
+  "title_en": "Reforma Código Civil",
+  "short_name": "Norma 34471",
+  "status": "in_force",
+  "issued_date": "1957-04-05",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=34471",
+  "description": "Official SCIJ legislation text (nValor2=34471).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Los artículos 292 y 981 del Código Civil se leerán",
+      "content": "así:\n \n \"Artículo 292.- Los derechos de transformación y enajenación son\n \n inherentes a la propiedad y ningún propietario puede ser obligado a\n \n transformar o no transformar, a enajenar o no enajenar, sino en los casos\n \n y en la forma en que la ley lo disponga. Es permitido establecer\n \n limitaciones a la libre disposición de los bienes, únicamente cuando\n \n éstos se transfieren por título gratuito. Pero no serán válidas por un\n \n plazo mayor de diez años, salvo tratándose de beneficiarios menores de\n \n edad, en que este término puede ampliarse hasta que el beneficiario\n \n cumpla veinticinco años de edad. Serán nulas, por contrarias al interés\n \n público, y a la libre disposición de los bienes como atributo del\n \n dominio, las limitaciones establecidas por mayor tiempo del indicado en\n \n el presente artículo y, en consecuencia, el Registro Público hará caso\n \n omiso de ellas en cuanto excedan de los términos señalados,\n \n considerándose el bien libre de toda restricción."
+    },
+    {
+      "provision_ref": "art981",
+      "section": "981",
+      "title": "ARTÍCULO 981. - Todos los bienes que constituyen el patrimonio de una",
+      "content": "persona responden al pago de sus deudas. Sin embargo, las cláusulas de\n \n inembargabilidad son válidas cuando hubieren sido impuestas en los\n \n términos y condiciones del artículo 292.\"\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Esta ley rige a partir de su publicación.",
+      "content": "Ficha articulo \n \nFecha de generación: 24/2/2026 19:16:24"
+    }
+  ],
+  "definitions": []
+}

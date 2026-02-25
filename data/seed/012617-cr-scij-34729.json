@@ -1,0 +1,33 @@
+{
+  "id": "cr-scij-34729",
+  "type": "statute",
+  "title": "Reforma Código Fiscal",
+  "title_en": "Reforma Código Fiscal",
+  "short_name": "Norma 34729",
+  "status": "in_force",
+  "issued_date": "1944-06-27",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=34729",
+  "description": "Official SCIJ legislation text (nValor2=34729).",
+  "provisions": [
+    {
+      "provision_ref": "art270",
+      "section": "270",
+      "title": "ARTÍCULO 270. - El tipo de timbre consistirá en un sello de figura cuadrangular, cuyo",
+      "content": "tamaño será de tres centímetros de largo por dos y medio centímetros de ancho;\nllevará la leyenda \"Timbre\" \ny \"Costa Rica\"; indicará en guarismo el año en que deba usarse y\nfijará claramente su valor. \n \n Los\ndiseños y motivos de las diferentes clases de timbres, así como sus\ncorrespondientes colores, se fijarán y modificarán por decretos de la\nSecretaría de Hacienda."
+    },
+    {
+      "provision_ref": "art271",
+      "section": "271",
+      "title": "ARTÍCULO 271. - Habrá timbres de uno, dos, cinco, diez, veinte, veinticinco y cincuenta",
+      "content": "céntimos; y de uno, dos, cinco, diez, veinte, veinticinco, cincuenta y cien\ncolones. \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Esta ley rige desde el día de su publicación.",
+      "content": "Dado\nen el Salón de Sesiones del Congreso.- Palacio Nacional. San José, a los\nveintiséis días del mes de junio de mil novecientos cuarenta y cuatro. \n \n \n \n Casa\nPresidencial.-San José, veintisiete de junio de mil novecientos cuarenta y\ncuatro. \n \n Ficha articulo \n \nFecha de generación: 24/2/2026 20:11:12"
+    }
+  ],
+  "definitions": []
+}

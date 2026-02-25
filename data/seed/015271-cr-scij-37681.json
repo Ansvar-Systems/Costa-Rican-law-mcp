@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-37681",
+  "type": "statute",
+  "title": "Establece Pena a Bancos en Caso de Cierre Temporal, Paro o Huelga",
+  "title_en": "Establece Pena a Bancos en Caso de Cierre Temporal, Paro o Huelga",
+  "short_name": "Norma 37681",
+  "status": "in_force",
+  "issued_date": "1947-08-07",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=37681",
+  "description": "Official SCIJ legislation text (nValor2=37681).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - En todo caso de cierre temporal de una",
+      "content": "institución bancaria, ya sea debido a paro, huelga, o cualquiera\n \n otro motivo similar, cesan de correr los intereses de las\n \n obligaciones contraídas a favor de la misma por todo el tiempo\n \n que dure el cierre.\n \n \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Esta ley rige desde el día de su publicación.",
+      "content": "Ficha articulo \n \nFecha de generación: 25/2/2026 07:09:40"
+    }
+  ],
+  "definitions": []
+}

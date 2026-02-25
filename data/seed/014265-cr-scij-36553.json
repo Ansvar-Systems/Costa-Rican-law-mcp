@@ -1,0 +1,21 @@
+{
+  "id": "cr-scij-36553",
+  "type": "statute",
+  "title": "Adiciona Ley de Tránsito",
+  "title_en": "Adiciona Ley de Tránsito",
+  "short_name": "Norma 36553",
+  "status": "in_force",
+  "issued_date": "1960-08-05",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=36553",
+  "description": "Official SCIJ legislation text (nValor2=36553).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Adiciónase el artículo octavo de la Ley del Tránsito,",
+      "content": "con un párrafo final que diga:\n \n \"No obstante la Dirección General del Tránsito podrá, cuando se lo\n \n solicite alguna asociación responsable, suspender los límites de velocidad\n \n fijados, para la realización de un evento deportivo de competencia,\n \n señalando previamente la ruta o lugares donde se pueda llevar a cabo, la\n \n hora y fecha del evento, y tomando todas las medidas de seguridad que\n \n estime pertinentes para prevenir accidentes entre participantes y\n \n terceros.\"\n \n Ficha articulo \n \nFecha de generación: 25/2/2026 02:24:55"
+    }
+  ],
+  "definitions": []
+}

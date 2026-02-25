@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-33972",
+  "type": "statute",
+  "title": "Ley sobre merodeo",
+  "title_en": "Ley sobre merodeo",
+  "short_name": "Norma 33972",
+  "status": "in_force",
+  "issued_date": "1937-11-11",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=33972",
+  "description": "Official SCIJ legislation text (nValor2=33972).",
+  "provisions": [
+    {
+      "provision_ref": "art62",
+      "section": "62",
+      "title": "ARTÍCULO 62. de la ley Ley de Protección Agrícola, N° 23 del 2 de julio de",
+      "content": "1943)"
+    },
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. Ficha articulo",
+      "content": "Fecha de generación: 24/2/2026 17:23:47"
+    }
+  ],
+  "definitions": []
+}

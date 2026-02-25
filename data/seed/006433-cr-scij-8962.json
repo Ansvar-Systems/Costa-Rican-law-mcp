@@ -1,0 +1,39 @@
+{
+  "id": "cr-scij-8962",
+  "type": "statute",
+  "title": "Ley de Adecuación de Términos al Plan Nacional de Desarrollo Educativo",
+  "title_en": "Ley de Adecuación de Términos al Plan Nacional de Desarrollo Educativo",
+  "short_name": "Norma 8962",
+  "status": "in_force",
+  "issued_date": "1973-04-13",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8962",
+  "description": "Official SCIJ legislation text (nValor2=8962).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - El sistema de educación del país, comprende en su",
+      "content": "sección formal progresiva, graduada y sistemática:\n \n a) Educación Preescolar;\n \n b) Educación General Básica; y\n \n c) Educación Diversificada.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - La Educación General Básica comprende los ciclos",
+      "content": "necesarios para una educación primaria de seis años y el primer ciclo de\n \n la educación media o secundaria. La Educación Diversificada incluye en\n \n todos sus extremos, al segundo ciclo de la educación media, secundaria o\n \n de bachillerato de la anterior estructura.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "ARTÍCULO 3. - Todo documento oficial o particular, ley, decreto o",
+      "content": "reglamento que se refiera a la educación media o secundaria, se tendrá y\n \n aplicará como propio del tercer ciclo de la Educación General Básica y de\n \n la Enseñanza Diversificada.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "ARTÍCULO 4. - Esta ley rige a partir de su publicación.",
+      "content": "Ficha articulo \n \nFecha de generación: 22/2/2026 17:27:15"
+    }
+  ],
+  "definitions": []
+}

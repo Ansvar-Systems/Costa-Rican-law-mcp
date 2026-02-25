@@ -1,0 +1,39 @@
+{
+  "id": "cr-scij-8280",
+  "type": "statute",
+  "title": "Concede pensión",
+  "title_en": "Concede pensión",
+  "short_name": "Norma 8280",
+  "status": "in_force",
+  "issued_date": "1946-06-25",
+  "in_force_date": "1949-07-02",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8280",
+  "description": "Official SCIJ legislation text (nValor2=8280).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Declárase letra oficial del Himno Nacional de Costa",
+      "content": "Rica, la composición poética original de don José María Zeledón Brenes y\n \n que dice:\n \n Noble Patria, tu hermosa bandera\n \n expresión de tu vida nos da:\n \n bajo el límpido azul de tu cielo\n \n blanca y pura descansa la paz;\n \n En la lucha tenaz se fecunda labor\n \n que enrojece del hombre la faz,\n \n conquistaron tus hijos-labriegos sencillos-,\n \n eterno prestigio, estima y honor.\n \n ¡Salve, oh tierra gentil!\n \n ¡Salve, oh Madre de amor!\n \n Cuando alguno pretenda tu gloria manchar,\n \n verás a tu pueblo valiente y viril\n \n la tosca herramienta en arma trocar.\n \n ¡Salve, oh Patria, tu pródigo suelo\n \n dulce abrigo y sustento nos da!\n \n Bajo el límpido azul de tu cielo\n \n ¡Vivan siempre el Trabajo y la Paz!\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - La enseñanza del Himno Nacional será obligatoria en",
+      "content": "todas las escuelas y colegios de la República; con su ejecución y canto se\n \n iniciará toda Asamblea, festividad o celebración patriótica, y los\n \n costarricenses deberán cantarlo en toda ocasión en que se ejecute, así\n como guardar durante ese acto la compostura y el respeto debidos a los\n \n Símbolos que encarnan la majestad de la Patria.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "ARTÍCULO 3. - La ejecución del Himno Nacional sólo deberá verificarse",
+      "content": "con ocasión de actos oficiales y celebraciones patrióticas.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "ARTÍCULO 4. - Este decreto rige desde su publicación.",
+      "content": "Ficha articulo \n \nFecha de generación: 22/2/2026 14:46:01"
+    }
+  ],
+  "definitions": []
+}

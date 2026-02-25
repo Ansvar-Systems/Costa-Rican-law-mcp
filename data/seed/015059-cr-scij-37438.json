@@ -1,0 +1,33 @@
+{
+  "id": "cr-scij-37438",
+  "type": "statute",
+  "title": "Reforma Ley General de Bancos (1936)",
+  "title_en": "Reforma Ley General de Bancos (1936)",
+  "short_name": "Norma 37438",
+  "status": "in_force",
+  "issued_date": "1952-07-17",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=37438",
+  "description": "Official SCIJ legislation text (nValor2=37438).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. &deg;.- Refórmase el inciso 4) del artículo 58 de la Ley General",
+      "content": "de Bancos N&deg;15 de 5 de noviembre de 1936 en la siguiente forma: \n \n “Inciso 4)\nOtorgar préstamos con garantía hipotecaria, prendaria o\nfiduciaria, cuyo producto sea destinado a los fines especificados en el\nartículo número 169 y sus reformas de la Ley del Banco Nacional\nde Costa Rica y cuyos plazos no podrán exceder de los establecidos\nen dicho artículo. \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Las Secciones Agrícola e Industrial que establezcan los bancos nacionales",
+      "content": "se regirán por las disposiciones de los artículos 170 a 190 y sus reformas de\nla Ley del Banco Nacional de Costa Rica. \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "ARTÍCULO 3. - Esta ley rige desde su publicación.",
+      "content": "Casa\nPresidencial.- San José, a los diecisiete días del mes de julio de mil\nnovecientos cincuenta y dos. \n \n Ficha articulo \n \nFecha de generación: 25/2/2026 06:18:09"
+    }
+  ],
+  "definitions": []
+}

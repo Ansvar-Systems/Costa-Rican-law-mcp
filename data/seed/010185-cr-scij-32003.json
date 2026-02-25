@@ -1,0 +1,33 @@
+{
+  "id": "cr-scij-32003",
+  "type": "statute",
+  "title": "Exoneración de impuestos de aduana a la impuestos Municipalidad de Curridabat",
+  "title_en": "Exoneración de impuestos de aduana a la impuestos Municipalidad de Curridabat",
+  "short_name": "Norma 32003",
+  "status": "in_force",
+  "issued_date": "1964-07-31",
+  "in_force_date": "1964-08-07",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=32003",
+  "description": "Official SCIJ legislation text (nValor2=32003).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. Exonérase del pago de toda clase de derechos de",
+      "content": "aduana, la importación que hará la Municipalidad de Curridabat de un camión de\ncarga de 3 1/2 toneladas, y de 4.000 sacos de cemento, destinados a\nun programa de construcción de aceras en el área urbana de Curridabat. \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. En cuanto a los 4.000 sacos, no surtirá efecto",
+      "content": "la exoneración si la fábrica nacional de cemento está en producción en la fecha\nen que se disponga importalos . \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "ARTÍCULO 3. esta ley rige desde su publicación.",
+      "content": "Casa Presidencial.-San José, \n a los treinta y un días del mes de julio de mil novecientos sesenta y\ncuatro. \n \n Ficha articulo \n \nFecha de generación: 24/2/2026 01:42:26"
+    }
+  ],
+  "definitions": []
+}

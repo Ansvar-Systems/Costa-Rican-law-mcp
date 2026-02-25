@@ -1,0 +1,33 @@
+{
+  "id": "cr-scij-31299",
+  "type": "statute",
+  "title": "Suprime Oficina de Precios y Junta Fijadora de Cuotas",
+  "title_en": "Suprime Oficina de Precios y Junta Fijadora de Cuotas",
+  "short_name": "Norma 31299",
+  "status": "in_force",
+  "issued_date": "1948-05-20",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=31299",
+  "description": "Official SCIJ legislation text (nValor2=31299).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Suprímese la Oficina de Precios y la Junta Fijadora de",
+      "content": "Cuotas.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - El Ministerio de Economía mantendrá los servicios que",
+      "content": "considere necesarios para combatir la especulación, así como los\n \n relacionados con exportación de productos sujetos a control, y la de\n \n importación, sujeta a cuotas por el Gobierno de los Estados Unidos.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "ARTÍCULO 3. - Este decreto rige a partir de la fecha de su",
+      "content": "publicación.\n \n Ficha articulo \n \nFecha de generación: 23/2/2026 08:59:07"
+    }
+  ],
+  "definitions": []
+}

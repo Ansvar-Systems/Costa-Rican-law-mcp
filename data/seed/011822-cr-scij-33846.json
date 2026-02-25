@@ -1,0 +1,33 @@
+{
+  "id": "cr-scij-33846",
+  "type": "statute",
+  "title": "Crea Agencia Principal Policía Garita de Alajuela",
+  "title_en": "Crea Agencia Principal Policía Garita de Alajuela",
+  "short_name": "Norma 33846",
+  "status": "in_force",
+  "issued_date": "1945-07-24",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=33846",
+  "description": "Official SCIJ legislation text (nValor2=33846).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Créase una Agencia Principal de Policía en el",
+      "content": "distrito de La Garita, del cantón Central de la provincia de\n \n Alajuela, en sustitución de la Agencia Auxiliar existente, con\n \n la dotación mensual asignada en el presupuesto vigente a las\n \n similares.\n \n \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Créase una Agencia Auxiliar de Policía en el",
+      "content": "distrito de La Garita, con asiento en Las Animas y Santa Rosa,\n \n con el sueldo mensual que éstas tienen fijados en el presupuesto\n \n vigente.\n \n \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "ARTÍCULO 3. - En la suma correspondiente, amplíase el",
+      "content": "presupuesto vigente del Departamento de Gobernación y Policía.\n \n Ficha articulo \n \nFecha de generación: 24/2/2026 16:56:28"
+    }
+  ],
+  "definitions": []
+}

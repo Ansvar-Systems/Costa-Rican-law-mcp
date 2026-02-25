@@ -1,0 +1,21 @@
+{
+  "id": "cr-scij-32245",
+  "type": "statute",
+  "title": "Reforma Código General de Carrillo",
+  "title_en": "Reforma Código General de Carrillo",
+  "short_name": "Norma 32245",
+  "status": "in_force",
+  "issued_date": "1859-09-12",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=32245",
+  "description": "Official SCIJ legislation text (nValor2=32245).",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "ÚNICO",
+      "title": "ARTÍCULO ÚNICO. Queda",
+      "content": "derogado el artículo 1513 cita. \n \n Dado en el Palacio\nNacional en San José, los doce días del mes de setiembre de mil ochocientos\ncincuenta y nueve. \n \n Ficha articulo \n \nFecha de generación: 24/2/2026 02:30:52"
+    }
+  ],
+  "definitions": []
+}

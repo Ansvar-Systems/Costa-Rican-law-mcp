@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-36342",
+  "type": "statute",
+  "title": "Concede Becas",
+  "title_en": "Concede Becas",
+  "short_name": "Norma 36342",
+  "status": "in_force",
+  "issued_date": "1946-08-28",
+  "in_force_date": "1946-09-10",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=36342",
+  "description": "Official SCIJ legislation text (nValor2=36342).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Modifícase el artículo 3 de la Ley No. 7216 del 19 de",
+      "content": "diciembre de 1990, Ley de presupuesto ordinario y extraordinario de la\n \n República de Costa Rica, en la forma que se indica a continuación:\n \n REBAJAR:\n \n TITULO 124\n \n SERVICIO DE LA DEUDA PUBLICA\n \n PROGRAMA: 825\n \n AMORTIZACION DEUDA PUBLICA INTERNA\n \n REGISTRO CONTABLE: 124.825\n \n GO IP FF CE CF CONCEPTO MONTO\n \n C/\n \n 8 27 251 Servicio de la deuda pública 180.000.000\n \n 811 Amortización deuda bonificada 180.000.000\n \n 840 80 Emisiones no contempladas 180.000.000\n \n TOTAL REBAJA PROGRAMA 825 180.000.000\n \n -----------\n \n PROGRAMA: 826\n \n INTERESES DEUDA PUBLICA INTERNA\n \n REGISTRO CONTABLE: 124.826\n \n GO IP FF CE CF CONCEPTO MONTO\n \n C/\n \n 8 27 Servicio de la deuda pública 120.000.000\n \n 821 121 Intereses sobre bonos....... 120.000.000\n \n 840 80 Emisiones no contempladas... 120.000.000\n \n TOTAL REBAJA PROGRAMA 826 120.000.000\n \n -----------\n \n TOTAL REBAJA DEL TITULO 124\n \n SERVICIO DE LA DEUDA PUBLICA 300.000.000\n \n -----------\n \n AUMENTAR:\n \n TITULO 112\n \n MINISTERIO OBRAS PUBLICAS Y TRANSPORTES\n \n PROGRAMA: 450\n \n TRANSFERENCIAS Y APORTES VARIOS\n \n REGISTRO CONTABLE: 112.450\n \n GO IP FF CE CF CONCEPTO MONTO\n \n C/\n \n 6 27 Transferencias corrientes 100.000.000\n \n 664 132 Transferencias a institu-\n \n ciones públicas\n \n descentralizadas 100.000.000\n \n 200 99 Comisión Nacional de Emer-\n \n gencia (para atender las\n \n necesidades varias deriva-\n \n das de los sismos del mes\n \n de abril) 100.000.000\n \n 7 27 Transferencias de capital 200.000.000\n \n 731 242 Aportes a instituciones\n \n descentralizadas 200.000.000\n \n 450 59 Comisión Nacional de Emer-\n \n gencia (para atender las\n \n necesidades varias deriva-\n \n das de los sismos del mes\n \n de abril) 200.000.000\n \n TOTAL AUMENTO PROGRAMA 450 300.000.000\n \n -----------\n \n TOTAL AUMENTO DEL TITULO 112\n \n MINISTERIO OBRAS PUBLICAS\n \n Y TRANSPORTES 300.000.000\n \n -----------\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Rige a partir de su publicación.",
+      "content": "Ficha articulo \n \nFecha de generaci�n: 25/2/2026 01:46:41"
+    }
+  ],
+  "definitions": []
+}

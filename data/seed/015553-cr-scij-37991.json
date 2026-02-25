@@ -1,0 +1,45 @@
+{
+  "id": "cr-scij-37991",
+  "type": "statute",
+  "title": "Reforma Código de Educación",
+  "title_en": "Reforma Código de Educación",
+  "short_name": "Norma 37991",
+  "status": "in_force",
+  "issued_date": "1945-08-21",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=37991",
+  "description": "Official SCIJ legislation text (nValor2=37991).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Modifícase el párrafo segundo del artículo 437",
+      "content": "del Código de Educación, en la siguiente forma:"
+    },
+    {
+      "provision_ref": "art437",
+      "section": "437",
+      "title": "ARTÍCULO 437. -El Rector, el Secretario de la Universidad y",
+      "content": "los Directores y Profesores de sus Escuelas, lo mismo que su\n \n personal administrativo, tendrán derecho a jubilación voluntaria\n \n cuando cumplan sesenta años de edad y obligatoria cuando alcancen\n \n setenta, salvo las excepciones contempladas en el artículo 446.\n \n Con ese fin, la Universidad contratará con el Banco Nacional de\n \n Seguros, un Seguro Individual de Vejez y Retiro para cada uno de\n \n los funcionarios y empleados dichos, ajustándose a los términos\n \n que establece el decreto Nº 23 de 27 de noviembre de 1934, en\n \n cuanto a primas, aportes y beneficios, asumiendo la Universidad\n \n las obligaciones que corresponden al Estado, según aquel decreto.\n \n La pensión resultante no podrá ser conmutada ni está sujeta a\n \n ventas, embargos o trabas de ninguna especie.\n \n \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Adiciónase el artículo 446 del Código de",
+      "content": "Educación, en los siguientes términos:"
+    },
+    {
+      "provision_ref": "art446",
+      "section": "446",
+      "title": "ARTÍCULO 446. -Cuando estos funcionarios cumplan dentro de",
+      "content": "los respectivos períodos para que fueron electos, la edad de\n \n setenta años, señalada como de jubilación obligatoria por el"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "ARTÍCULO 3. - Esta ley regirá desde el día de su",
+      "content": "publicación.\n \n Ficha articulo \n \nFecha de generación: 25/2/2026 08:39:16"
+    }
+  ],
+  "definitions": []
+}

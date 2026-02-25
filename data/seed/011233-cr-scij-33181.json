@@ -1,0 +1,33 @@
+{
+  "id": "cr-scij-33181",
+  "type": "statute",
+  "title": "Crea Impuesto Productos Fábrica Nacional de Licores",
+  "title_en": "Crea Impuesto Productos Fábrica Nacional de Licores",
+  "short_name": "Norma 33181",
+  "status": "in_force",
+  "issued_date": "1949-01-21",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=33181",
+  "description": "Official SCIJ legislation text (nValor2=33181).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Auméntase en dos millones de colones la subvención",
+      "content": "anual a favor del Consejo Nacional de Producción.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Para atender esta nueva obligación, créase un impuesto",
+      "content": "de un diez por ciento (10%), sobre los precios de todos los productos\n \n elaborados y vendidos por la Fábrica Nacional de Licores.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "ARTÍCULO 3. - Este Decreto-Ley entra en vigencia desde su",
+      "content": "publicación.\n \n Ficha articulo \n \nFecha de generación: 24/2/2026 06:06:51"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "cr-scij-34378",
+  "type": "statute",
+  "title": "Exoneración de pago de impuestos a la Federación Costarricense de béisbol",
+  "title_en": "Exoneración de pago de impuestos a la Federación Costarricense de béisbol",
+  "short_name": "Norma 34378",
+  "status": "in_force",
+  "issued_date": "1977-01-03",
+  "in_force_date": "1977-01-13",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=34378",
+  "description": "Official SCIJ legislation text (nValor2=34378).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. Exonérase del pago de toda clase de impuestos la",
+      "content": "compra que haga la Federación Costarricense de béisbol de un vehículo de hasta\n1200 centímetros cúbicos, ensamblado en Costa Rica, a fin de rifarlo para\nrecuadra fondos que serán destinados a la compra de implementos deportivos para\nla práctica del béisbol. \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. Los implementos deportivos que adquiera la",
+      "content": "citada Federación, de acuerdo con lo dispuesto en el artículo anterior, estarán\nlibres del pago de todo tipo de impuestos. \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "ARTÍCULO 3. En ningún caso, el valor total de los números de",
+      "content": "la rifa autorizada en esta ley será menor que el valor del vehículo en el\nmercado, incluidos los impuestos. \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "ARTÍCULO 4. Rige a partir de su publicación.",
+      "content": "Casa Presidencial.-San José, a los tres días del mes de\nenero de mil novecientos setenta y siete . \n \n Ficha articulo \n \nFecha de generación: 24/2/2026 18:55:53"
+    }
+  ],
+  "definitions": []
+}

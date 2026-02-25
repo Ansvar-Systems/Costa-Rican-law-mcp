@@ -1,0 +1,33 @@
+{
+  "id": "cr-scij-31922",
+  "type": "statute",
+  "title": "Autoriza a Poder Ejecutivo modificar saldo de ingresos",
+  "title_en": "Autoriza a Poder Ejecutivo modificar saldo de ingresos",
+  "short_name": "Norma 31922",
+  "status": "in_force",
+  "issued_date": "1974-09-25",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=31922",
+  "description": "Official SCIJ legislation text (nValor2=31922).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Autorízase al Poder Ejecutivo para modificar, mediante",
+      "content": "decreto y previa autorización de la Contraloría General de la República,\n \n los saldos de ingresos y gastos al 25 de abril de 1974 correspondientes a\n \n presupuestos ya autorizados por la Asamblea Legislativa y financiados con\n \n recursos expresados en moneda extranjera, para adecuarlos al tipo de\n \n cambio establecido en la ley Nº 5519.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - La Contraloría General de la República certificará los",
+      "content": "montos no girados al 25 de abril de 1974, de los presupuestos a que se\n \n refiere el párrafo anterior y verificará que esos recursos sean asignados\n \n conforme a los destinos autorizados en las leyes correspondientes.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "ARTÍCULO 3. - Esta ley rige a partir de su publicación.",
+      "content": "Ficha articulo \n \nFecha de generación: 24/2/2026 01:26:26"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-9320",
+  "type": "statute",
+  "title": "Ley de presupuesto extraordinario",
+  "title_en": "Ley de presupuesto extraordinario",
+  "short_name": "Norma 9320",
+  "status": "in_force",
+  "issued_date": "1958-12-09",
+  "in_force_date": "1958-12-16",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=9320",
+  "description": "Official SCIJ legislation text (nValor2=9320).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. �.- Refórmase el artículo 135 del Código de Comercio y",
+      "content": "agréguese un transitorio, los cuales se leerán así:\n \n \"Artículo 135.- Los certificados provisionales y los títulos\n \n definitivos podrán amparar una o varias acciones.\n \n Transitorio.- Los certificados definitivos que se hubieran emitido\n \n con fundamento en el texto que tenía el artículo 135 antes de la reforma\n \n introducida por esta ley, o en la legislación anterior, continuarán\n \n teniendo igual valor que los títulos definitivos o que las acciones\n \n propiamente dichas\".\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. �.- Esta ley rige a partir de su publicación.",
+      "content": "Ficha articulo \n \nFecha de generaci�n: 22/2/2026 18:30:38"
+    }
+  ],
+  "definitions": []
+}

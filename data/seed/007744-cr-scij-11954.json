@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-11954",
+  "type": "statute",
+  "title": "Adiciona Pensiones de Hacienda",
+  "title_en": "Adiciona Pensiones de Hacienda",
+  "short_name": "Norma 11954",
+  "status": "in_force",
+  "issued_date": "1960-10-28",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=11954",
+  "description": "Official SCIJ legislation text (nValor2=11954).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Agrégase un transitorio a la ley Nº 148 de 23 de agosto",
+      "content": "de 1943, reformada por leyes Nº 80 de 13 de julio de 1944, Nº 10 de 7 de\n \n noviembre de 1945, Nº 1044 de 22 de agosto de 1947 y Nº 2417 de 14 de\n \n setiembre de 1959, que se leerá así:\n \n \"Transitorio.- Los actuales empleados de la Fábrica Nacional de\n \n Licores que hayan cotizado y se encuentren cotizando en la actualidad al\n \n fondo de Pensiones de Hacienda, creado por ley Nº 148 de 23 de agosto de\n \n 1943, o desde su nombramiento, tendrán derecho a acogerse a los beneficios\n \n que la misma ley establece, con una suma igual al último sueldo que\n \n estuvieren devengando al momento de solicitar la pensión\".\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Esta ley rige desde su publicación.",
+      "content": "Ficha articulo \n \nFecha de generación: 23/2/2026 01:01:52"
+    }
+  ],
+  "definitions": []
+}

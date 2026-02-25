@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-33021",
+  "type": "statute",
+  "title": "Reforma a los artículos 167 y 168 del Código de Policía",
+  "title_en": "Reforma a los artículos 167 y 168 del Código de Policía",
+  "short_name": "Norma 33021",
+  "status": "in_force",
+  "issued_date": "1950-11-21",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=33021",
+  "description": "Official SCIJ legislation text (nValor2=33021).",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "único",
+      "title": "ARTÍCULO único. - Refórmanse los artículos 167 y 168 del",
+      "content": "Código de Policía, los cuales se leerán así: \n \n “Artículo\n167.- Se penará con arresto de quince a ciento veinte días o\nmulta de treinta a doscientos cuarenta colones, al que ejerciere sin título\nlegal, ni permiso de autoridad competente, las profesiones de médico,\ncirujano, dentista, farmacéutico, abogado, ingeniero o cualquiera otra\npara cuyo ejercicio sean necesarios el título o la licencia, salvo en\nlos casos de urgencia manifiesta. \n \n En\ncaso de reincidencia se aplicará siempre la pena de arresto."
+    },
+    {
+      "provision_ref": "art168",
+      "section": "168",
+      "title": "ARTÍCULO 168. - Se impondrá multa de cincuenta a doscientos colones, al que se",
+      "content": "arrogue grados académicos o títulos profesionales que no le\ncorrespondan conforme a las leyes de la República. \n \n Comuníquese\nal Poder Ejecutivo \n \n Casa\nPresidencial.- San José, a los veintiún días del mes de\nnoviembre de mil novecientos cincuenta. \n \n \n \n Ficha articulo \n \nFecha de generación: 24/2/2026 05:32:19"
+    }
+  ],
+  "definitions": []
+}

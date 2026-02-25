@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-37936",
+  "type": "statute",
+  "title": "Reforma Código Penal de 1924",
+  "title_en": "Reforma Código Penal de 1924",
+  "short_name": "Norma 37936",
+  "status": "in_force",
+  "issued_date": "1935-06-22",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=37936",
+  "description": "Official SCIJ legislation text (nValor2=37936).",
+  "provisions": [
+    {
+      "provision_ref": "art434",
+      "section": "434",
+      "title": "ARTÍCULO 434. del Código Penal de 1941, ley N° 368 del 21 de agosto de 1941)",
+      "content": "N° 53 \n \n EL CONGRESO CONSTITUCIONAL DE LA\nREPÚBLICA DE COSTA RICA \n \n Decreta:"
+    },
+    {
+      "provision_ref": "artunico",
+      "section": "único",
+      "title": "ARTÍCULO único. - El artículo 132 del Código Penal se leerá así:",
+      "content": ">. \n \n Casa\npresidencial.- San José, a los veintidós días del mes de junio de mil\nnovecientos treinta y cinco. \n \n Ficha articulo \n \nFecha de generación: 25/2/2026 08:26:04"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "cr-scij-36885",
+  "type": "statute",
+  "title": "Prohibe Funcionamiento Partido Vanguardia Popular",
+  "title_en": "Prohibe Funcionamiento Partido Vanguardia Popular",
+  "short_name": "Norma 36885",
+  "status": "in_force",
+  "issued_date": "1950-08-01",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=36885",
+  "description": "Official SCIJ legislation text (nValor2=36885).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Declárase que el Partido Vanguardia Popular se",
+      "content": "encuentra comprendido dentro de las prohibiciones establecidas en el"
+    },
+    {
+      "provision_ref": "art98",
+      "section": "98",
+      "title": "ARTÍCULO 98. de la Constitución Política.",
+      "content": "Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Prohíbese la formación y el funcionamiento de toda",
+      "content": "organización política de filiación o extracción comunista, cualquiera que\n \n sea la denominación que adopte.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "ARTÍCULO 3. - Esta ley rige desde la fecha de su publicación.",
+      "content": "Ficha articulo \n \nFecha de generación: 25/2/2026 01:48:33"
+    }
+  ],
+  "definitions": []
+}

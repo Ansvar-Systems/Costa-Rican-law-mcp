@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-12603",
+  "type": "statute",
+  "title": "Designado al Poder Ejecutivo asume jefatura Ejército",
+  "title_en": "Designado al Poder Ejecutivo asume jefatura Ejército",
+  "short_name": "Norma 12603",
+  "status": "in_force",
+  "issued_date": "1889-05-01",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=12603",
+  "description": "Official SCIJ legislation text (nValor2=12603).",
+  "provisions": [
+    {
+      "provision_ref": "art102",
+      "section": "102",
+      "title": "ARTÍCULO 102. de la Constitución",
+      "content": "DECRETO:"
+    },
+    {
+      "provision_ref": "artunico",
+      "section": "único",
+      "title": "ARTÍCULO único. -Desde",
+      "content": "esta fecha asumo Mando en Jefe del Ejército de la República.- Comuníquese\ny publíquese. \n \n Dado en el Palacio\nPresidencial, en San José, á primero de mayo de mil ochocientos ochenta y\nnueve. -ASCENSIÓN ESQUIVEL. El Secretario de Estado en el despacho de Guerra,\nSANTIAGO DE LA GUARDIA. \n \n Ficha articulo \n \nFecha de generación: 23/2/2026 01:51:03"
+    }
+  ],
+  "definitions": []
+}
