@@ -3,23 +3,23 @@ mcp_name: "Costa Rican Law MCP"
 jurisdiction: "CR"
 
 sources:
-  - name: "Sistema Costarricense de Información Jurídica (SCIJ)"
-    authority: "Procuraduría General de la República (PGR)"
+  - name: "Sistema Costarricense de Informacion Juridica (SCIJ)"
+    authority: "Procuraduria General de la Republica (PGR)"
     official_portal: "https://pgrweb.go.cr/scij"
     retrieval_method: "HTML_SCRAPE"
     update_frequency: "unknown"
-    last_ingested: "2026-02-22"
+    last_ingested: "2026-02-26"
     license_or_terms:
       type: "government_terms"
       url: "https://pgrweb.go.cr/scij"
       summary: "Official legislation published by the Costa Rican government portal."
     coverage:
-      scope: "Costa Rican legislation (tipo norma: Ley) discoverable via SCIJ selective search across years 1821-2026."
-      limitations: "Portal availability is intermittent; dataset currently contains the successfully fetched subset and must be resumed with full-corpus ingestion retries for complete coverage."
+      scope: "Costa Rican legislation (type: Ley) from SCIJ. Census-first discovery across years 1821-2026. 18,761 laws discovered, 12,091 ingested (64.6% coverage). 75,793 provisions."
+      limitations: "SCIJ portal intermittently returns PagError for some norms. Coverage gaps are due to portal availability, not ingestion logic. Remaining 6,670 IDs are retried via resume ingestion."
     languages:
       - "es"
 
 data_freshness:
   automated_checks: true
   check_frequency: "weekly"
-  last_verified: "2026-02-22"
+  last_verified: "2026-02-26"

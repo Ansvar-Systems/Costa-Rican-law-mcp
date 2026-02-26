@@ -1,8 +1,8 @@
 {
   "name": "@ansvar/costa-rican-law-mcp",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "mcpName": "eu.ansvar/costa-rican-law-mcp",
-  "description": "Costa Rican law database covering data protection, cybersecurity, e-commerce, and criminal law provisions via Model Context Protocol",
+  "description": "Costa Rican law database with 12,091 laws and 75,793 provisions from SCIJ via Model Context Protocol",
   "author": "Ansvar Systems <hello@ansvar.eu>",
   "license": "Apache-2.0",
   "repository": {
@@ -39,6 +39,7 @@
     "test": "vitest run",
     "test:watch": "vitest",
     "test:coverage": "vitest run --coverage",
+    "census": "node --import tsx scripts/census.ts",
     "ingest": "node --import tsx scripts/ingest.ts",
     "test:contract": "vitest run __tests__/contract/",
     "drift:detect": "node --import tsx scripts/drift-detect.ts",

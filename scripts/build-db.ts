@@ -321,12 +321,12 @@ function buildDatabase(): void {
   db.exec(SCHEMA);
 
   const insertDoc = db.prepare(`
-    INSERT INTO legal_documents (id, type, title, title_en, short_name, status, issued_date, in_force_date, url, description)
+    INSERT OR IGNORE INTO legal_documents (id, type, title, title_en, short_name, status, issued_date, in_force_date, url, description)
     VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
   `);
 
   const insertProvision = db.prepare(`
-    INSERT INTO legal_provisions (document_id, provision_ref, chapter, section, title, content, metadata)
+    INSERT OR IGNORE INTO legal_provisions (document_id, provision_ref, chapter, section, title, content, metadata)
     VALUES (?, ?, ?, ?, ?, ?, ?)
   `);
 
@@ -368,6 +368,8 @@ function buildDatabase(): void {
   let totalDefs = 0;
   let totalEuDocuments = 0;
   let totalEuReferences = 0;
+  let skippedDuplicates = 0;
+  const seenDocIds = new Set<string>();
   const primaryImplementationByDocument = new Set<string>();
 
   const loadAll = db.transaction(() => {
@@ -375,6 +377,13 @@ function buildDatabase(): void {
       const filePath = path.join(SEED_DIR, file);
       const content = fs.readFileSync(filePath, 'utf-8');
       const seed = JSON.parse(content) as DocumentSeed;
+
+      // Skip duplicate document IDs (keep first seen)
+      if (seenDocIds.has(seed.id)) {
+        skippedDuplicates++;
+        continue;
+      }
+      seenDocIds.add(seed.id);
 
       insertDoc.run(
         seed.id, seed.type ?? 'statute', seed.title, seed.title_en ?? null,
@@ -448,8 +457,9 @@ function buildDatabase(): void {
     insertMeta.run('tier', 'free');
     insertMeta.run('schema_version', '2');
     insertMeta.run('built_at', new Date().toISOString());
+    insertMeta.run('build_date', new Date().toISOString().slice(0, 10));
     insertMeta.run('builder', 'build-db.ts');
-    insertMeta.run('jurisdiction', 'EE');
+    insertMeta.run('jurisdiction', 'CR');
     insertMeta.run('source', 'official-source');
     insertMeta.run('licence', 'See sources.yml');
   });
@@ -465,9 +475,30 @@ function buildDatabase(): void {
   const size = fs.statSync(DB_PATH).size;
   console.log(
     `\nBuild complete: ${totalDocs} documents, ${totalProvisions} provisions, ` +
-    `${totalDefs} definitions, ${totalEuDocuments} EU documents, ${totalEuReferences} EU references`
+    `${totalDefs} definitions, ${totalEuDocuments} EU documents, ${totalEuReferences} EU references` +
+    (skippedDuplicates > 0 ? ` (${skippedDuplicates} duplicate seed files skipped)` : '')
   );
   console.log(`Output: ${DB_PATH} (${(size / 1024 / 1024).toFixed(1)} MB)`);
+
+  // Update census.json with ingestion stats if it exists
+  const CENSUS_PATH = path.resolve(__dirname, '../data/census.json');
+  if (fs.existsSync(CENSUS_PATH)) {
+    try {
+      const census = JSON.parse(fs.readFileSync(CENSUS_PATH, 'utf-8'));
+      census.ingestion = {
+        completed_at: new Date().toISOString(),
+        total_laws: totalDocs,
+        total_provisions: totalProvisions,
+        coverage_pct: census.stats?.total
+          ? ((totalDocs / census.stats.total) * 100).toFixed(1)
+          : '100.0',
+      };
+      fs.writeFileSync(CENSUS_PATH, JSON.stringify(census, null, 2) + '\n');
+      console.log('Updated census.json with ingestion stats.');
+    } catch {
+      // Non-critical — ignore
+    }
+  }
 }
 
 buildDatabase();

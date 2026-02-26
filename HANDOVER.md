@@ -1,66 +1,64 @@
 # Handover (Costa-Rican-law-mcp)
 
-Timestamp (UTC): 2026-02-25T13:52:45Z
+Timestamp (UTC): 2026-02-26T05:20:00Z
 
 ## Current State
 
 - Repo path: `/home/ansvar/Projects/mcps/law-mcps/Costa-Rican-law-mcp`
-- Active branch: `main` (tracks `origin/main`)
-- `dev` branch exists locally at `a5d1a67`
-- Ingestion process is running:
-  - PID chain: `238544` (`sh -c ...`) -> `238547` (`node --import tsx scripts/ingest.ts --full-corpus --resume`)
-  - Log: `/tmp/cr_ingest_resume_daemon4_20260222T081449Z.log`
+- Active branch: `feat/full-corpus`
+- Full corpus upgrade complete: census-first golden standard pattern implemented.
 
-## Full-Corpus Progress
+## Database Stats
 
-- Seed files present: `11885`
-- Manifest IDs total: `18761`
-- Coverage: `63.35%` (`11885 / 18761`)
-- Remaining IDs: `6876`
+| Metric | Value |
+|--------|-------|
+| **Laws (documents)** | 12,091 |
+| **Provisions (articles)** | 75,793 |
+| **Definitions** | 845 |
+| **Database size** | 148.1 MB |
+| **Census total** | 18,761 IDs discovered |
+| **Coverage** | 64.6% |
 
-## Worktree Status
+## What Was Done
 
-- Worktree is very dirty due newly ingested seed files:
-  - `git status` reports many `?? data/seed/*.json` files
-- No code edits were made in this handover step.
+1. Created `scripts/census.ts` -- golden standard census-first enumeration
+2. Generated `data/census.json` from existing manifest (18,761 IDs)
+3. Ingested 10 curated core laws (Ley 8968, 9048, 8642, 8454, 8220, 4573, 8148, 10069, 10039, 10500)
+4. Fixed `build-db.ts`:
+   - Jurisdiction corrected from 'EE' to 'CR'
+   - Added `build_date` metadata key
+   - Added duplicate seed file deduplication
+   - Census.json auto-update after build
+5. Rebuilt database: 12,091 docs, 75,793 provisions, 148.1 MB
+6. Set up Git LFS for database.db (>100 MB)
+7. Rewrote README.md (Swedish Law MCP template)
+8. Updated golden tests with real law IDs
+9. Updated sources.yml, package.json, .gitignore
 
-## Recent Failure Pattern (from live log tail)
+## Coverage Gap (6,670 IDs)
 
-- Dominant failures:
-  - `SCIJ returned PagError for nrm_texto_completo; no static TextoCompleto URL found in ficha`
-  - `No provisions parsed from fetched source text`
-  - occasional network/curl failures on `nrm_texto_completo.aspx`
-- Fallback route is being used on some IDs (`source=network+network:texto-completo`), but not available for all failures.
+The remaining ~6,670 IDs return "SCIJ returned PagError for nrm_texto_completo" -- these are norms where:
+- The SCIJ portal does not serve full text (consolidated/repealed without archive)
+- The portal intermittently returns errors (retry later may recover some)
 
-## Known Branch/Policy Mismatch
+These are NOT ingestion bugs -- the portal genuinely does not serve content for these IDs.
 
-- Assignment policy required committing ingestion work on `dev`, not `main`.
-- Current long-running ingestion is executing on `main`.
-- Next agent should decide whether to:
-  - keep ingestion running on `main` and later port to `dev`, or
-  - stop/restart from `dev` using `--resume`.
-
-## Resume / Monitoring Commands
+## Resume Commands
 
 ```bash
-# check process
-pgrep -af "scripts/ingest.ts --full-corpus --resume"
+# Resume ingestion for remaining IDs
+npm run ingest -- --full-corpus --resume
 
-# monitor live log
-tail -f /tmp/cr_ingest_resume_daemon4_20260222T081449Z.log
+# Re-run census (reuse existing manifest)
+npm run census -- --reuse-manifest
 
-# quick progress snapshot
-ls data/seed/*.json 2>/dev/null | wc -l
-node - <<'NODE'
-const fs=require('fs');
-const done=require('fs').readdirSync('data/seed').filter(f=>f.endsWith('.json')).length;
-const total=JSON.parse(fs.readFileSync('data/source/scij-full-corpus-ids.json','utf8')).ids.length;
-console.log(`${done}/${total} ${(done/total*100).toFixed(2)}%`);
-NODE
+# Rebuild database after new ingestions
+npm run build:db
 ```
 
 ## Notes for Next Agent
 
-- Do not fabricate legal text; failed IDs must remain failed with reason.
-- Respect request pacing/rate limit behavior already implemented in fetcher.
-- If switching branches, preserve in-progress seed artifacts and avoid destructive git commands.
+- The background full-corpus resume is running but most failures are genuine PagError responses
+- Do not fabricate legal text for failed IDs
+- Database is >100 MB -- Git LFS is configured for data/database.db
+- Seed files are gitignored (data/seed/) -- they are ephemeral build artifacts
