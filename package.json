@@ -1,6 +1,6 @@
 {
   "name": "@ansvar/costa-rican-law-mcp",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "mcpName": "eu.ansvar/costa-rican-law-mcp",
   "description": "Costa Rican law database with 16,724 laws and 120,455 provisions from SCIJ via Model Context Protocol",
   "author": "Ansvar Systems <hello@ansvar.eu>",
