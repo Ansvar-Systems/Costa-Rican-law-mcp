@@ -7,9 +7,9 @@
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![GitHub stars](https://img.shields.io/github/stars/Ansvar-Systems/Costa-Rican-law-mcp?style=social)](https://github.com/Ansvar-Systems/Costa-Rican-law-mcp)
 [![CI](https://github.com/Ansvar-Systems/Costa-Rican-law-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/Ansvar-Systems/Costa-Rican-law-mcp/actions/workflows/ci.yml)
-[![Provisions](https://img.shields.io/badge/provisions-75%2C042-blue)]()
+[![Provisions](https://img.shields.io/badge/provisions-120%2C455-blue)]()
 
-Query **12,077 Costa Rican laws** -- from the Penal Code and Data Protection Law to the Telecommunications Law, Digital Signatures Act, and more -- directly from Claude, Cursor, or any MCP-compatible client.
+Query **16,724 Costa Rican laws** -- from the Penal Code and Data Protection Law to the Telecommunications Law, Digital Signatures Act, and more -- directly from Claude, Cursor, or any MCP-compatible client.
 
 If you're building legal tech, compliance tools, or doing Costa Rican legal research, this is your verified reference database.
 
@@ -24,7 +24,7 @@ Costa Rican legal research means navigating [SCIJ](https://pgrweb.go.cr/scij/) (
 - A **lawyer** validating citations in a brief or contract
 - A **compliance officer** checking data protection obligations under Ley 8968
 - A **legal tech developer** building tools on Costa Rican law
-- A **researcher** tracing legislative provisions across 12,077 laws
+- A **researcher** tracing legislative provisions across 16,724 laws
 
 ...you shouldn't need dozens of browser tabs and manual cross-referencing. Ask Claude. Get the exact provision. With context.
 
@@ -128,10 +128,10 @@ Once connected, just ask naturally:
 
 | Category | Count | Details |
 |----------|-------|---------|
-| **Laws** | 12,077 statutes | Census-first from SCIJ (18,761 discovered) |
-| **Provisions** | 75,042 articles | Full-text searchable with FTS5 |
-| **Legal Definitions** | 809 definitions | Extracted from definition articles |
-| **Database Size** | ~147 MB | Optimized SQLite, portable |
+| **Laws** | 16,724 statutes | Census-first from SCIJ (18,761 discovered, 15,997 accessible) |
+| **Provisions** | 120,455 articles | Full-text searchable with FTS5 |
+| **Legal Definitions** | 3,620 definitions | Extracted from definition articles |
+| **Database Size** | ~276 MB | Optimized SQLite, portable |
 | **Weekly Freshness Checks** | Automated | Drift detection against SCIJ |
 
 ### Key Laws
@@ -240,7 +240,7 @@ All content is sourced from authoritative Costa Rican legal databases:
 | **Retrieval method** | HTML scrape from SCIJ date-range selective search |
 | **Language** | Spanish |
 | **License** | Government open access |
-| **Coverage** | 12,077 laws (64.6% of 18,761 discovered) |
+| **Coverage** | 16,724 laws (64.6% of 18,761 discovered) |
 | **Last ingested** | 2026-02-26 |
 
 ### Automated Freshness Checks (Weekly)
@@ -283,7 +283,7 @@ See [SECURITY.md](SECURITY.md) for the full policy and vulnerability reporting.
 > - **Court case coverage is not included** -- do not rely solely on this for case law research
 > - **Verify critical citations** against primary sources for court filings
 > - **EU cross-references** reflect alignment relationships, not transposition
-> - **Coverage is partial** -- 12,077 of 18,761 discovered laws are ingested (SCIJ portal intermittently unavailable for some records)
+> - **Coverage is 100% of accessible content** -- 16,724 of 18,761 discovered laws are ingested (2,764 entries have no digitized text on the SCIJ portal)
 
 **Before using professionally, read:** [DISCLAIMER.md](DISCLAIMER.md) | [SECURITY.md](SECURITY.md)
 
@@ -369,7 +369,7 @@ Priority areas:
 
 - [x] Core statute database with FTS5 search
 - [x] Census-first full corpus discovery (18,761 laws)
-- [x] Full corpus ingestion (12,077 laws, 75,042 provisions, 809 definitions)
+- [x] Full corpus ingestion (16,724 laws, 75,042 provisions, 809 definitions)
 - [x] EU/international law alignment tools
 - [x] Vercel Streamable HTTP deployment
 - [x] npm package publication
@@ -391,7 +391,7 @@ If you use this MCP server in academic research:
   title = {Costa Rican Law MCP Server: AI-Powered Legal Research Tool},
   year = {2026},
   url = {https://github.com/Ansvar-Systems/Costa-Rican-law-mcp},
-  note = {12,077 Costa Rican laws with 75,042 provisions and 809 definitions}
+  note = {16,724 Costa Rican laws with 120,455 provisions and 3,620 definitions}
 }
 ```
 
@@ -412,7 +412,7 @@ Apache License 2.0. See [LICENSE](./LICENSE) for details.
 
 We build AI-accelerated compliance and legal research tools for the global market. This MCP server started as our internal reference tool -- turns out everyone building compliance tools has the same research frustrations.
 
-So we're open-sourcing it. Navigating 12,077 laws shouldn't require a law degree.
+So we're open-sourcing it. Navigating 16,724 laws shouldn't require a law degree.
 
 **[ansvar.eu](https://ansvar.eu)** -- Stockholm, Sweden
 

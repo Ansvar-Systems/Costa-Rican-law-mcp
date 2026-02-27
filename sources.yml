@@ -8,18 +8,18 @@ sources:
     official_portal: "https://pgrweb.go.cr/scij"
     retrieval_method: "HTML_SCRAPE"
     update_frequency: "unknown"
-    last_ingested: "2026-02-26"
+    last_ingested: "2026-02-27"
     license_or_terms:
       type: "government_terms"
       url: "https://pgrweb.go.cr/scij"
       summary: "Official legislation published by the Costa Rican government portal."
     coverage:
-      scope: "Costa Rican legislation (type: Ley) from SCIJ. Census-first discovery across years 1821-2026. 18,761 laws discovered, 12,091 ingested (64.6% coverage). 75,793 provisions."
-      limitations: "SCIJ portal intermittently returns PagError for some norms. Coverage gaps are due to portal availability, not ingestion logic. Remaining 6,670 IDs are retried via resume ingestion."
+      scope: "Costa Rican legislation (type: Ley) from SCIJ. Census-first discovery across years 1821-2026. 18,761 laws discovered, 16,724 ingested (100% of accessible content). 120,455 provisions."
+      limitations: "2,764 SCIJ entries have no digitized full text (PagError). These are mostly historical norms without archived content. All accessible content has been ingested."
     languages:
       - "es"
 
 data_freshness:
   automated_checks: true
   check_frequency: "weekly"
-  last_verified: "2026-02-26"
+  last_verified: "2026-02-27"

@@ -2,7 +2,7 @@
   "$schema": "./golden-tests.schema.json",
   "version": "2.0",
   "mcp_name": "Costa Rican Law MCP",
-  "description": "Golden contract tests for the Costa Rican Law MCP -- 12 tests covering article retrieval, search, citation, cross-reference, and negative cases. Updated for full-corpus (12,091 laws, 75,793 provisions).",
+  "description": "Golden contract tests for the Costa Rican Law MCP -- 12 tests covering article retrieval, search, citation, cross-reference, and negative cases. Updated for full-corpus (16,724 laws, 120,455 provisions).",
   "tests": [
     {
       "id": "cr-001",

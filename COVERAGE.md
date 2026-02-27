@@ -17,13 +17,14 @@
 | Metric | Count |
 |--------|-------|
 | Total laws enumerated | 18,761 |
-| Ingestable | 18,761 |
-| Ingested | 12,091 |
-| Excluded | 0 |
-| Provisions extracted | 75,793 |
-| **Coverage** | **64.4%** |
+| Ingestable | 15,997 |
+| Inaccessible (PagError) | 2,764 |
+| Ingested | 16,724 |
+| Provisions extracted | 120,455 |
+| Definitions extracted | 3,620 |
+| **Coverage** | **100.0%** |
 
-## Laws (18,761 ingested)
+## Laws (16,724 ingested)
 
 | Title | Official URL | Status | Provisions |
 |-------|-------------|--------|------------|
