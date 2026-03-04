@@ -25,31 +25,41 @@ export function getAbout(db: InstanceType<typeof Database>, context: AboutContex
   const caps = detectCapabilities(db);
   const meta = readDbMetadata(db);
 
+  const euRefs = safeCount(db, 'SELECT COUNT(*) as count FROM eu_references');
+
+  const stats: Record<string, number> = {
+    documents: safeCount(db, 'SELECT COUNT(*) as count FROM legal_documents'),
+    provisions: safeCount(db, 'SELECT COUNT(*) as count FROM legal_provisions'),
+    definitions: safeCount(db, 'SELECT COUNT(*) as count FROM definitions'),
+  };
+
+  if (euRefs > 0) {
+    stats.eu_documents = safeCount(db, 'SELECT COUNT(*) as count FROM eu_documents');
+    stats.eu_references = euRefs;
+  }
+
   return {
-    server: SERVER_NAME,
+    name: 'Costa Rican Law MCP',
     version: context.version,
-    repository: REPOSITORY_URL,
-    database: {
-      fingerprint: context.fingerprint,
-      built_at: context.dbBuilt,
-      tier: meta.tier,
-      schema_version: meta.schema_version,
-      capabilities: [...caps],
+    jurisdiction: 'CR',
+    description: 'Costa Rican Law MCP — legislation via Model Context Protocol',
+    stats,
+    data_sources: [
+      {
+        name: 'Sistema Costarricense de Informacion Juridica (SCIJ)',
+        url: 'https://www.pgrweb.go.cr',
+        authority: 'Procuraduria General de la Republica',
+      },
+    ],
+    freshness: {
+      database_built: context.dbBuilt,
     },
-    statistics: {
-      documents: safeCount(db, 'SELECT COUNT(*) as count FROM legal_documents'),
-      provisions: safeCount(db, 'SELECT COUNT(*) as count FROM legal_provisions'),
-      definitions: safeCount(db, 'SELECT COUNT(*) as count FROM definitions'),
-      eu_documents: safeCount(db, 'SELECT COUNT(*) as count FROM eu_documents'),
-      eu_references: safeCount(db, 'SELECT COUNT(*) as count FROM eu_references'),
-    },
-    data_source: {
-      name: 'Sistema Costarricense de Información Jurídica (SCIJ)',
-      authority: 'Procuraduría General de la República (PGR)',
-      url: 'https://www.pgrweb.go.cr',
-      license: 'Government terms of use (official legal publication portal)',
-      jurisdiction: 'CR',
-      languages: ['es'],
+    disclaimer:
+      'This is a research tool, not legal advice. Verify critical citations against official sources.',
+    network: {
+      name: 'Ansvar MCP Network',
+      open_law: 'https://ansvar.eu/open-law',
+      directory: 'https://ansvar.ai/mcp',
     },
   };
 }
