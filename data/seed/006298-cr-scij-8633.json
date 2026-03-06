@@ -1,0 +1,33 @@
+{
+  "id": "cr-scij-8633",
+  "type": "statute",
+  "title": "Ley de Presupuesto Extraordinario",
+  "title_en": "Ley de Presupuesto Extraordinario",
+  "short_name": "Norma 8633",
+  "status": "in_force",
+  "issued_date": "1941-12-23",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8633",
+  "description": "Official SCIJ legislation text (nValor2=8633).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. �.- Deróganse los Capítulos II, III y IV del Código de",
+      "content": "Educación y específicamente los artículos 23, 24, 25, 26, 27, 28 y 29 que\n \n los integran.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. �.- Autorízase al Ministerio de Educación Pública para",
+      "content": "que ordene el Reglamento de la Inspección Educacional de la República por\n \n el cual deben regirse los funcionarios que la ejerzan.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "ARTÍCULO 3. �.- Los Directores Provinciales e Inspectores Escolares",
+      "content": "integrarán las Juntas de Educación de sus respectivas jurisdicciones,\n \n tendrán derecho a voz y voto, y las atribuciones que les fije el\n \n Reglamento de la Inspección Educacional sobre dichos organismos.\n \n Ficha articulo \n La presente ley regirá desde su publicación.\n \n Ficha articulo \n \nFecha de generaci�n: 22/2/2026 16:20:27"
+    }
+  ],
+  "definitions": []
+}

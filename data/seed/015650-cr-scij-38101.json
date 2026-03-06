@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-38101",
+  "type": "statute",
+  "title": "Exoneración del impuestos a la Junta Cantonal Caminos Naranjo",
+  "title_en": "Exoneración del impuestos a la Junta Cantonal Caminos Naranjo",
+  "short_name": "Norma 38101",
+  "status": "in_force",
+  "issued_date": "1963-08-05",
+  "in_force_date": "1963-08-10",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=38101",
+  "description": "Official SCIJ legislation text (nValor2=38101).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. Exonérase a la Junta Cantonal de Caminos de",
+      "content": "Naranjo, provincia de Alajuela, del pago de toda clase de impuestos y derechos\nde importación que deba cubrir, originados en la adquisición de un tractor. \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. Esta ley rige a partir de su publicación.",
+      "content": "Casa Presidencial.-San José, a los cinco días del mes de\nagosto de mil novecientos sesenta y tres. \n \n Ficha articulo \n \nFecha de generación: 25/2/2026 09:02:26"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-35072",
+  "type": "statute",
+  "title": "Reforma Constitucional - Art.76 -Idioma Oficial es Español",
+  "title_en": "Reforma Constitucional - Art.76 -Idioma Oficial es Español",
+  "short_name": "Norma 35072",
+  "status": "in_force",
+  "issued_date": "1975-06-06",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=35072",
+  "description": "Official SCIJ legislation text (nValor2=35072).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Varíase el Título VI - La Religión - Capítulo Unico de",
+      "content": "la Constitución Política, pasando su artículo a ser el 75.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Adiciónase el Título VII - La Educación y la Cultura -",
+      "content": "Capítulo Unico de la Constitución Política, con un artículo que será el\n \n 76 y que se leerá así:\n \n \"Artículo 76.- El español es el idioma oficial de la nación\".\n \n Ficha articulo \n \nFecha de generación: 24/2/2026 21:22:45"
+    }
+  ],
+  "definitions": []
+}

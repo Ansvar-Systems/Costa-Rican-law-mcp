@@ -1,0 +1,45 @@
+{
+  "id": "cr-scij-33059",
+  "type": "statute",
+  "title": "Reforma LOPJ",
+  "title_en": "Reforma LOPJ",
+  "short_name": "Norma 33059",
+  "status": "in_force",
+  "issued_date": "1971-07-01",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=33059",
+  "description": "Official SCIJ legislation text (nValor2=33059).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Refórmase los artículos 129, 130, 131 y 132 de la Ley",
+      "content": "Orgánica del Poder Judicial, en la siguiente forma:\n \n \"Artículo 129.- El Archivo Judicial estará a cargo de un Archivero\n \n Jefe y de los demás archiveros y empleados que sean necesarios."
+    },
+    {
+      "provision_ref": "art130",
+      "section": "130",
+      "title": "ARTÍCULO 130. - En el Archivo Judicial se custodiarán los",
+      "content": "expedientes fenecidos y abandonados por más de dos años, de todos los\n \n Tribunales Judiciales de la República, así como los documentos, libros\n \n y objetos que determine la Corte, con excepción de los que tengan valor\n \n histórico según la Ley del Archivo Nacional."
+    },
+    {
+      "provision_ref": "art131",
+      "section": "131",
+      "title": "ARTÍCULO 131. - El Jefe del Archivo es el funcionario encargado de",
+      "content": "expedir las certificaciones y constancias en relación con los documentos\n \n y objetos depositados en el Archivo Judicial."
+    },
+    {
+      "provision_ref": "art132",
+      "section": "132",
+      "title": "ARTÍCULO 132. - La Corte dictará y publicará los acuerdos necesarios",
+      "content": "para la organización del Archivo Judicial\".\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Esta ley rige a partir de su publicación y modifica",
+      "content": "en lo pertinente la Ley del Archivo Nacional.\n \n Transitorio.- El Archivero Judicial y el Director General de\n \n Archivo Nacional convendrán el traslado paulatino al Archivo Judicial\n \n de los expedientes y documentos judiciales actualmente depositados en\n \n el Archivo Nacional.\n \n Ficha articulo \n \nFecha de generación: 24/2/2026 05:38:38"
+    }
+  ],
+  "definitions": []
+}

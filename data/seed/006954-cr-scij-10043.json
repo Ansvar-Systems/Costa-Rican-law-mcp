@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-10043",
+  "type": "statute",
+  "title": "Reforma Ley de Aprendizaje",
+  "title_en": "Reforma Ley de Aprendizaje",
+  "short_name": "Norma 10043",
+  "status": "in_force",
+  "issued_date": "1973-11-30",
+  "in_force_date": "1973-12-19",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=10043",
+  "description": "Official SCIJ legislation text (nValor2=10043).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Refórmase el artículo 14 de la Ley de Aprendizaje, Nº",
+      "content": "4903 de 17 de noviembre de 1971, para que se lea así: \n \n \n\"Artículo 14.-Para efectos de la fijación de la tasa de remuneración del aprendiz, el Instituto Nacional de Aprendizaje\ndividirá en tres períodos la duración total de los diversos cursos,\ndebiendo pagarse al aprendiz el 50% del salario mínimo para la ocupación objeto del aprendizaje, durante el primer período, el 75%\npara el segundo y el 100% durante el último. \n \n \nEl Salario mínimo a que se refiere este artículo será fijado por\nel Consejo Nacional de Salarios\". \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Esta ley rige a partir de su publicación.",
+      "content": "Casa Presidencial.- SanJosé, a\nlos treinta días del mes de noviembre de mil novecientos setenta y tres. \n \n Ficha articulo \n \nFecha de generación: 22/2/2026 21:11:23"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-7053",
+  "type": "statute",
+  "title": "Modifica Ley que estableció el Día de la Madre",
+  "title_en": "Modifica Ley que estableció el Día de la Madre",
+  "short_name": "Norma 7053",
+  "status": "in_force",
+  "issued_date": "1970-08-03",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=7053",
+  "description": "Official SCIJ legislation text (nValor2=7053).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Modifícase el artículo 2º de la ley Nº 79 de 10 de",
+      "content": "agosto de 1932, la cual se leerá así:\n \n \"Artículo 1º.- Establécese en todas las escuelas, colegios, asilos e\n \n instituciones de beneficencia dependientes del Estado, el Día de la Madre,\n \n con el objeto de rendir homenaje a la madre costarricense."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Fijase el 15 de agosto como Día de la Madre. La",
+      "content": "celebración en la instituciones mencionadas se efectuará el día anterior y\n \n durante toda la semana se realizarán actos que exalten el valor de la\n \n maternidad y de la familia.\"\n \n Ficha articulo"
+    }
+  ],
+  "definitions": []
+}

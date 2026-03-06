@@ -1,0 +1,33 @@
+{
+  "id": "cr-scij-32130",
+  "type": "statute",
+  "title": "Reforma Ley 4692 del 9 de diciembre de 1970",
+  "title_en": "Reforma Ley 4692 del 9 de diciembre de 1970",
+  "short_name": "Norma 32130",
+  "status": "in_force",
+  "issued_date": "1971-06-21",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=32130",
+  "description": "Official SCIJ legislation text (nValor2=32130).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Refórmase el artículo 1º de la ley Nº 4692 de 9 de",
+      "content": "diciembre de 1970, la cual se leerá así:\n \n \"Artículo 1º.- Créase un colegio de enseñanza media, denominado\n \n \"Rodrigo Hernández Vargas\", con asiento en el distrito primero del\n \n Cantón de Barba, provincia de Heredia, dependiente del Ministerio de\n \n Educación Pública."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - El colegio iniciará labores cuando así lo determine",
+      "content": "el Consejo Superior de Educación, quedando en libertad dicho Consejo al\n \n establecer el tipo de colegio."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "ARTÍCULO 3. - Autorízase a la Municipalidad del cantón de Barba",
+      "content": "para que done bienes al colegio\".\n \n Ficha articulo"
+    }
+  ],
+  "definitions": []
+}

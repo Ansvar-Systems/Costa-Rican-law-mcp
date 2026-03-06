@@ -1,0 +1,33 @@
+{
+  "id": "cr-scij-35401",
+  "type": "statute",
+  "title": "Reforma Código Electoral",
+  "title_en": "Reforma Código Electoral",
+  "short_name": "Norma 35401",
+  "status": "in_force",
+  "issued_date": "1946-06-17",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=35401",
+  "description": "Official SCIJ legislation text (nValor2=35401).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. Adiciónase el Código Electoral con los dos siguientes",
+      "content": "artículos transitorios:\n \n Segundo artículo transitorio.- En junio de 1947 se procederá a\n \n integrar, por el procedimiento establecido en el artículo 11, el Primer\n \n Tribunal Nacional Electoral, que se actuará desde esa fecha hasta octubre\n \n de 1949.\n \n El Registro Cívico funcionará como Registro Electoral hasta tanto\n \n dicho Tribunal no haga el nombramiento de Director General de conformidad\n \n con el artículo 63. El Jefe de aquél tendrá, entretanto, las atribuciones\n \n de Director General del Registro Electoral.\n \n El presupuesto de esta oficina seguirá figurando en el de la\n \n Secretaría de Gobernación mientras en el Presupuesto General de la\n \n República no se le asigne partida especial.\n \n Tercer artículo transitorio.- El impedimento a que se refiere el\n \n inciso a) del artículo 7º, no afectará a los ciudadanos electos antes de\n \n la vigencia de este Código.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Las funciones que leyes especiales y reglamentos le han",
+      "content": "encomendado al Registro Cívico, continuarán a cargo del Registro\n \n Electoral hasta tanto no sean modificados sobre el particular.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "ARTÍCULO 3. - Esta ley rige desde la fecha de su publicación",
+      "content": "en el Diario Oficial.\n \n Ficha articulo \n \nFecha de generación: 24/2/2026 22:35:05"
+    }
+  ],
+  "definitions": []
+}

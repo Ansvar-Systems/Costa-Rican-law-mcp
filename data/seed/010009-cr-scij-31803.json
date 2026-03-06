@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-31803",
+  "type": "statute",
+  "title": "Deroga el artículo 106 de la Ley Orgánica del Notariado",
+  "title_en": "Deroga el artículo 106 de la Ley Orgánica del Notariado",
+  "short_name": "Norma 31803",
+  "status": "in_force",
+  "issued_date": "1888-07-03",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=31803",
+  "description": "Official SCIJ legislation text (nValor2=31803).",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "ÚNICO",
+      "title": "ARTÍCULO ÚNICO. - Derogase el artículo 106 de la Ley",
+      "content": "Orgánica del Notariado, emitida el 12 de octubre de 1887, y las\ndemás disposiciones de la misma ley que se relacionen con el"
+    },
+    {
+      "provision_ref": "art106",
+      "section": "106",
+      "title": "ARTÍCULO 106. antes citado.",
+      "content": "AL PODER EJECUTIVO.-Dado en el salón de sesiones del Palacio\nNacional, en San José, á los tres días del mes de julio de\nmil ochocientos ochenta y ocho. \n \n \n \n Palacio Presidencial.- San\nJose, a los tres días del mes julio de mil ochocientos ochenta y ocho. \n \n \n \n Ejecútese.. \n \n \n \n Ficha articulo \n \nFecha de generación: 24/2/2026 00:56:47"
+    }
+  ],
+  "definitions": []
+}

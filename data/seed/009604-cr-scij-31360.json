@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-31360",
+  "type": "statute",
+  "title": "Ref. Presupuestaria",
+  "title_en": "Ref. Presupuestaria",
+  "short_name": "Norma 31360",
+  "status": "in_force",
+  "issued_date": "1924-08-12",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=31360",
+  "description": "Official SCIJ legislation text (nValor2=31360).",
+  "provisions": [
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. Queda así",
+      "content": "reformado el artículo 98I del Código Civil. \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "ARTÍCULO 3. Este",
+      "content": "decreto rige desde su publicación. \n \n Dado en la Casa\nPresidencial, San José, a los trece días del mes de abril de mil novecientos\nveinte. \n \n Ficha articulo \n \nFecha de generación: 23/2/2026 10:51:19"
+    }
+  ],
+  "definitions": []
+}

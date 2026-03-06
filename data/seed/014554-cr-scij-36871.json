@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-36871",
+  "type": "statute",
+  "title": "Adiciona Ley de Urbanización de la Zona Marítimo Terrestre",
+  "title_en": "Adiciona Ley de Urbanización de la Zona Marítimo Terrestre",
+  "short_name": "Norma 36871",
+  "status": "in_force",
+  "issued_date": "1970-11-16",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=36871",
+  "description": "Official SCIJ legislation text (nValor2=36871).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Adiciónase la ley Nº 4558 de 22 de abril de",
+      "content": "1970, con un artículo transitorio el cual se leerá así: \n \n \nTransitorio VI.- En Mata de Limón, por ser zona parcelada y urbanizada por\nel Ministerio de Agricultura y Ganadería y por el Instituto de Tierras y Colonización,\nla faja de cincuenta metros a que se refiere el artículo 6º, deberá medirse en la playa\nfrente al mar y no desde el estero. \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Esta ley rige a partir de su publicación.",
+      "content": "Ficha articulo \n \nFecha de generación: 25/2/2026 03:38:48"
+    }
+  ],
+  "definitions": []
+}

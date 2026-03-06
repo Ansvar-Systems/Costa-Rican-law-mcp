@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-11450",
+  "type": "statute",
+  "title": "Adiciona Párrafos Ley Seguro Social",
+  "title_en": "Adiciona Párrafos Ley Seguro Social",
+  "short_name": "Norma 11450",
+  "status": "in_force",
+  "issued_date": "1942-08-04",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=11450",
+  "description": "Official SCIJ legislation text (nValor2=11450).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Adiciónase el párrafo primero del artículo 43 de la ley",
+      "content": "Nº 17 de 1º de noviembre de 1941, incluyendo a los actuales empleados\n \n municipales que tengan derecho a establecer un sistema propio de\n \n jubilaciones, de acuerdo con la ley Nº 197 de 5 de agosto de 1941, entre\n \n los empleados para quienes el Seguro Social es facultativo.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Agrégase un concepto al inciso 7º del artículo 3º de la",
+      "content": "citada ley Nº 17 de 1º de noviembre de 1941, excluyendo de la obligación\n \n de acogerse al Seguro Social a los actuales empleados municipales que\n \n estén en las condiciones indicadas en el artículo 1º de la presente ley.\n \n Ficha articulo \n \nFecha de generación: 23/2/2026 00:11:33"
+    }
+  ],
+  "definitions": []
+}

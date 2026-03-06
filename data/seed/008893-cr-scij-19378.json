@@ -1,0 +1,39 @@
+{
+  "id": "cr-scij-19378",
+  "type": "statute",
+  "title": "Ref. Ley Orgánica del Sistema Bancario Nacional y Código Civil",
+  "title_en": "Ref. Ley Orgánica del Sistema Bancario Nacional y Código Civil",
+  "short_name": "Norma 19378",
+  "status": "in_force",
+  "issued_date": "1994-11-29",
+  "in_force_date": "1995-01-12",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=19378",
+  "description": "Official SCIJ legislation text (nValor2=19378).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Adición.",
+      "content": "Se agrega un párrafo final al artículo 64 de la Ley Orgánica del\n \n Sistema Bancario Nacional, No. 1644, del 26 de setiembre de 1953 y sus\n \n reformas, cuyo texto dirá:"
+    },
+    {
+      "provision_ref": "art64",
+      "section": "64",
+      "title": "ARTÍCULO 64. -",
+      "content": "...\n \n \"Lo anterior sin perjuicio de la potestad de cada banco\n \n para operar y reglamentar las hipotecas que garanticen créditos\n \n abiertos, conforme a lo estipulado en el artículo 414 del Código\n \n Civil.\"\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Reforma.",
+      "content": "Se reforma el artículo 414 del Código Civil, cuyo texto dirá:\n \n \"Artículo 414.- Constituida hipoteca por un crédito abierto con\n \n limitación de suma, garantiza las cantidades entregadas en cualquier\n \n tiempo y para diversos fines, siempre que no excedan de la suma\n \n prefijada. Cualquier pago que efectúe el deudor, automáticamente\n \n creará disponibilidad para ser utilizada de la forma que lo convengan\n \n las partes.\"\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "ARTÍCULO 3. - Vigencia.",
+      "content": "Rige a partir de su publicación.\n \n Ficha articulo \n \nFecha de generación: 23/2/2026 05:44:05"
+    }
+  ],
+  "definitions": []
+}

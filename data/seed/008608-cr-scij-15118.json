@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-15118",
+  "type": "statute",
+  "title": "Exoneración de pago de impuestos de consumo a la Municipalidad Atenas",
+  "title_en": "Exoneración de pago de impuestos de consumo a la Municipalidad Atenas",
+  "short_name": "Norma 15118",
+  "status": "in_force",
+  "issued_date": "1967-10-20",
+  "in_force_date": "1967-10-22",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=15118",
+  "description": "Official SCIJ legislation text (nValor2=15118).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. Exonérase del pago del impuesto de consumo",
+      "content": "respectivo, la adquisición de mil sacos de cemento que hará la Municipalidad de\nAtenas, destinados a la construcción de la Estación Terminal de Autobuses en la\nciudad de Atenas. \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. Rige desde su publicación.",
+      "content": "Casa Presidencial.-San José, a los veinte días del mes de\noctubre de mil novecientos sesenta y siete. \n \n Ficha articulo \n \nFecha de generación: 23/2/2026 04:33:31"
+    }
+  ],
+  "definitions": []
+}

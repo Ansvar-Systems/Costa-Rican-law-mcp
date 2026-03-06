@@ -1,0 +1,33 @@
+{
+  "id": "cr-scij-35210",
+  "type": "statute",
+  "title": "Impuesto bultos tramos Mercado Municipal de Heredia",
+  "title_en": "Impuesto bultos tramos Mercado Municipal de Heredia",
+  "short_name": "Norma 35210",
+  "status": "in_force",
+  "issued_date": "1973-08-20",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=35210",
+  "description": "Official SCIJ legislation text (nValor2=35210).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Se autoriza a la Municipalidad del cantón central de",
+      "content": "la provincia de Heredia, para proceder al cobro de un impuesto, por cada\n \n saco o bulto colocado fuera de los locales o tramos del Mercado\n \n Municipal, de un colón diario.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - El anterior impuestos será cobrado conjuntamente con",
+      "content": "los recibos mensuales de arrendamiento de tales locales o tramos.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "ARTÍCULO 3. - Esta ley rige desde su publicación.",
+      "content": "Ficha articulo \n \nFecha de generación: 24/2/2026 21:53:17"
+    }
+  ],
+  "definitions": []
+}

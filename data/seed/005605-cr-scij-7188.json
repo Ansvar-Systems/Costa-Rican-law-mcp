@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-7188",
+  "type": "statute",
+  "title": "Reforma Código General de Carrillo",
+  "title_en": "Reforma Código General de Carrillo",
+  "short_name": "Norma 7188",
+  "status": "in_force",
+  "issued_date": "1847-12-01",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=7188",
+  "description": "Official SCIJ legislation text (nValor2=7188).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. -Se deroga",
+      "content": "en todas sus partes el artículo 1325 parte 1° del Código general. \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. -En consecuencia,",
+      "content": "son libres los actuales censatarios y las personas que los representan para\ntraspasar los principales de capellanías de cualquiera naturaleza que sean y de\nque se hayan hecho cargo, previas las formalidades de la ley, y los réditos de\ndichos principales se invertir n en los objetos de su fundación, y en los\ndemás que la ley señala.\n \n \n \n Ficha articulo \n \nFecha de generación: 22/2/2026 12:09:45"
+    }
+  ],
+  "definitions": []
+}

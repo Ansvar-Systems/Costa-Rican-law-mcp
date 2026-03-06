@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-35185",
+  "type": "statute",
+  "title": "Reforma Código de Comercio",
+  "title_en": "Reforma Código de Comercio",
+  "short_name": "Norma 35185",
+  "status": "in_force",
+  "issued_date": "1973-06-22",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=35185",
+  "description": "Official SCIJ legislation text (nValor2=35185).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Refórmase el artículo 325 de la ley Nº 3284 de 30 de",
+      "content": "abril de 1964, Código de Comercio, para que se lea así:\n \n \"Artículo 325.- El contrato de transporte es rescindible a voluntad\n \n del cargador antes o después de comenzar el viaje; en el primer caso,\n \n pagará al porteador la mitad del precio convenido; y en el segundo la\n \n totalidad\".\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Esta ley rige a partir de su publicación.",
+      "content": "Ficha articulo \n \nFecha de generación: 24/2/2026 21:48:16"
+    }
+  ],
+  "definitions": []
+}

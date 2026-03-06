@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-9239",
+  "type": "statute",
+  "title": "Reforma Código Fiscal",
+  "title_en": "Reforma Código Fiscal",
+  "short_name": "Norma 9239",
+  "status": "in_force",
+  "issued_date": "1941-08-01",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=9239",
+  "description": "Official SCIJ legislation text (nValor2=9239).",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "único",
+      "title": "ARTÍCULO único. - El artículo 303 del Código Fiscal se leerá",
+      "content": "así:"
+    },
+    {
+      "provision_ref": "art303",
+      "section": "303",
+      "title": "ARTÍCULO 303. -",
+      "content": "Se tendrá también por clandestina toda venta de carne de ganado\nvacuno que se verifique fuera del distrito de mando del empleado que hubiere\nautorizado la matanza cuando no lleve impreso el sello del Matadero Municipal\ndonde se realizó el destace de la res. \n \n \n \n Dado en el\nSalón de Sesiones del Congreso.-Palacio Nacional.-San José, a los\ntreinta días del mes de julio de mil novecientos cuarenta y uno. \n \n \n \n Casa Presidencial.-San\nJosé.-San José, al primer día del mes de agosto de mil\nnovecientos cuarenta y uno. \n \n Ficha articulo \n \nFecha de generación: 22/2/2026 18:15:51"
+    }
+  ],
+  "definitions": []
+}
