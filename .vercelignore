@@ -4,3 +4,4 @@ node_modules
 tests
 data/seed
 scripts
+\!scripts/build-db.ts
