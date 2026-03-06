@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-33244",
+  "type": "statute",
+  "title": "Fija Máximun Fuerza Armada",
+  "title_en": "Fija Máximun Fuerza Armada",
+  "short_name": "Norma 33244",
+  "status": "in_force",
+  "issued_date": "1895-07-22",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=33244",
+  "description": "Official SCIJ legislation text (nValor2=33244).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. El máximum de fuerza armada que el Poder Ejecutivo pueda mantener en",
+      "content": "servicio activo en tiempo de paz, durante el presente año económico será de mil\nhombres. \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. En el caso de conmoción interior podrá elevar esta fuerza a cinco mil",
+      "content": "hombres, y en el de guerra exterior hasta la cifra que las circunstancias\ndemanden. \n \n \n \n Al\nPoder Ejecutivo \n \n \n \n Dado\nen el Salón de Sesiones del Congreso, Palacio Nacional, San José a los\ndiecinueve de julio de mil ochocientos noventa y cinco. \n \n Ficha articulo \n \nFecha de generación: 24/2/2026 06:22:46"
+    }
+  ],
+  "definitions": []
+}

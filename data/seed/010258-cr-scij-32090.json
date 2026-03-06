@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-32090",
+  "type": "statute",
+  "title": "Reforma Código Penal de 1924",
+  "title_en": "Reforma Código Penal de 1924",
+  "short_name": "Norma 32090",
+  "status": "in_force",
+  "issued_date": "1924-11-29",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=32090",
+  "description": "Official SCIJ legislation text (nValor2=32090).",
+  "provisions": [
+    {
+      "provision_ref": "art434",
+      "section": "434",
+      "title": "ARTÍCULO 434. del Código Penal de 1941, ley N° 368 del 21 de agosto de 1941)",
+      "content": "El congreso Constitucional de la \n \n República de Costa Rica \n \n DECRETA:"
+    },
+    {
+      "provision_ref": "artunico",
+      "section": "único",
+      "title": "ARTÍCULO único. - Modifíquese el artículo 360 del Código Penal, en la",
+      "content": "siguiente forma: \n \n \n\"Artículo 360.- Cuando el valor de lo hurtado excediere de quinientos\ncolones, se aplicará prisión en sus grados terceros y cuarto; cuando, sin\npasar de esa suma, fuere superior a cincuenta colones, corresponderá prisión\nen sus grados segundo a tercero, y cuando monte a más de veinticinco colones,\npero no a más de cincuenta, la pena será prisión en sus grados primero a\ntercero\". \n \n \nCasa Presidencial.- San José, a los veintinueve días del mes de noviembre de\nmil novecientos veinticuatro. \n \n Ficha articulo \n \nFecha de generación: 24/2/2026 02:00:46"
+    }
+  ],
+  "definitions": []
+}

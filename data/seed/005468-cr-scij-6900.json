@@ -1,0 +1,33 @@
+{
+  "id": "cr-scij-6900",
+  "type": "statute",
+  "title": "Crea Fiscal de Hacienda Auxiliar",
+  "title_en": "Crea Fiscal de Hacienda Auxiliar",
+  "short_name": "Norma 6900",
+  "status": "in_force",
+  "issued_date": "1876-08-11",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=6900",
+  "description": "Official SCIJ legislation text (nValor2=6900).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. -Créase un Fiscal auxiliar al de",
+      "content": "Hacienda, por el tiempo solamente que los intereses del Fisco lo requieran.\n-Este funcionario ser de Nombramiento del Poder Ejecutivo. \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. -El Fiscal auxiliar de Hacienda obrar bajo la dependencia y conforme",
+      "content": "las instrucciones que le d, el Fiscal de Hacienda, y estar obligado\ntrasladarse cualquier punto en donde puedan obtenerse los datos y demás informes\nque aquel necesite para instaurar proseguir las acciones que correspondan al\nFisco. \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "ARTÍCULO 3. -Este empleado gozar de la dotación de cincuenta pesos mensuales,",
+      "content": "siendo de su cuenta los gastos que haga en los viajes que sean necesarios,\nsiempre que no sea mayor distancia de cuatro leguas de la Capital.\nSiendo mayor distancia, el Gobierno le reconocer un peso por cada\ndía de camino, así de ida como de vuelta. \n \n Dado\nen el Palacio Nacional, de San José a los once días del mes de agosto de mil\nochocientos setenta y seis. \n \n Ficha articulo \n \nFecha de generación: 22/2/2026 11:50:11"
+    }
+  ],
+  "definitions": []
+}

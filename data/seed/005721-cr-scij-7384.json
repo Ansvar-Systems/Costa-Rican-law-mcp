@@ -1,0 +1,33 @@
+{
+  "id": "cr-scij-7384",
+  "type": "statute",
+  "title": "Deroga Ley 4495 de 18 de diciembre de 1969",
+  "title_en": "Deroga Ley 4495 de 18 de diciembre de 1969",
+  "short_name": "Norma 7384",
+  "status": "in_force",
+  "issued_date": "1970-12-09",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=7384",
+  "description": "Official SCIJ legislation text (nValor2=7384).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Derógase la ley Nº 4495 de 18 de diciembre de 1969, por",
+      "content": "la que se interpretó el párrafo b) del artículo 4º de la Ley del Impuesto\n \n Territorial, Nº 27 de 2 de marzo de 1939.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Las propiedades de instituciones de beneficencia",
+      "content": "pública destinadas a producirles ingresos a esas instituciones, estarán\n \n exentas del pago del Impuesto Territorial que indica la ley Nº 27 de 2 de\n \n marzo de 1939 y sus reformas.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "ARTÍCULO 3. - Esta ley rige a partir de su publicación.",
+      "content": "Ficha articulo \n \nFecha de generación: 22/2/2026 12:27:24"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-14256",
+  "type": "statute",
+  "title": "Reforma Ley Orgánica del Banco Nacional de Costa Rica (BNCR)",
+  "title_en": "Reforma Ley Orgánica del Banco Nacional de Costa Rica (BNCR)",
+  "short_name": "Norma 14256",
+  "status": "in_force",
+  "issued_date": "1941-05-14",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=14256",
+  "description": "Official SCIJ legislation text (nValor2=14256).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Refórmase el artículo 87 de la ley Nº 16 de 5 de",
+      "content": "noviembre de 1936, el cual se leerá así: \n \n \"Artículo 87.- El total de las operaciones que efectúe el\nDepartamento Emisor con un mismo Banco de Acuerdo con lo establecido en los incisos 1) a 4) del artículo 85 de esta ley, no podrá exceder del\n50% del activo realizable de dicho Banco aceptado por el Superintendente\". \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Esta ley rige desde su publicación.",
+      "content": "Casa Presidencial.- San José, a los catorce días del mes de mayo de mil\nnovecientos cuarenta y uno. \n \n Ficha articulo \n \nFecha de generación: 23/2/2026 03:52:02"
+    }
+  ],
+  "definitions": []
+}

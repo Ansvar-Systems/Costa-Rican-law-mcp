@@ -1,0 +1,33 @@
+{
+  "id": "cr-scij-33365",
+  "type": "statute",
+  "title": "Establece Impuesto Distribución de Gasolina",
+  "title_en": "Establece Impuesto Distribución de Gasolina",
+  "short_name": "Norma 33365",
+  "status": "in_force",
+  "issued_date": "1960-07-28",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=33365",
+  "description": "Official SCIJ legislation text (nValor2=33365).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - A fin de darle contenido económico a la ley Nº 2248 de",
+      "content": "6 de agosto de 1958, reformada por la Nº 2262 de 29 de setiembre de 1958,\n \n que reajusta las pensiones de los maestros retirados en los años 1955,\n \n 1956, 1957 y 1958, se establece un impuesto de 3 céntimos de colón por\n \n cada galón de gasolina que distribuyan las empresas importadoras.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Este impuesto no podrá afectar el precio de venta",
+      "content": "actual de la gasolina al expendedor ni al consumidor. El Ministerio de\n \n Economía y Hacienda vigilará el cumplimiento de esta disposición.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "ARTÍCULO 3. - Esta ley rige desde su publicación.",
+      "content": "Ficha articulo \n \nFecha de generación: 24/2/2026 06:48:49"
+    }
+  ],
+  "definitions": []
+}

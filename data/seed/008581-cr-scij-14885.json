@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-14885",
+  "type": "statute",
+  "title": "Aumenta Impuesto Consumo Cerveza Nacional",
+  "title_en": "Aumenta Impuesto Consumo Cerveza Nacional",
+  "short_name": "Norma 14885",
+  "status": "in_force",
+  "issued_date": "1949-05-17",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=14885",
+  "description": "Official SCIJ legislation text (nValor2=14885).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Auméntase",
+      "content": "el impuesto de consumo de la cerveza nacional \n \n \n \n en diez céntimos de colón\npor cada envase de media botella. Cuando el \n \n \n \n expendio se haga en otra\nclase de envases, pagará un impuesto proporcional \n \n \n \n al que aquí se establece."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Este",
+      "content": "decreto rige a partir de su publicación. \n \n \n \n \n \n \n \n \n Ficha articulo \n \nFecha de generación: 23/2/2026 04:24:02"
+    }
+  ],
+  "definitions": []
+}

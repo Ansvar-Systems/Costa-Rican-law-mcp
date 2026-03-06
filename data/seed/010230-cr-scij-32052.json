@@ -1,0 +1,39 @@
+{
+  "id": "cr-scij-32052",
+  "type": "statute",
+  "title": "Reforma Código Penal de 1924",
+  "title_en": "Reforma Código Penal de 1924",
+  "short_name": "Norma 32052",
+  "status": "in_force",
+  "issued_date": "1925-05-30",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=32052",
+  "description": "Official SCIJ legislation text (nValor2=32052).",
+  "provisions": [
+    {
+      "provision_ref": "art434",
+      "section": "434",
+      "title": "ARTÍCULO 434. del Código Penal de 1941, ley N° 368 del 21 de agosto de 1941)",
+      "content": "EL CONGRESO CONSTITUCIONAL DE LA \n \n REPÚBLICA DE COSTA RICA \n \n DECRETA:"
+    },
+    {
+      "provision_ref": "artunico",
+      "section": "único",
+      "title": "ARTÍCULO único. - Modifíquese los artículos 246 y 262 del Código Penal, en",
+      "content": "la siguiente forma:"
+    },
+    {
+      "provision_ref": "art246",
+      "section": "246",
+      "title": "ARTÍCULO 246. - \"El que por cualquier imprudencia, descuido o negligencia",
+      "content": "causare la muerte a otro, será reprmido con multa mayor en sus grados primero a\nsegundo, y si el hecho proviene de imprudencia, descuido neglegencia o i\nmpericia en el ejercicio de una profesión titular o un cargo público, se le\nimpondrá a demás inhabilitación temporal en su grado primero de la profesión\no cargo dichos\"."
+    },
+    {
+      "provision_ref": "art262",
+      "section": "262",
+      "title": "ARTÍCULO 262. - \"Sufrirá la pena de multa en su grado primero el que por",
+      "content": "imprudencia, descuido o negligencia, cuasare a otro en el cuerpo o en la salud,\nuno de los daños indicados en los artículos anteriores; pero si se hubiere\nproducido por negligencia, descuido o imprudencia al ejercer una profesión\ntitular o un cargo público será condenado también a inhabilitación temporal\nde la profesión o cargo de que se trate, infligida en el mínimum de su grado\nprimero\" \n \n \nCasa Presidencial.- San José, a los treinta días del mes de mayo de mil\nnovecientos veinticinco. \n \n Ficha articulo \n \nFecha de generación: 24/2/2026 01:57:01"
+    }
+  ],
+  "definitions": []
+}

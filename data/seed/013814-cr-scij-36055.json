@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-36055",
+  "type": "statute",
+  "title": "Agrega Transitorio Ley Pensiones Servidores Ejecutivo No Cubiertos SS",
+  "title_en": "Agrega Transitorio Ley Pensiones Servidores Ejecutivo No Cubiertos SS",
+  "short_name": "Norma 36055",
+  "status": "in_force",
+  "issued_date": "1966-08-18",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=36055",
+  "description": "Official SCIJ legislation text (nValor2=36055).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Adiciónase la ley Nº 3607 de 10 de diciembre de 1965",
+      "content": "con el siguiente transitorio:\n \n \"Transitorio II.- También podrá acogerse a los beneficios que\n \n establece esta ley, la viuda del servidor fallecido durante el curso de\n \n tramitación de la misma.\"\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Esta ley rige a partir de su publicación.",
+      "content": "Ficha articulo \n \nFecha de generación: 25/2/2026 00:47:30"
+    }
+  ],
+  "definitions": []
+}

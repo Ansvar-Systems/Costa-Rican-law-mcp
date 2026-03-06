@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-7212",
+  "type": "statute",
+  "title": "Reforma Estatuto Servicio Judicial",
+  "title_en": "Reforma Estatuto Servicio Judicial",
+  "short_name": "Norma 7212",
+  "status": "in_force",
+  "issued_date": "1973-10-24",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=7212",
+  "description": "Official SCIJ legislation text (nValor2=7212).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Refórmase el inciso ch) del artículo 18 del Estatuto",
+      "content": "de Servicio Judicial, ley Nº 5155 de 10 de enero de 1973, para que se lea\n \n así:\n \n \"ch) No ser cónyuge ni estar ligado por parentesco de consanguinidad\n \n o afinidad en línea directa o colateral, hasta tercer grado inclusive,\n \n con ningún Magistrado, Juez Superior, Juez, Actuario, Alcalde, Agente\n \n Judicial o cualquier otro funcionario que administre justicia\".\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Esta ley rige a partir de su publicación.",
+      "content": "Ficha articulo \n \nFecha de generación: 22/2/2026 12:12:22"
+    }
+  ],
+  "definitions": []
+}

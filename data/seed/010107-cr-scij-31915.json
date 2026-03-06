@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-31915",
+  "type": "statute",
+  "title": "Exoneración de pago de impuestos a la Municipalidad Liberia",
+  "title_en": "Exoneración de pago de impuestos a la Municipalidad Liberia",
+  "short_name": "Norma 31915",
+  "status": "in_force",
+  "issued_date": "1963-05-30",
+  "in_force_date": "1963-06-06",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=31915",
+  "description": "Official SCIJ legislation text (nValor2=31915).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. Exonérase del pago de derechos de aduanas la",
+      "content": "importación que ha hecho la Municipalidad de Liberia, de una vagoneta de volteo\ncon góndola de acero, y de una central telefónica automática marca SIEMENS,\nmodelo E M D-M, y su red de distribución. \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. Esta ley rige desde du publicación.",
+      "content": "Casa Presidencial.-San José, \n a los treinta días del mes de mayo de mil novecientos sesenta y tres. \n \n Ficha articulo \n \nFecha de generación: 24/2/2026 01:23:55"
+    }
+  ],
+  "definitions": []
+}

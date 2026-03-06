@@ -1,0 +1,39 @@
+{
+  "id": "cr-scij-33356",
+  "type": "statute",
+  "title": "Reforma Ley de Cálculo del Factor Térmico",
+  "title_en": "Reforma Ley de Cálculo del Factor Térmico",
+  "short_name": "Norma 33356",
+  "status": "in_force",
+  "issued_date": "1974-05-25",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=33356",
+  "description": "Official SCIJ legislation text (nValor2=33356).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Refórmase la ley Nº 3077 de 13 de diciembre de 1962",
+      "content": "(Factor Térmico), para que se lea así:\n \n \"Artículo 1º.- Establécese, a cargo del Instituto Costarricense de\n \n Electricidad, la obligación de estimar el costo de combustibles y\n \n lubricantes que se consumirán anualmente en todas la plantas térmicas\n \n bajo su operación y control. Obtenido ese costo, y con la aprobación del\n \n Servicio Nacional de Electricidad, el Instituto determinará un factor\n \n térmico de ajustes para los efectos de facturación mensual, dividiendo la\n \n dozava parte del costo de los combustibles y lubricantes estimados para\n \n el año, entre el total de los kilovatios hora vendidos durante el mes."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Los recibos a cargo de los consumidores de energía",
+      "content": "eléctrica que emitan las empresas de distribución eléctrica y el propio\n \n Instituto Costarricense de Electricidad, incluirán el recargo térmico en\n \n forma proporcional al consumo de kilovatios hora que cada abonado haya\n \n tenido durante el mes."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "ARTÍCULO 3. - El Instituto Costarricense de Electricidad está",
+      "content": "obligado a revisar semestralmente las estimaciones del factor térmico\n \n mensual y hará los ajustes correspondientes en la facturas a las empresas\n \n eléctricas.\n \n El Instituto Costarricense de Electricidad y las demás empresas\n \n eléctricas, para los efectos del artículo anterior, estarán sujetos al\n \n control de Servicio Nacional de Electricidad."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "ARTÍCULO 4. - Esta ley es de orden público y rige a partir de su",
+      "content": "publicación\".\n \n Ficha articulo"
+    }
+  ],
+  "definitions": []
+}

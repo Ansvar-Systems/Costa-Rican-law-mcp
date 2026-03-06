@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-11800",
+  "type": "statute",
+  "title": "Concede Pensión Particular",
+  "title_en": "Concede Pensión Particular",
+  "short_name": "Norma 11800",
+  "status": "in_force",
+  "issued_date": "1946-08-30",
+  "in_force_date": "1946-09-10",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=11800",
+  "description": "Official SCIJ legislation text (nValor2=11800).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. Autorizase a las",
+      "content": "instituciones autónomas y semiautónomas, entes descentralizados del Estado y municipalidades,\npara que contribuyan económicamente al desarrollo y consolidación del\nEscultismo Costarricense. \n \n Las sumas que dichos organismos\ndonen con ese fin, deberán ser giradas a la Asociación de Scouts de Costa Rica. \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. Esta ley rige a",
+      "content": "partir de su publicación. \n \n Casa Presidencial.-San José, a\nlos nueve días del mes de noviembre de mil novecientos setenta y dos. \n \n Ficha articulo \n \nFecha de generación: 23/2/2026 00:50:22"
+    }
+  ],
+  "definitions": []
+}

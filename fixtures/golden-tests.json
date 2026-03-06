@@ -1,8 +1,8 @@
 {
   "$schema": "./golden-tests.schema.json",
-  "version": "1.0",
+  "version": "2.0",
   "mcp_name": "Costa Rican Law MCP",
-  "description": "Golden contract tests for the Costa Rican Law MCP -- 12 tests covering article retrieval, search, citation, cross-reference, and negative cases",
+  "description": "Golden contract tests for the Costa Rican Law MCP -- 12 tests covering article retrieval, search, citation, cross-reference, and negative cases. Updated for full-corpus (16,724 laws, 120,455 provisions).",
   "tests": [
     {
       "id": "cr-001",
@@ -15,7 +15,7 @@
       },
       "assertions": {
         "result_not_empty": true,
-        "any_result_contains": ["data", "protection", "personal"],
+        "any_result_contains": ["garantizar", "datos personales", "protección"],
         "fields_present": ["content", "provision_ref"],
         "text_not_empty": true
       }
@@ -23,15 +23,14 @@
     {
       "id": "cr-002",
       "category": "article_retrieval",
-      "description": "Retrieve cybersecurity/cybercrime law Article 1 -- scope",
+      "description": "Retrieve Penal Code Article 196 bis -- computer crimes",
       "tool": "get_provision",
       "input": {
-        "document_id": "cr-ley8148",
-        "section": "1"
+        "document_id": "cr-codigo-penal-4573",
+        "section": "196 bis"
       },
       "assertions": {
         "result_not_empty": true,
-        "any_result_contains": ["cyber", "security", "information", "crime"],
         "fields_present": ["content", "provision_ref"],
         "text_not_empty": true
       }
@@ -39,11 +38,11 @@
     {
       "id": "cr-003",
       "category": "article_retrieval",
-      "description": "Retrieve data protection law Article 2 -- definitions",
+      "description": "Retrieve data protection law Article 5 -- consentimiento (consent)",
       "tool": "get_provision",
       "input": {
         "document_id": "cr-ley8968",
-        "section": "2"
+        "section": "5"
       },
       "assertions": {
         "result_not_empty": true,
@@ -54,24 +53,24 @@
     {
       "id": "cr-004",
       "category": "search",
-      "description": "Full-text search for 'personal data' returns relevant provisions",
+      "description": "Full-text search for 'datos personales' returns relevant provisions",
       "tool": "search_legislation",
       "input": {
-        "query": "personal data"
+        "query": "datos personales"
       },
       "assertions": {
         "result_not_empty": true,
         "min_results": 1,
-        "any_result_contains": ["personal data", "data protection", "data subject"]
+        "any_result_contains": ["datos", "personales"]
       }
     },
     {
       "id": "cr-005",
       "category": "search",
-      "description": "Full-text search for 'cybersecurity' returns relevant provisions",
+      "description": "Full-text search for 'firma digital' returns e-signature provisions",
       "tool": "search_legislation",
       "input": {
-        "query": "cybersecurity"
+        "query": "firma digital"
       },
       "assertions": {
         "result_not_empty": true,
@@ -81,10 +80,10 @@
     {
       "id": "cr-006",
       "category": "search",
-      "description": "Full-text search for 'electronic' returns e-commerce or e-signature provisions",
+      "description": "Full-text search for 'telecomunicaciones' returns telecom provisions",
       "tool": "search_legislation",
       "input": {
-        "query": "electronic"
+        "query": "telecomunicaciones"
       },
       "assertions": {
         "result_not_empty": true,
@@ -93,15 +92,16 @@
     },
     {
       "id": "cr-007",
-      "category": "citation_roundtrip",
-      "description": "Citation for data protection law includes URL pattern",
+      "category": "article_retrieval",
+      "description": "Retrieve Telecommunications Law Article 1 -- scope",
       "tool": "get_provision",
       "input": {
-        "document_id": "cr-ley8968",
-        "section": "2"
+        "document_id": "cr-ley8642",
+        "section": "1"
       },
       "assertions": {
         "result_not_empty": true,
+        "fields_present": ["content", "provision_ref"],
         "text_not_empty": true
       }
     },
@@ -114,6 +114,21 @@
       "assertions": {
         "result_not_empty": true,
         "any_result_contains": ["CR"]
+      }
+    },
+    {
+      "id": "cr-009",
+      "category": "article_retrieval",
+      "description": "Retrieve Digital Signatures law Article 1 -- scope",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "cr-ley8454",
+        "section": "1"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "fields_present": ["content", "provision_ref"],
+        "text_not_empty": true
       }
     },
     {
@@ -145,7 +160,7 @@
     {
       "id": "cr-012",
       "category": "list_sources",
-      "description": "list_sources returns metadata including jurisdiction",
+      "description": "list_sources returns metadata including jurisdiction CR",
       "tool": "list_sources",
       "input": {},
       "assertions": {

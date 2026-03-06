@@ -1,0 +1,39 @@
+{
+  "id": "cr-scij-32614",
+  "type": "statute",
+  "title": "Reforma constitucional",
+  "title_en": "Reforma constitucional",
+  "short_name": "Norma 32614",
+  "status": "in_force",
+  "issued_date": "1959-05-20",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=32614",
+  "description": "Official SCIJ legislation text (nValor2=32614).",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "único",
+      "title": "ARTÍCULO único. - Refórmase los artículos 93, 95, 100 y 177 de la",
+      "content": "Constitución Política, los cuales se leerán así:\n \n \"Artículo 93.- El sufragio es función cívica primordial y\n \n obligatoria y se ejerce ante las Juntas Electorales en votación directa\n \n y secreta, por los ciudadanos inscritos en el Registro Civil."
+    },
+    {
+      "provision_ref": "art95",
+      "section": "95",
+      "title": "ARTÍCULO 95. - La ley regulará el ejercicio del sufragio, de acuerdo",
+      "content": "con los siguientes principios:\n \n 1) Autonomía de la función electoral;\n \n 2) Obligación del Estado de inscribir de oficio a los ciudadanos en el\n \n Registro Civil y de proveerlos de cédula de identidad para ejercer\n \n el sufragio;\n \n 3) Garantías efectivas de libertad, orden, pureza e imparcialidad por\n \n parte de las autoridades gubernativas;\n \n 4) Prohibición del ciudadano para sufragar en lugar diferente al de su\n \n domicilio;\n \n 5) Identificación del elector por medio de cédula con fotografía; y\n \n 6) Garantías de representación para las minorías."
+    },
+    {
+      "provision_ref": "art100",
+      "section": "100",
+      "title": "ARTÍCULO 100. - El Tribunal Supremo de Elecciones estará integrado,",
+      "content": "ordinariamente, por tres Magistrados propietarios y tres suplentes de\n \n nombramiento de la Corte Suprema de Justicia en votación no menor de los\n \n dos tercios del total de sus miembros. Deben reunir iguales condiciones\n \n a las exigidas para serlo de dicha Corte y estarán sujetos a las mismas\n \n responsabilidades establecidas para los miembros de ésta.\n \n Los Magistrados del Tribunal Supremo de Elecciones estarán sujetos\n \n a las condiciones de trabajo, en lo que fueren aplicables, y al tiempo\n \n mínimo de labor diaria que indique la Ley Orgánica del Poder Judicial\n \n para los Magistrados de la Sala de Casación, y percibirán las\n \n remuneracines que se fijen para éstos."
+    },
+    {
+      "provision_ref": "art177",
+      "section": "177",
+      "title": "ARTÍCULO 177. - La preparación del proyecto ordinario corresponde al",
+      "content": "Poder Ejecutivo por medio de un Departamento especializado en la materia,\n \n cuyo jefe será de nombramiento del Presidente de la República, para un\n \n período de seis años. Este Departamento tendrá autoridad para reducir o\n \n suprimir cualquiera de las partidas que figuren en los anteproyectos\n \n formulados por los Ministerios de Gobierno, Asamblea Legislativa, Corte\n \n Suprema de Justicia y Tribunal Supremo de Elecciones. En caso de\n \n conflicto, decidirá definitivamente el Presidente de la República. Los\n \n gastos presupuestos por el Tribunal Supremo de Elecciones para dar\n \n efectividad al sufragio, no podrán ser objetados por el Departamento a\n \n que se refiere este artículo.\n \n En el proyecto se le asignará al Poder Judicial una suma no menor\n \n del seis por ciento de los ingresos ordinarios calculados para el año\n \n económico. Sin embargo, cuando esta suma resultare superior a la\n \n requerida para cubrir las necesidades fundamentales presupuestas por ese\n \n Poder, el Departamento mencionado incluirá la diferencia como exceso, con\n \n un plan de inversión adicional, para que la Asamblea Legislativa\n \n determine lo que corresponda. El Poder Ejecutivo preparará, para el año\n \n económico respectivo, los proyectos de presupuestos extraordinarios, a\n \n fin de invertir los ingresos provenientes del uso del crédito público o\n \n de cualquier otra fuente extraordinaria."
+    }
+  ],
+  "definitions": []
+}

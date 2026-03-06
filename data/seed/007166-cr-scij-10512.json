@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-10512",
+  "type": "statute",
+  "title": "Crea Circuito Escolar en Miramar",
+  "title_en": "Crea Circuito Escolar en Miramar",
+  "short_name": "Norma 10512",
+  "status": "in_force",
+  "issued_date": "1942-08-22",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=10512",
+  "description": "Official SCIJ legislation text (nValor2=10512).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Créase un nuevo circuito escolar en la provincia de",
+      "content": "Puntarenas con asiento en la ciudad de Miramar. La Secretaría de\n \n Educación procederá a señalar las escuelas que ha de comprender este nuevo\n \n circuito.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Inclúyase, a ese efecto, la partida necesaria en el",
+      "content": "Presupuesto del Departamento del ramo para el año de 1943.\n \n Ficha articulo \n \nFecha de generación: 22/2/2026 22:18:34"
+    }
+  ],
+  "definitions": []
+}

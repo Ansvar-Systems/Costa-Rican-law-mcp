@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-8988",
+  "type": "statute",
+  "title": "Reforma Ley de Aprendizaje",
+  "title_en": "Reforma Ley de Aprendizaje",
+  "short_name": "Norma 8988",
+  "status": "in_force",
+  "issued_date": "1973-08-14",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8988",
+  "description": "Official SCIJ legislation text (nValor2=8988).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Refórmase el artículo 4º de la Ley de Aprendizaje, Nº",
+      "content": "4093 de 17 de noviembre de 1971, para que se lea así: \n \n \n\"Artículo 4º.- La edad para el ingreso al aprendizaje no podrá ser\nmenor de quince años ni mayor de veinte años. Para ingresar a cualquiera\nde los cursos impartidos y aprobados por el INA, deben reunirse los requisitos de salud, escolaridad mínima o preparación equivalente y\npruebas de selección que el Instituto determine. Para el Aprendizaje, el\nnivel mínimo de escolaridad será fijado por el INA, teniendo en cuenta\nlas características de cada ocupación y tomando como base el sexto grado\nde escuela primaria o preparación equivalente\". \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Esta ley rige desde su publicación.",
+      "content": "Casa Presidencial.- San José,\na los catorce días del mes de agosto de mil novecientos setenta y tres \n \n Ficha articulo \n \nFecha de generación: 22/2/2026 11:59:59"
+    }
+  ],
+  "definitions": []
+}

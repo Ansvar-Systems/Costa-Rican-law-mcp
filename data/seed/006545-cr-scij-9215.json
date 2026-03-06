@@ -1,0 +1,33 @@
+{
+  "id": "cr-scij-9215",
+  "type": "statute",
+  "title": "Reforma constitucional",
+  "title_en": "Reforma constitucional",
+  "short_name": "Norma 9215",
+  "status": "in_force",
+  "issued_date": "1957-05-22",
+  "in_force_date": "1957-05-30",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=9215",
+  "description": "Official SCIJ legislation text (nValor2=9215).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Refórmase el artículo 177 de la Constitución Política,",
+      "content": "el cual se leerá así:\n \n \"Artículo 177.- La preparación del proyecto ordinario corresponde al\n \n Poder Ejecutivo por medio de un departamento especializado en la materia,\n \n cuyo jefe será el nombramiento del Presidente de la República, para un\n \n período de seis años. Este departamento tendrá autoridad para reducir o\n \n suprimir cualesquiera de las partidas que figuren en los anteproyectos\n \n formulados por los Ministros de Gobierno, Asamblea Legislativa, Corte\n \n Suprema de Justicia y Tribunal Supremo de Elecciones. En caso de\n \n conflicto, decidirá definitivamente el Presidente de la República.\n \n En el proyecto se le asignará al Poder Judicial una suma no menor\n \n del seis por ciento de los ingresos ordinarios calculados para el año\n \n económico. sin embargo, cuando esta suma resultare superior a la\n \n requerida para cubrir las necesidades fundamentales presupuestas por ese\n \n Poder, el departamento mencionado incluirá la diferencia como exceso, con\n \n un plan de inversión nacional, para que la Asamblea Legislativa determine\n \n lo que corresponda.\n \n El Poder Ejecutivo preparará para el año económico respectivo, los\n \n proyectos de presupuesto extraordinarios, a fin de invertir los ingresos\n \n provenientes del uso del crédito público o de cualquier otra fuente\n \n extraordinaria.\"\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Se establece la siguiente disposición transitoria:",
+      "content": "Transitorio (Artículo 177).- El porcentaje a que se refiere el"
+    },
+    {
+      "provision_ref": "art177",
+      "section": "177",
+      "title": "ARTÍCULO 177. para el presupuesto del Poder Judicial se fijará en una suma",
+      "content": "no menor del tres y un cuarto por ciento para el año 1958; en una suma no\n \n menor del cuatro por ciento para el año 1959 y en una suma no menor del\n \n uno por ciento más para cada uno de los años posteriores, hasta alcanzar\n \n el mínimo del seis por ciento indicado.\n \n Ficha articulo \n \nFecha de generación: 22/2/2026 18:11:40"
+    }
+  ],
+  "definitions": []
+}

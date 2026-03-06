@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-31251",
+  "type": "statute",
+  "title": "Municipalidad Puntarenas Administre Servicios Sanitarios",
+  "title_en": "Municipalidad Puntarenas Administre Servicios Sanitarios",
+  "short_name": "Norma 31251",
+  "status": "in_force",
+  "issued_date": "1942-08-10",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=31251",
+  "description": "Official SCIJ legislation text (nValor2=31251).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Treinta días después de la promulgación de la presente",
+      "content": "ley, la Municipalidad del cantón central de la provincia de Puntarenas\n \n tomará nuevamente a su cargo la administración de los servicios sanitarios\n \n de esa localidad.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Deróganse los artículos 1º y 2º de la ley Nº 66 de 14",
+      "content": "de junio de 1938.\n \n Ficha articulo \n \nFecha de generación: 23/2/2026 08:44:09"
+    }
+  ],
+  "definitions": []
+}

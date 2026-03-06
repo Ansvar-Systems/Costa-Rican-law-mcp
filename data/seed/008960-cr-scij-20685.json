@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-20685",
+  "type": "statute",
+  "title": "Ministerio Agricultura ejecutará la Ley Nº 40 de 25 enero 1945 y suReglamento",
+  "title_en": "Ministerio Agricultura ejecutará la Ley Nº 40 de 25 enero 1945 y suReglamento",
+  "short_name": "Norma 20685",
+  "status": "in_force",
+  "issued_date": "1949-06-07",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=20685",
+  "description": "Official SCIJ legislation text (nValor2=20685).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. - Corresponderá al Ministerio de Agricultura e Industrias",
+      "content": "la ejecución de la ley Nº 40 del 25 de enero de 1945 y su Reglamento Nº 32\n \n de 25 de noviembre de 1945.\n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. - Este Decreto-Ley rige desde su publicación.",
+      "content": "Ficha articulo \n \nFecha de generación: 23/2/2026 05:59:45"
+    }
+  ],
+  "definitions": []
+}

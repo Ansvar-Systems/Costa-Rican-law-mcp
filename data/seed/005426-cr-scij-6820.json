@@ -1,0 +1,27 @@
+{
+  "id": "cr-scij-6820",
+  "type": "statute",
+  "title": "Designa sustituto en ausencias del Presidente República",
+  "title_en": "Designa sustituto en ausencias del Presidente República",
+  "short_name": "Norma 6820",
+  "status": "in_force",
+  "issued_date": "1870-10-13",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=6820",
+  "description": "Official SCIJ legislation text (nValor2=6820).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "ARTÍCULO 1. Se designa para ejercer el Poder",
+      "content": "Ejecutivo en las faltas accidentales o absoluta del Jefe nombrado por la\nNación, al Consejero de Estado Señor Don Rafael Barroeta. \n \n Ficha articulo"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "ARTÍCULO 2. -En falta del Consejero nombrado,",
+      "content": "entrarán a ejercer el Poder Ejecutivo, en igual eventualidad, los Gobernadores\nde las Provincias por el orden de la categoría que cada Provincia ocupe, según\nsu población. \n \n \n \n Dado en el Palacio Nacional, San José a los\ntrece días del mes de octubre de mil ochocientos setenta. \n \n \n \n Ficha articulo \n \nFecha de generación: 22/2/2026 11:43:07"
+    }
+  ],
+  "definitions": []
+}

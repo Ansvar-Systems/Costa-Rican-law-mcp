@@ -1,0 +1,33 @@
+{
+  "id": "cr-scij-33214",
+  "type": "statute",
+  "title": "Reforma Ley de Seguros",
+  "title_en": "Reforma Ley de Seguros",
+  "short_name": "Norma 33214",
+  "status": "in_force",
+  "issued_date": "1940-09-19",
+  "in_force_date": "",
+  "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=33214",
+  "description": "Official SCIJ legislation text (nValor2=33214).",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "único",
+      "title": "ARTÍCULO único. -Se derogan los artículos 50 a 71 de la ley N&deg; 11 de 2 de octubre de 1922, y se reemplazan los",
+      "content": "artículos 17 y 43 de la misma ley por los siguientes:"
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "ARTÍCULO 17. -El contrato de seguro, para su validez, debe constar por es",
+      "content": "crito, y\nlo acreditará la\npóliza respectiva. A falta de ella harán fe los libros del Banco\nNacional de Seguros."
+    },
+    {
+      "provision_ref": "art43",
+      "section": "43",
+      "title": "ARTÍCULO 43. -Del producto líquido de cada póliza el Banco Na&shy;cional de",
+      "content": "Seguros retendrá el cinco por ciento, que se destinará a los siguientes : \n \n a)\nSatisfacer las indemnizaciones debidas a las personas que sufrieren lesiones\npor causa del auxilio que prestaren en los trabajos de extinción de\nincendio o de salvamento; o a los herederos de quienes perdieren la vida en\ndichos trabajos; \n \n b)\nDar los salarios correspondientes a dos semanas a los operarios y empleados que\nquedaren sin trabajo por motivo del incendio del taller fábrica,\nedificio o establecimiento donde prestaban sus servicios; \n \n C)\nLa Junta Directiva de Banco oirá y tramitará las reclamaciones\nque se presenten de acuerdo con este artículo, y las resolverá\nequitativamente, según los dictados de su conciencia, con base en las\npruebas&shy; \n \n que se le ofrezcan, y sin ulterior\nrecurso; \n \n d)\nCuando hubiere varios reclamantes se distribuirá entre ellos a prorrata\ny en proporción a sus derechos la suma retenida a consecuencia, del\nsiniestro en que ellos estén interesados; \n \n e)\nLa suma retenida, o su remanente, que no hubiere sido reclamada dentro de los\nseis meses posteriores al incendio, será entregada al asegurado. \n \n \n \n \n \n Casa Presidencial.-San José,\na los diecinueve días del mes de setiembre de mil novecientos cuarenta. \n \n \n \n \n \n \n \n Ficha articulo \n \nFecha de generación: 24/2/2026 06:16:55"
+    }
+  ],
+  "definitions": []
+}
