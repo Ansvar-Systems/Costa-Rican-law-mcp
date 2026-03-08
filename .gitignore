@@ -14,3 +14,5 @@ data/source/*
 data/seed/
 .claude/
 .serena/
+data/database.db-shm
+data/database.db-wal
